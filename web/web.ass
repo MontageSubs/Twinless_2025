@@ -82,13 +82,13 @@ Dialogue: 0,0:03:54.50,0:03:56.78,Default,,0,0,0,,今天有几位新朋友\NI se
 Dialogue: 0,0:03:56.80,0:03:59.86,Default,,0,0,0,,大家来做一个有趣的转圈轮流介绍\Nso I thought it would be fun to go in a circle.
 Dialogue: 0,0:03:59.88,0:04:01.35,Default,,0,0,0,,说出你的名字\NSay your name,
 Dialogue: 0,0:04:01.37,0:04:04.53,Default,,0,0,0,,一个与名字首字相同的食物\Na vegetable that starts with the same first letter
-Dialogue: 0,0:04:04.55,0:04:09.40,Default,,0,0,0,,以及一件你不怀念双胞胎的事\Nand one thing you don't miss about your twin.
+Dialogue: 0,0:04:04.55,0:04:09.40,Default,,0,0,0,,以及一件不怀念你双胞胎的事\Nand one thing you don't miss about your twin.
 Dialogue: 0,0:04:09.42,0:04:12.20,Default,,0,0,0,,我先来 夏洛特 夏威夷果\NCharlotte. Carrot.
 Dialogue: 0,0:04:12.22,0:04:16.77,Default,,0,0,0,,我一点也不怀念夏琳抢我男朋友的事\NI don't miss Claire stealing my boyfriend.
 Dialogue: 0,0:04:16.79,0:04:19.14,Default,,0,0,0,,不 我开玩笑的\NNo, I'm kidding.
 Dialogue: 0,0:04:19.16,0:04:20.84,Default,,0,0,0,,别当真 不会真这样自我介绍的\NI'm kidding. We won't go in a circle.
 Dialogue: 0,0:04:20.86,0:04:23.18,Default,,0,0,0,,但夏琳确实抢过我男朋友\NBut Claire, she really did steal my boyfriend.
-Dialogue: 0,0:04:23.20,0:04:27.83,Default,,0,0,0,,他分不清我们俩 但这也算吧？\NHe couldn't tell us apart. But it still counts, right?
+Dialogue: 0,0:04:23.20,0:04:27.83,Default,,0,0,0,,那男人分不清我们俩 但这也算吧？\NHe couldn't tell us apart. But it still counts, right?
 Dialogue: 0,0:04:30.35,0:04:31.99,Default,,0,0,0,,我怀念她的笑声\NI miss her laugh.
 Dialogue: 0,0:04:33.25,0:04:35.73,Default,,0,0,0,,我们总是一起笑\NWe always laughed together.
 Dialogue: 0,0:04:35.93,0:04:39.82,Default,,0,0,0,,我们还说好要演那段阿伯特和科斯特洛的双簧\NWe talked about doing this Abbott and Costello routine.
@@ -119,7 +119,7 @@ Dialogue: 0,0:06:00.03,0:06:03.53,Default,,0,0,0,,噢 天呐 太难吃了\NOh, m
 Dialogue: 0,0:06:05.59,0:06:06.99,Default,,0,0,0,,你是不是...\NAre you, uh...
 Dialogue: 0,0:06:07.19,0:06:08.96,Default,,0,0,0,,我是啥？\NAm I...?
 Dialogue: 0,0:06:08.99,0:06:12.67,Default,,0,0,0,,你刚才说你喜欢蛋蛋 所以...\NOh, just-- You said you like balls, so...
-Dialogue: 0,0:06:14.01,0:06:16.87,Default,,0,0,0,,我哥哥罗基是同性恋\NRocky, my brother, was gay.
+Dialogue: 0,0:06:14.01,0:06:16.87,Default,,0,0,0,,我哥哥罗基也是同性恋\NRocky, my brother, was gay.
 Dialogue: 0,0:06:18.42,0:06:20.16,Default,,0,0,0,,你那边你兄弟也是吗？\NWas your twin?
 Dialogue: 0,0:06:20.18,0:06:22.65,Default,,0,0,0,,呃...不是\NUm... No.
 Dialogue: 0,0:06:23.44,0:06:24.41,Default,,0,0,0,,好\NRight.
@@ -147,61 +147,60 @@ Dialogue: 0,0:07:21.21,0:07:23.58,Default,,0,0,0,,嗯 知道 我就知道\NYeah.
 Dialogue: 0,0:07:24.55,0:07:25.48,Default,,0,0,0,,好的\NOkay.
 Dialogue: 0,0:07:27.97,0:07:30.12,Default,,0,0,0,,我叫 丹 丹尼斯\NI'm D-- uh, I'm Dennis.
 Dialogue: 0,0:07:30.42,0:07:32.22,Default,,0,0,0,,我叫罗曼\NRoman.
-Dialogue: 0,0:07:39.23,0:07:40.90,Default,,0,0,0,,- 你的双胞胎叫什么名字？ - 你饿了吗？\N- What was your twin's name? - Are you hungry?
-Dialogue: 0,0:07:41.03,0:07:42.60,Default,,0,0,0,,- 抱歉 什么？ - 抱歉 我只是想问问\N- Sorry, what? - Sorry. I was just gonna ask
-Dialogue: 0,0:07:42.73,0:07:44.43,Default,,0,0,0,,如果你喜欢三明治的话\Nif you like sandwiches. Never mind.
-Dialogue: 0,0:07:53.61,0:07:54.81,Default,,0,0,0,,你确定不吃点？\NYou sure you don't want some?
-Dialogue: 0,0:07:54.94,0:07:56.31,Default,,0,0,0,,嗯 不吃了\NMm, I'm okay.
-Dialogue: 0,0:07:56.44,0:07:58.35,Default,,0,0,0,,- 我想起来我吃过了 - 嗯\N- I forgot I already ate. - Mm.
-Dialogue: 0,0:08:04.45,0:08:07.96,Default,,0,0,0,,我不喝含咖啡因的 因为它会影响我\NI don't drink caffeine 'cause it does things to me.
-Dialogue: 0,0:08:08.72,0:08:11.79,Default,,0,0,0,,后来布拉德让我喝茶 花草茶\NThen Brad converted me to tea. Herbal tea.
-Dialogue: 0,0:08:11.93,0:08:14.70,Default,,0,0,0,,布拉德是我在纽约时爱上的那个男人\NBrad was this guy I was in love with back in New York.
-Dialogue: 0,0:08:14.83,0:08:16.60,Default,,0,0,0,,后来有一天我发现了很多下流视频\NThen one day, I found all these goat-fucking videos
-Dialogue: 0,0:08:16.73,0:08:18.53,Default,,0,0,0,,- 在他浏览器的历史记录里 - 哇哦\N- in his browser history. - Whoa.
-Dialogue: 0,0:08:18.67,0:08:20.70,Default,,0,0,0,,为了不起冲突我选择了旁敲侧击\NI tried to get him to confess, but I avoid conflict,
-Dialogue: 0,0:08:20.84,0:08:23.77,Default,,0,0,0,,所以晚餐的时候 我点了山羊奶酪\Nso at dinner, I'd order goat cheese on an entrée,
-Dialogue: 0,0:08:23.90,0:08:29.68,Default,,0,0,0,,还有他吻我脖子的时候 我就装羊咩咩的叫……\Nor one time when he was sucking on my neck, I bleated like...
-Dialogue: 0,0:08:30.81,0:08:34.18,Default,,0,0,0,,看看他会有什么反应 所以我知道他知道我知道\NSee how he'd react. So, I know he knew I knew.
-Dialogue: 0,0:08:34.32,0:08:36.05,Default,,0,0,0,,也许这就是他和我分手的原因吧\NMaybe that's why he broke up with me.
-Dialogue: 0,0:08:36.18,0:08:37.45,Default,,0,0,0,,他跟你分手了？\NHe broke up with you?
-Dialogue: 0,0:08:37.59,0:08:39.45,Default,,0,0,0,,嗯 他是个不错的伴侣啦\NMm. He was the better catch.
-Dialogue: 0,0:08:42.29,0:08:43.79,Default,,0,0,0,,我对罗基的男朋友一无所知\NI don't know anything about Rocky's boyfriends.
-Dialogue: 0,0:08:43.92,0:08:46.23,Default,,0,0,0,,我们没有真正聊起过这些事情\NWe didn't really talk about that stuff.
-Dialogue: 0,0:08:46.36,0:08:48.16,Default,,0,0,0,,你们聊了些什么？\NWhat stuff did you talk about?
+Dialogue: 0,0:07:39.30,0:07:41.05,Default,,0,0,0,,- 你饿吗？ - 你双胞胎叫什么名字？\N- Are you hungry? - What was your twin's name?
+Dialogue: 0,0:07:41.07,0:07:42.71,Default,,0,0,0,,- 抱歉 什么？ - 只是想问你\N- Sorry, what? - Sorry. I was just gonna ask
+Dialogue: 0,0:07:42.73,0:07:44.56,Default,,0,0,0,,喜欢不喜欢三明治 没事\Nif you like sandwiches. Never mind.
+Dialogue: 0,0:07:53.64,0:07:54.92,Default,,0,0,0,,你确定不吃点？\NYou sure you don't want some?
+Dialogue: 0,0:07:54.94,0:07:56.31,Default,,0,0,0,,嗯 不了\NMm, I'm okay.
+Dialogue: 0,0:07:56.53,0:07:58.44,Default,,0,0,0,,- 我想起来吃过了 - 嗯\N- I forgot I already ate. - Mm.
+Dialogue: 0,0:08:04.52,0:08:08.03,Default,,0,0,0,,我不喝咖啡 咖啡因会让我不舒服\NI don't drink caffeine 'cause it does things to me.
+Dialogue: 0,0:08:08.81,0:08:12.12,Default,,0,0,0,,后来布拉德让我改喝茶 花草茶\NThen Brad converted me to tea. Herbal tea.
+Dialogue: 0,0:08:12.14,0:08:14.91,Default,,0,0,0,,布拉德是我在纽约爱过的人\NBrad was this guy I was in love with back in New York.
+Dialogue: 0,0:08:14.94,0:08:16.71,Default,,0,0,0,,有一天我翻他浏览记录\NThen one day, I found all these goat-fucking videos
+Dialogue: 0,0:08:16.73,0:08:18.83,Default,,0,0,0,,- 全是跟羊兽交的视频 - 哇\N- in his browser history. - Whoa.
+Dialogue: 0,0:08:18.86,0:08:21.80,Default,,0,0,0,,我怕冲突 选择了旁敲侧击\NI tried to get him to confess, but I avoid conflict,
+Dialogue: 0,0:08:21.82,0:08:24.61,Default,,0,0,0,,下馆子时我常点羊奶酪\Nso at dinner, I'd order goat cheese on an entrée,
+Dialogue: 0,0:08:24.63,0:08:30.41,Default,,0,0,0,,有次他在我脖子上亲 我学羊咩咩叫...\Nor one time when he was sucking on my neck, I bleated like...
+Dialogue: 0,0:08:30.86,0:08:34.32,Default,,0,0,0,,想看看他什么反应 结果才发现他早看穿了\NSee how he'd react. So, I know he knew I knew.
+Dialogue: 0,0:08:34.35,0:08:36.16,Default,,0,0,0,,可能因此甩了我\NMaybe that's why he broke up with me.
+Dialogue: 0,0:08:36.18,0:08:37.74,Default,,0,0,0,,他甩了你？\NHe broke up with you?
+Dialogue: 0,0:08:37.76,0:08:39.62,Default,,0,0,0,,嗯 我配不上他\NMm. He was the better catch.
+Dialogue: 0,0:08:42.30,0:08:43.90,Default,,0,0,0,,我对罗基的男友一无所知\NI don't know anything about Rocky's boyfriends.
+Dialogue: 0,0:08:43.92,0:08:46.37,Default,,0,0,0,,我们没聊过那类话题\NWe didn't really talk about that stuff.
+Dialogue: 0,0:08:46.39,0:08:48.19,Default,,0,0,0,,你们都聊什么？\NWhat stuff did you talk about?
 Dialogue: 0,0:08:49.50,0:08:50.53,Default,,0,0,0,,袜子\NSocks.
-Dialogue: 0,0:08:51.17,0:08:54.47,Default,,0,0,0,,- 袜子？- 我所有的袜子都有洞\N- Socks? - I get holes in all my socks.
-Dialogue: 0,0:08:54.60,0:08:57.20,Default,,0,0,0,,我觉得是因为我经常忘记剪脚趾甲\NI think it's 'cause I forget to cut my toenails.
-Dialogue: 0,0:08:57.34,0:08:59.67,Default,,0,0,0,,罗基则觉得是因为我的东西都是在沃尔玛买的\NRocky thinks it's 'cause I shop at Walmart.
-Dialogue: 0,0:09:01.68,0:09:03.51,Default,,0,0,0,,那是我们最后一次聊天\NThat was our last conversation.
-Dialogue: 0,0:09:05.78,0:09:06.98,Default,,0,0,0,,对不起\NI'm sorry.
-Dialogue: 0,0:09:07.11,0:09:08.35,Default,,0,0,0,,又不是你的错\NNot your fault.
-Dialogue: 0,0:09:18.16,0:09:19.76,Default,,0,0,0,,你和你哥一起住吗？\NSo, did you live with your brother?
-Dialogue: 0,0:09:20.36,0:09:23.16,Default,,0,0,0,,呃 不是 上大学时候是\NUh, no. Yeah, in college.
-Dialogue: 0,0:09:23.30,0:09:26.67,Default,,0,0,0,,罗基女士去上大学了 我则留在了莫斯科\NMm. Rocky went to college. I stayed in Moscow.
-Dialogue: 0,0:09:27.40,0:09:28.74,Default,,0,0,0,,莫斯科 爱达荷州？\NMoscow, Idaho?
-Dialogue: 0,0:09:29.30,0:09:30.77,Default,,0,0,0,,还有另一个吗？\NYou know another one?
-Dialogue: 0,0:09:31.67,0:09:33.24,Default,,0,0,0,,另一个莫斯科？\NAnother Moscow?
-Dialogue: 0,0:09:35.24,0:09:38.11,Default,,0,0,0,,我需要离开我妈妈的地下室\NI need to get out of my mom's basement.
-Dialogue: 0,0:09:38.25,0:09:40.28,Default,,0,0,0,,她开始向我收租金了\NShe started charging me rent.
-Dialogue: 0,0:09:40.41,0:09:42.45,Default,,0,0,0,,嗯 她怎么收？\NHmm. And how's she taking it?
-Dialogue: 0,0:09:42.58,0:09:43.85,Default,,0,0,0,,现金\NCash.
-Dialogue: 0,0:09:46.32,0:09:47.76,Default,,0,0,0,,她人怎么样？\NHow is she feeling?
-Dialogue: 0,0:09:47.89,0:09:49.46,Default,,0,0,0,,她脑子很不正常\NShe's a nut bucket.
-Dialogue: 0,0:09:49.99,0:09:52.53,Default,,0,0,0,,她更喜欢罗基 所以…\NRocky was her favorite, so...
-Dialogue: 0,0:09:52.66,0:09:55.46,Default,,0,0,0,,嗯 也没人喜欢我\NMm. I'm nobody's favorite.
-Dialogue: 0,0:09:56.26,0:09:58.53,Default,,0,0,0,,我觉得当个双胞胎太难了\NFeel like being a twin kind of fucked me.
-Dialogue: 0,0:09:59.50,0:10:02.80,Default,,0,0,0,,小时候我从来都是自己一个人玩 你懂吧？但现在…\NI never needed anyone else as a kid, you know, but now...
-Dialogue: 0,0:10:03.90,0:10:06.77,Default,,0,0,0,,感觉我连跟餐具交朋友都会搞砸\Nfeel like I can't make friends with a fork.
-Dialogue: 0,0:10:08.01,0:10:09.71,Default,,0,0,0,,一周见一两次面太少了\NOnce, twice a week's not enough.
-Dialogue: 0,0:10:09.84,0:10:12.55,Default,,0,0,0,,我想有个人可以一直黏着 我…我太孤独了\NI want to hang out all the time. I'm-I'm too needy.
-Dialogue: 0,0:10:13.55,0:10:15.32,Default,,0,0,0,,我讨厌做什么都一个人\NI hate doing things alone.
-Dialogue: 0,0:10:15.45,0:10:18.09,Default,,0,0,0,,洗衣 做饭 取快递\NCooking meals, opening mail,
-Dialogue: 0,0:10:18.22,0:10:19.45,Default,,0,0,0,,- 收衣物  - 对\N- folding laundry. - Yeah.
-Dialogue: 0,0:10:19.59,0:10:21.16,Default,,0,0,0,,两个人一起做肯定快些\NSo much faster with two people.
-Dialogue: 0,0:10:21.29,0:10:22.42,Default,,0,0,0,,是吧？ 老实说\NRight? I mean, honestly,
-Dialogue: 0,0:10:22.56,0:10:23.76,Default,,0,0,0,,我觉得发明床笠的人\Nwhoever invented the fitted sheet
-Dialogue: 0,0:10:23.89,0:10:25.89,Default,,0,0,0,,应该拉出来狠狠地抽一顿\Nshould be flagellated. And not the fun kind.
-Dialogue: 0,0:10:29.10,0:10:30.30,Default,,0,0,0,,你懂我意思的\NYou get me.
+Dialogue: 0,0:08:51.17,0:08:54.58,Default,,0,0,0,,- 袜子？- 我袜子老破洞\N- Socks? - I get holes in all my socks.
+Dialogue: 0,0:08:54.60,0:08:57.37,Default,,0,0,0,,我觉得是忘剪脚趾甲的缘故\NI think it's 'cause I forget to cut my toenails.
+Dialogue: 0,0:08:57.39,0:09:00.70,Default,,0,0,0,,罗基却说是因为我老买地摊货\NRocky thinks it's 'cause I shop at Walmart.
+Dialogue: 0,0:09:01.68,0:09:04.02,Default,,0,0,0,,那是我们间最后一次聊天\NThat was our last conversation.
+Dialogue: 0,0:09:05.81,0:09:07.12,Default,,0,0,0,,对不起\NI'm sorry.
+Dialogue: 0,0:09:07.14,0:09:08.62,Default,,0,0,0,,又不是你的错\NNot your fault.
+Dialogue: 0,0:09:18.37,0:09:20.37,Default,,0,0,0,,你跟你兄弟住一起吗？\NSo, did you live with your brother?
+Dialogue: 0,0:09:20.39,0:09:23.27,Default,,0,0,0,,呃 没有 有 大学时是\NUh, no. Yeah, in college.
+Dialogue: 0,0:09:23.29,0:09:27.08,Default,,0,0,0,,罗基上大学了 我则留在了莫斯科\NMm. Rocky went to college. I stayed in Moscow.
+Dialogue: 0,0:09:27.46,0:09:29.29,Default,,0,0,0,,爱达荷州的莫斯科？\NMoscow, Idaho?
+Dialogue: 0,0:09:29.31,0:09:31.23,Default,,0,0,0,,要不然呢？\NYou know another one?
+Dialogue: 0,0:09:31.78,0:09:34.03,Default,,0,0,0,,另一个莫斯科？\NAnother Moscow?
+Dialogue: 0,0:09:35.24,0:09:38.23,Default,,0,0,0,,后来我得搬出我妈的地下室\NI need to get out of my mom's basement.
+Dialogue: 0,0:09:38.25,0:09:40.49,Default,,0,0,0,,她居然开始向我收房租\NShe started charging me rent.
+Dialogue: 0,0:09:40.52,0:09:42.94,Default,,0,0,0,,她怎么收？\NHmm. And how's she taking it?
+Dialogue: 0,0:09:42.97,0:09:44.87,Default,,0,0,0,,现金\NCash.
+Dialogue: 0,0:09:46.31,0:09:47.97,Default,,0,0,0,,她心里怎么想？\NHow is she feeling?
+Dialogue: 0,0:09:48.00,0:09:50.00,Default,,0,0,0,,她心理有毛病\NShe's a nut bucket.
+Dialogue: 0,0:09:50.02,0:09:52.56,Default,,0,0,0,,她最宠罗基 所以…\NRocky was her favorite, so...
+Dialogue: 0,0:09:52.94,0:09:55.74,Default,,0,0,0,,嗯 我也没人宠\NMm. I'm nobody's favorite.
+Dialogue: 0,0:09:56.44,0:09:59.23,Default,,0,0,0,,做双胞胎真让我吃亏\NFeel like being a twin kind of fucked me.
+Dialogue: 0,0:09:59.53,0:10:02.83,Default,,0,0,0,,小时候我就喜欢单干...\NI never needed anyone else as a kid, you know, but now...
+Dialogue: 0,0:10:03.90,0:10:07.89,Default,,0,0,0,,现在感觉跟筷子处都要被甩\Nfeel like I can't make friends with a fork.
+Dialogue: 0,0:10:08.05,0:10:09.82,Default,,0,0,0,,每周见一两次都太少了\NOnce, twice a week's not enough.
+Dialogue: 0,0:10:09.84,0:10:13.43,Default,,0,0,0,,我想一直有人陪 我 我太需要陪伴了\NI want to hang out all the time. I'm-I'm too needy.
+Dialogue: 0,0:10:13.55,0:10:15.48,Default,,0,0,0,,我也讨厌做什么都一个人\NI hate doing things alone.
+Dialogue: 0,0:10:15.50,0:10:19.16,Default,,0,0,0,,独自做饭 独自拆信 独自收衣服\NCooking meals, opening mail, folding laundry.
+Dialogue: 0,0:10:19.18,0:10:21.42,Default,,0,0,0,,对 两人做事 事半功倍\NYeah. So much faster with two people.
+Dialogue: 0,0:10:21.45,0:10:22.58,Default,,0,0,0,,可不是吗 老实说\NRight? I mean, honestly,
+Dialogue: 0,0:10:22.60,0:10:24.13,Default,,0,0,0,,发明床笠的人\Nwhoever invented the fitted sheet
+Dialogue: 0,0:10:24.16,0:10:26.42,Default,,0,0,0,,真该挨打 狠狠地打\Nshould be flagellated. And not the fun kind.
+Dialogue: 0,0:10:29.19,0:10:30.39,Default,,0,0,0,,你懂我\NYou get me.
 Dialogue: 0,0:10:51.85,0:10:52.82,Default,,0,0,0,,罗基！\NRocky!
 Dialogue: 0,0:10:53.79,0:10:57.26,Default,,0,0,0,,好久没见了 你还好吗？剪头发了吗？\NLong time no see. How are you? Did you get a haircut?
 Dialogue: 0,0:10:57.39,0:10:59.16,Default,,0,0,0,,嗯 嗯 ​​是的\NOh. Uh, yeah.
