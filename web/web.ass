@@ -11,23 +11,19 @@ PlayResY: 1034
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
+Last Style Storage: Default
 Audio File: ../../../../Volumes/MD_Hub_2.0/torrent/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies.mkv
 Video File: ../../../../Volumes/MD_Hub_2.0/torrent/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies.mkv
 Video AR Mode: 4
 Video AR Value: 1.856867
 Video Zoom Percent: 0.875000
-Scroll Position: 1103
-Active Line: 1113
-Video Position: 96028
+Scroll Position: 1111
+Active Line: 1116
+Video Position: 96132
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 中英双语,Microsoft YaHei,20,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,0,0,0,0,100,100,0,0,1,0.2,0.2,2,5,5,5,134
-Style: 原文字幕,Calibri,55,&H00027CCF,&H00000000,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,25,25,17,1
-Style: 中文,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
-Style: 英文,Calibri,55,&H00027CCF,&H00000000,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,2,25,25,17,1
-Style: 属名,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Default,Microsoft YaHei,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
+Style: Default,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1104,7 +1100,7 @@ Dialogue: 0,1:04:19.93,1:04:22.73,Default,,0,0,0,,她说我其实是想用她去
 Dialogue: 0,1:04:44.62,1:04:46.42,Default,,0,0,0,,- 丹尼斯 - 要不你接一下吧\N- Dennis. - Maybe you should get it.
 Dialogue: 0,1:04:46.55,1:04:48.59,Default,,0,0,0,,都打第三次了 说不定真有急事\NIt's the third time. It could be an emergency!
 Dialogue: 0,1:04:50.06,1:04:52.06,Default,,0,0,0,,天哪 要命\NOh, my God. Shit.
-Dialogue: 0,1:04:55.46,1:04:57.77,Default,,0,0,0,,嘿 哥们 这么晚了 一切都好吗？\NHey, buddy, it's late. Everything okay?
+Dialogue: 0,1:04:55.46,1:04:57.77,Default,,0,0,0,,嘿 哥们 这么晚了 有什么事？\NHey, buddy, it's late. Everything okay?
 Dialogue: 0,1:04:57.93,1:04:59.53,Default,,0,0,0,,是啊 抱歉 吵醒你了吗？\NYeah, sorry. Did I wake you?
 Dialogue: 0,1:04:59.67,1:05:01.54,Default,,0,0,0,,没干嘛 和玛西待在一起\NNo, no. Just, uh, hanging with Marcie.
 Dialogue: 0,1:05:01.67,1:05:03.67,Default,,0,0,0,,哦 对 玛西 她可真离不开你\NOh, right, Marcie. So needy.
@@ -1144,10 +1140,10 @@ Dialogue: 0,1:06:37.00,1:06:38.67,Default,,0,0,0,,因为这就是事实  \NBecau
 Dialogue: 0,1:06:38.80,1:06:40.77,Default,,0,0,0,,这根本不是他想要的  绝对不是  \NIt's not what he wanted! It's not fucking what he wanted!
 Dialogue: 0,1:06:40.90,1:06:42.80,Default,,0,0,0,,你怎么会知道  别一副什么都懂的样子  \NYou don't know that. You don't know everything.
 Dialogue: 0,1:06:42.94,1:06:45.01,Default,,0,0,0,,我当然知道  所有认识他的人都清楚  \NYes, I do! Everybody who fucking knew him knew that!
-Dialogue: 0,1:06:45.14,1:06:46.14,Default,,0,0,0,,少摆出一副全都明白的样子  \NYou don't know everything.
-Dialogue: 0,1:06:46.27,1:06:47.47,Default,,0,0,0,,你们晚餐时想喝点酒吗？\NDo you guys want wine with dinner?
-Dialogue: 0,1:06:47.61,1:06:49.34,Default,,0,0,0,,- 酒不错  - 是的 谢谢\N- Wine's good. - Yes, thank you.
-Dialogue: 0,1:06:49.48,1:06:52.98,Default,,0,0,0,,爱达荷……他妈甚至都没在这里住过十年！\NIdaho... Hasn't even fucking lived here for ten years!
+Dialogue: 0,1:06:45.14,1:06:46.14,Default,,0,0,0,,少摆出一副什么都知道的样子  \NYou don't know everything.
+Dialogue: 0,1:06:46.27,1:06:47.47,Default,,0,0,0,,晚饭要不要开瓶酒？\NDo you guys want wine with dinner?
+Dialogue: 0,1:06:47.61,1:06:49.34,Default,,0,0,0,,- 可以啊  - 好的 谢谢\N- Wine's good. - Yes, thank you.
+Dialogue: 0,1:06:49.48,1:06:52.98,Default,,0,0,0,,爱达荷……这十年他妈的根本就没在这住过\NIdaho... Hasn't even fucking lived here for ten years!
 Dialogue: 0,1:06:55.52,1:06:57.55,Default,,0,0,0,,你认为我太刻薄了吗？\NDo you think I was being too mean?
 Dialogue: 0,1:06:58.99,1:07:01.39,Default,,0,0,0,,我想你们俩都很悲伤\NI think you're both grieving.
 Dialogue: 0,1:07:03.93,1:07:05.86,Default,,0,0,0,,嗯 嘿 没关系\NHmm, hey, it's all right.
