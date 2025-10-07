@@ -107,7 +107,7 @@ No, do not put me on hold!
 
 23
 00:02:38,060 --> 00:02:40,410
-- 这些要不要？ - 我... 妈 别问了
+- 这些要不要？ - 我...妈 别问了
 - Do you want these? - I-- Mom, please.
 
 24
@@ -147,7 +147,7 @@ but if you wanna keep everything--
 
 31
 00:02:54,190 --> 00:02:55,760
-- 为什么？ - 我明天就走人了
+- 为什么？ - 明天我就走人了
 - Why?  - Because I'm going back tomorrow.
 
 32
