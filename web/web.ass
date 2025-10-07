@@ -197,30 +197,30 @@ Dialogue: 0,0:10:09.84,0:10:13.43,Default,,0,0,0,,我想一直有人陪 我 我�
 Dialogue: 0,0:10:13.55,0:10:15.48,Default,,0,0,0,,我也讨厌做什么都一个人\NI hate doing things alone.
 Dialogue: 0,0:10:15.50,0:10:19.16,Default,,0,0,0,,独自做饭 独自拆信 独自收衣服\NCooking meals, opening mail, folding laundry.
 Dialogue: 0,0:10:19.18,0:10:21.42,Default,,0,0,0,,对 两人做事 事半功倍\NYeah. So much faster with two people.
-Dialogue: 0,0:10:21.45,0:10:22.58,Default,,0,0,0,,可不是吗 老实说\NRight? I mean, honestly,
-Dialogue: 0,0:10:22.60,0:10:24.13,Default,,0,0,0,,发明床笠的人\Nwhoever invented the fitted sheet
-Dialogue: 0,0:10:24.16,0:10:26.42,Default,,0,0,0,,真该挨打 狠狠地打\Nshould be flagellated. And not the fun kind.
+Dialogue: 0,0:10:21.45,0:10:24.14,Default,,0,0,0,,可不是吗 老实说 发明床笠的人\NRight? I mean, honestly, whoever invented the fitted sheet
+Dialogue: 0,0:10:24.16,0:10:27.15,Default,,0,0,0,,真该挨揍 狠狠地打\Nshould be flagellated. And not the fun kind.
 Dialogue: 0,0:10:29.19,0:10:30.39,Default,,0,0,0,,你懂我\NYou get me.
-Dialogue: 0,0:10:51.85,0:10:52.82,Default,,0,0,0,,罗基！\NRocky!
-Dialogue: 0,0:10:53.79,0:10:57.26,Default,,0,0,0,,好久没见了 你还好吗？剪头发了吗？\NLong time no see. How are you? Did you get a haircut?
-Dialogue: 0,0:10:57.39,0:10:59.16,Default,,0,0,0,,嗯 嗯 ​​是的\NOh. Uh, yeah.
-Dialogue: 0,0:10:59.29,0:11:00.60,Default,,0,0,0,,这太巧了\NThis is so random.
-Dialogue: 0,0:11:00.73,0:11:02.86,Default,,0,0,0,,前几天我还想起你来的\NI was literally thinking about you the other day.
-Dialogue: 0,0:11:03.00,0:11:05.63,Default,,0,0,0,,我读到一篇文章 说日语里有一个词\NI was reading an article about how there's a Japanese word
-Dialogue: 0,0:11:05.77,0:11:07.47,Default,,0,0,0,,说那些在公寓里死去的人…\Nfor people who die in their apartments...
-Dialogue: 0,0:11:07.60,0:11:09.44,Default,,0,0,0,,- 嗯 - …死后很久\N- Mm. - ...and it takes a long time
-Dialogue: 0,0:11:09.57,0:11:12.01,Default,,0,0,0,,甚至几年才被发现\Nfor anyone to find the body-- Years even.
-Dialogue: 0,0:11:12.14,0:11:13.47,Default,,0,0,0,,大多是老人\NOld men mostly.
-Dialogue: 0,0:11:13.61,0:11:15.88,Default,,0,0,0,,是个很糟的社会问题\NIt's like a big problem over there.
-Dialogue: 0,0:11:16.01,0:11:17.28,Default,,0,0,0,,啊 是很糟\NAh, that's awful.
-Dialogue: 0,0:11:17.41,0:11:18.38,Default,,0,0,0,,是吧？\NIsn't it?
-Dialogue: 0,0:11:19.11,0:11:21.05,Default,,0,0,0,,反正呢 我想你知道这个\NAnyway, I figured you knew this already
-Dialogue: 0,0:11:21.18,0:11:24.15,Default,,0,0,0,,因为你以前在东京住过 是吧？\Nbecause you used to live in Tokyo, right?
-Dialogue: 0,0:11:24.29,0:11:25.32,Default,,0,0,0,,对 是的\NRight. Yeah.
-Dialogue: 0,0:11:25.45,0:11:27.62,Default,,0,0,0,,是啊 这个词是怎么说来着？\NYeah, what is the word again?
-Dialogue: 0,0:11:28.19,0:11:29.82,Default,,0,0,0,,哦 呃…\NOh, uh...
-Dialogue: 0,0:11:31.69,0:11:33.56,Default,,0,0,0,,“阿什托阿图什”\N"Ahtoatushi."
-Dialogue: 0,0:11:36.03,0:11:37.57,Default,,0,0,0,,好像不是这个\NThat doesn't sound right.
+Dialogue: 0,0:10:51.85,0:10:53.18,Default,,0,0,0,,罗基！\NRocky!
+Dialogue: 0,0:10:53.79,0:10:57.44,Default,,0,0,0,,好久不见 近来可好？剪头发啦？\NLong time no see. How are you? Did you get a haircut?
+Dialogue: 0,0:10:57.47,0:10:59.33,Default,,0,0,0,,哦 呃 是啊\NOh. Uh, yeah.
+Dialogue: 0,0:10:59.36,0:11:00.67,Default,,0,0,0,,太巧了\NThis is so random.
+Dialogue: 0,0:11:00.69,0:11:03.01,Default,,0,0,0,,我前阵子还在想你\NI was literally thinking about you the other day.
+Dialogue: 0,0:11:03.03,0:11:05.75,Default,,0,0,0,,看到篇文章 说日语里有个词\NI was reading an article about how there's a Japanese word
+Dialogue: 0,0:11:05.77,0:11:07.89,Default,,0,0,0,,专门形容那种死在自己屋里...\Nfor people who die in their apartments...
+Dialogue: 0,0:11:07.92,0:11:09.77,Default,,0,0,0,,…好久才被发现的人\N...and it takes a long time
+Dialogue: 0,0:11:09.79,0:11:12.21,Default,,0,0,0,,甚至好几年\Nfor anyone to find the body-- Years even.
+Dialogue: 0,0:11:12.23,0:11:13.62,Default,,0,0,0,,大多是老人\NOld men mostly.
+Dialogue: 0,0:11:13.64,0:11:15.99,Default,,0,0,0,,这在日本算个大问题\NIt's like a big problem over there.
+Dialogue: 0,0:11:16.01,0:11:17.51,Default,,0,0,0,,啊 太惨了\NAh, that's awful.
+Dialogue: 0,0:11:17.54,0:11:18.77,Default,,0,0,0,,对吧\NIsn't it?
+Dialogue: 0,0:11:19.18,0:11:21.16,Default,,0,0,0,,你肯定早知道了\NAnyway, I figured you knew this already
+Dialogue: 0,0:11:21.18,0:11:24.27,Default,,0,0,0,,你以前在东京待过 对吧\Nbecause you used to live in Tokyo, right?
+Dialogue: 0,0:11:24.29,0:11:25.43,Default,,0,0,0,,对 嗯\NRight. Yeah.
+Dialogue: 0,0:11:25.45,0:11:28.17,Default,,0,0,0,,嗯 那词叫什么来着？\NYeah, what is the word again?
+Dialogue: 0,0:11:28.25,0:11:29.88,Default,,0,0,0,,哦 呃…\NOh, uh...
+Dialogue: 0,0:11:31.76,0:11:33.63,Default,,0,0,0,,“阿托图西”\N"Ahtoatushi."
+Dialogue: 0,0:11:33.65,0:11:36.00,Default,,0,0,0,,{\an9}【要不要加这个译者注释我没有想好，待交流--小p】\N【阿托图西：被误认后瞎编 应为可多库西（孤独死） 】
+Dialogue: 0,0:11:36.02,0:11:37.56,Default,,0,0,0,,不对吧  【小p精翻至此/Walker初译至此，请在之后翻译】\NThat doesn't sound right.
 Dialogue: 0,0:12:06.86,0:12:07.93,Default,,0,0,0,,你好？\NHello?
 Dialogue: 0,0:12:08.06,0:12:10.40,Default,,0,0,0,,嘿 我是罗曼\NHey. It's Roman.
 Dialogue: 0,0:12:10.97,0:12:12.60,Default,,0,0,0,,你想和我一起去买杂货吗？\NDo you wanna get groceries with me?
