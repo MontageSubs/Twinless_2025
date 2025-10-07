@@ -23,22 +23,22 @@ jobs:
       - name: Get last commit info for web/web.srt
         id: last_commit
         run: |
-          # 找到最近修改 web/web.srt 的提交（本次 push 的提交）
-          # 尝试获取推送的 HEAD commit 的 message，若失败回退到最近修改该文件的提交
-          HEAD_SHA="${{ github.sha }}"
-          # 如果 github.event.head_commit 存在，优先用它
-          if [ -n "${GITHUB_EVENT_HEAD_COMMIT:-}" ]; then
-            echo "using head commit from event"
-          fi
-          # 取得最近修改该路径的提交信息（subject + body）
-          LAST_COMMIT_MSG=$(git log -n 1 --pretty=format:%B -- web/web.srt || true)
+          FILE=web/web.srt
+
+          # 尝试获取最近修改该文件的完整提交信息 (subject + body)
+          LAST_COMMIT_MSG=$(git log -n 1 --pretty=format:%B -- "$FILE" || true)
           if [ -z "$LAST_COMMIT_MSG" ]; then
             LAST_COMMIT_MSG="Normalize line endings in web/web.srt"
           fi
-          # 也导出原作者名字和邮箱以便记录在 outputs（仅信息性）
-          LAST_AUTHOR_NAME=$(git log -n 1 --pretty=format:%an -- web/web.srt || echo "GitHub Actions")
-          LAST_AUTHOR_EMAIL=$(git log -n 1 --pretty=format:%ae -- web/web.srt || echo "actions@github.com")
-          echo "::set-output name=message::${LAST_COMMIT_MSG}"
+          # 将完整 message 写入文件，避免通过 outputs 传递多行文本
+          echo "$LAST_COMMIT_MSG" > commit_message.txt
+
+          # 获取最后修改该文件的作者信息（name/email）
+          LAST_AUTHOR_NAME=$(git log -n 1 --pretty=format:%an -- "$FILE" || echo "GitHub Actions")
+          LAST_AUTHOR_EMAIL=$(git log -n 1 --pretty=format:%ae -- "$FILE" || echo "actions@github.com")
+
+          # 导出信息（注意：message 写入文件，输出只传递文件名）
+          echo "::set-output name=message_file::commit_message.txt"
           echo "::set-output name=author_name::${LAST_AUTHOR_NAME}"
           echo "::set-output name=author_email::${LAST_AUTHOR_EMAIL}"
 
@@ -52,40 +52,41 @@ jobs:
             exit 0
           fi
 
-          # 检查是否存在 CRLF（\r\n）
+          # 检查是否存在 CRLF (\r\n 或 \r)
           if grep -q $'\r' "$FILE"; then
-            echo "found_crlf=true"
-            # 备份原始文件编码并替换 CRLF -> LF
-            # 使用 perl 兼容处理任意二进制
-            perl -0777 -pe 's/\r\n/\n/g' "$FILE" > "${FILE}.normalized"
+            # 将 CRLF 和孤立 CR 转为 LF
+            # 使用 perl 处理整个文件（-0777 使其以单个字符串处理）
+            perl -0777 -pe 's/\r\n/\n/g; s/\r/\n/g' "$FILE" > "${FILE}.normalized"
             mv "${FILE}.normalized" "$FILE"
             git add "$FILE"
             echo "changed=true" >> $GITHUB_OUTPUT
           else
-            echo "found_crlf=false"
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit and force-push if changed
         if: steps.check.outputs.changed == 'true'
         env:
-          GIT_AUTHOR_NAME: ${{ steps.last_commit.outputs.author_name }}
-          GIT_AUTHOR_EMAIL: ${{ steps.last_commit.outputs.author_email }}
-          COMMIT_MESSAGE: ${{ steps.last_commit.outputs.message }}
+          MESSAGE_FILE: ${{ steps.last_commit.outputs.message_file }}
+          ORIGINAL_AUTHOR_NAME: ${{ steps.last_commit.outputs.author_name }}
+          ORIGINAL_AUTHOR_EMAIL: ${{ steps.last_commit.outputs.author_email }}
         run: |
-          # 配置 git 用户（作者使用原始提交的作者信息，committer 为 actions bot）
-          git config user.name "${GIT_AUTHOR_NAME}"
-          git config user.email "${GIT_AUTHOR_EMAIL}"
+          FILE=web/web.srt
 
-          # 使用原始提交信息（保持换行、body 等）
-          git commit -m "$COMMIT_MESSAGE" -- web/web.srt || {
-            echo "commit failed or nothing to commit"
+          # 配置 committer（可用 actions bot）
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 使用原作者作为 author，并用 -F 指定包含完整 message 的文件（保留 subject + body）
+          if [ ! -f "${MESSAGE_FILE}" ]; then
+            echo "Message file ${MESSAGE_FILE} not found, aborting."
             exit 1
-          }
+          fi
 
-          # 强制推送当前分支（覆盖远端）
-          # 取得当前分支名
+          GIT_AUTHOR_NAME="${ORIGINAL_AUTHOR_NAME}" GIT_AUTHOR_EMAIL="${ORIGINAL_AUTHOR_EMAIL}" \
+            git commit -F "${MESSAGE_FILE}" -- "$FILE" || { echo "commit failed or nothing to commit"; exit 1; }
+
+          # 强制推送当前分支以覆盖远端（risky）
           BRANCH="${GITHUB_REF#refs/heads/}"
-          # 使用 token 推送
           git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" "HEAD:${BRANCH}" --force
 
