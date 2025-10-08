@@ -889,56 +889,58 @@ Dialogue: 0,0:53:52.12,0:53:53.86,Default,,0,0,0,,{\an1}多谢你的邀请\NThan
 Dialogue: 0,0:53:54.14,0:53:57.88,Default,,0,0,0,,{\an3}我根本不知道自己还能承受多少！\NI don't know my limits!
 Dialogue: 0,0:53:57.91,0:54:00.31,Default,,0,0,0,,{\an3}比如 今年你干过最疯狂的事？\NLike, what's the wildest thing you did this year?
 Dialogue: 0,0:54:02.09,0:54:03.93,Default,,0,0,0,,{\an3}这可想不起来\NNothing comes to mind. Um...
-Dialogue: 0,0:54:05.01,0:54:06.79,Default,,0,0,0,,{\an3}当陪审员\NJury duty. Or I almost--
+Dialogue: 0,0:54:05.01,0:54:06.79,Default,,0,0,0,,{\an3}当陪审员吧\NJury duty. Or I almost--
 Dialogue: 0,0:54:06.81,0:54:09.25,Default,,0,0,0,,{\an3}但有利益冲突 没被选上\NI had a conflict, so they didn't pick me.
 Dialogue: 0,0:54:12.69,0:54:14.59,Default,,0,0,0,,{\an3}你挺可爱的\NYou're cute.
-Dialogue: 0,0:54:20.19,0:54:21.96,Default,,0,0,0,,哦 你竟然从没玩过最早的《模拟人生》？\NOh, you never played the original Sims?
-Dialogue: 0,0:54:22.10,0:54:23.63,Default,,0,0,0,,天啊 那可是最好玩的游戏\NOh, man, it's the best.
-Dialogue: 0,0:54:23.77,0:54:25.60,Default,,0,0,0,,其实 很多人不知道它还挺难\NActually, a lot of people don't realize it was really hard.
-Dialogue: 0,0:54:25.73,0:54:27.14,Default,,0,0,0,,因为没有周末\N'Cause you don't get weekends,
-Dialogue: 0,0:54:27.27,0:54:28.94,Default,,0,0,0,,所以整天都得上班\Nso you have to spend all your time going to work,
-Dialogue: 0,0:54:29.07,0:54:31.14,Default,,0,0,0,,睡觉 洗澡 打扫 做饭\Ngoing to sleep, showering, cleaning, cooking,
-Dialogue: 0,0:54:31.27,0:54:33.71,Default,,0,0,0,,拉屎 你懂吧\Npooping, you know? Sorry.
-Dialogue: 0,0:54:33.84,0:54:35.81,Default,,0,0,0,,你真的得照顾他们的需求\NBut, yeah, you really have to tend to their needs,
-Dialogue: 0,0:54:35.94,0:54:37.95,Default,,0,0,0,,因为 他们会立马给你脸色看\N'cause, um, they'll let you know about it.
-Dialogue: 0,0:54:38.08,0:54:39.45,Default,,0,0,0,,他们会变得很暴躁\NThey get very cranky.
-Dialogue: 0,0:54:39.58,0:54:42.42,Default,,0,0,0,,甚至会尿裤子\NUm, they'll pee their pants.
-Dialogue: 0,0:54:42.55,0:54:45.99,Default,,0,0,0,,还会陷入严重的抑郁\NThey'll, uh, get very depressed, actually.
-Dialogue: 0,0:54:46.12,0:54:47.29,Default,,0,0,0,,对 真的会抑郁\NThey can get depressed.
-Dialogue: 0,0:54:47.42,0:54:49.26,Default,,0,0,0,,哦 哇 我……\NOh. Wow. I...
-Dialogue: 0,0:54:49.96,0:54:51.76,Default,,0,0,0,,我还一直以为只是个无聊游戏\NI always just thought it was a silly game
-Dialogue: 0,0:54:51.89,0:54:54.10,Default,,0,0,0,,- 里面人说着乱七八糟的语言  - 不不不\Nwhere they talk gibberish.No, no, no.
-Dialogue: 0,0:54:54.23,0:54:57.40,Default,,0,0,0,,这可不是闹着玩的 就跟拼命似的\NThere's stakes. Yeah. It's life or death out there.
-Dialogue: 0,0:54:57.53,0:54:59.80,Default,,0,0,0,,[模拟语：游戏《模拟人生》里的人物虚拟语言]\N而且那不是瞎说话 是模拟语\NAnd it's actually not gibberish. It's Simlish.
-Dialogue: 0,0:55:00.54,0:55:02.34,Default,,0,0,0,,就像一门独立的语言\NIt's like it's whole own language.
-Dialogue: 0,0:55:02.34,0:55:05.34,Default,,0,0,0,,咕吉嘎嘿 啊赖哩咯【模拟语】\Ngugi gahe a lie lilo bahao bahao wa... [Simlish]
-Dialogue: 0,0:55:09.54,0:55:11.51,Default,,0,0,0,,对不起\NSorry.
-Dialogue: 0,0:55:11.65,0:55:13.25,Default,,0,0,0,,太蠢了\NSorry. That's dumb.
-Dialogue: 0,0:55:14.28,0:55:16.42,Default,,0,0,0,,不 挺可爱的\NNo, it's really sweet.
-Dialogue: 0,0:55:16.55,0:55:18.69,Default,,0,0,0,,这是我小时候最喜欢的游戏\NIt was just my favorite game when I was a kid.
-Dialogue: 0,0:55:19.72,0:55:21.16,Default,,0,0,0,,我有个双胞胎哥哥\NI have a twin brother.
-Dialogue: 0,0:55:21.29,0:55:24.16,Default,,0,0,0,,我们玩的入迷 常常一玩\NWe were obsessed with it, so we just would play it
-Dialogue: 0,0:55:24.29,0:55:25.79,Default,,0,0,0,,就是好几个小时\Nfor hours together.
-Dialogue: 0,0:55:25.96,0:55:29.53,Default,,0,0,0,,现实里的时间 不是游戏里的那种\NReal hours, not Sims hours. Yeah.
-Dialogue: 0,0:55:29.66,0:55:31.50,Default,,0,0,0,,我总觉得 长大以后生活也会是那样\NPart of me always thought that's what my life would be like
-Dialogue: 0,0:55:31.63,0:55:33.03,Default,,0,0,0,,就像我们小时候一直玩的那样\Nwhen we got older too.
-Dialogue: 0,0:55:33.17,0:55:34.43,Default,,0,0,0,,我和罗基会有一栋自己的房子\NRocky and I would get a house
-Dialogue: 0,0:55:34.57,0:55:36.37,Default,,0,0,0,,在院子里打篮球\Nand shoot hoops on the SuperDoop,
-Dialogue: 0,0:55:36.50,0:55:38.04,Default,,0,0,0,,泡在热水浴缸里聊天\Ntalk in the hot tub.
-Dialogue: 0,0:55:38.17,0:55:39.77,Default,,0,0,0,,我一直觉得自己会是那个留在家里的人\NI was always the stay at home twin.
-Dialogue: 0,0:55:39.91,0:55:42.01,Default,,0,0,0,,他会去上班 升职加薪\NHe'd get the job, the promotion,
-Dialogue: 0,0:55:42.14,0:55:45.51,Default,,0,0,0,,而我就收拾屋子 修修东西\Nand I'd kind of clean the house, and, you know, fix things,
-Dialogue: 0,0:55:45.65,0:55:47.98,Default,,0,0,0,,做点饭 然后……\Nand cook the meals, and...
-Dialogue: 0,0:55:49.45,0:55:50.82,Default,,0,0,0,,结果总会把厨房点着\NI'd always burn down the kitchen too.
-Dialogue: 0,0:55:50.95,0:55:52.72,Default,,0,0,0,,他特别受不了这一点\NUh, he hated that.
-Dialogue: 0,0:55:53.69,0:55:55.29,Default,,0,0,0,,你们现在还会一起玩吗？\NDo you and Rocky still play?
-Dialogue: 0,0:55:55.42,0:55:57.53,Default,,0,0,0,,不 他……\NNo, he, uh,
-Dialogue: 0,0:55:57.66,0:56:00.13,Default,,0,0,0,,他其实几个月前就走了\Nhe passed away a couple months ago, actually.
-Dialogue: 0,0:56:00.86,0:56:02.30,Default,,0,0,0,,哦 不\NOh, no.
-Dialogue: 0,0:56:03.33,0:56:05.30,Default,,0,0,0,,- 真对不起 - 没关系\N- I'm so sorry. - Nah, it's okay.
-Dialogue: 0,0:56:05.87,0:56:08.20,Default,,0,0,0,,嗯 反正你又不知道\NUm, I mean, you didn't know.
-Dialogue: 0,0:56:10.64,0:56:13.31,Default,,0,0,0,,我真的很难难过\NI'm so sorry.
-Dialogue: 0,0:56:14.68,0:56:17.51,Default,,0,0,0,,- 哦…… - 玛茜！万圣节快乐...\N- Oh... - Marcie! Happy--
+Dialogue: 0,0:54:20.34,0:54:22.11,Default,,0,0,0,,{\an1}哦 你竟然从没玩过《模拟人生1》？\NOh, you never played the original Sims?
+Dialogue: 0,0:54:22.13,0:54:23.66,Default,,0,0,0,,{\an1}天啊 那真是经典\NOh, man, it's the best.
+Dialogue: 0,0:54:23.69,0:54:25.81,Default,,0,0,0,,{\an1}其实 很多人不知道它超难的\NActually, a lot of people don't realize it was really hard.
+Dialogue: 0,0:54:25.84,0:54:27.25,Default,,0,0,0,,{\an1}因为没有周末\N'Cause you don't get weekends,
+Dialogue: 0,0:54:27.27,0:54:29.05,Default,,0,0,0,,{\an1}整天就是工作\Nso you have to spend all your time going to work,
+Dialogue: 0,0:54:29.07,0:54:31.25,Default,,0,0,0,,{\an1}睡觉 洗澡 打扫 做饭\Ngoing to sleep, showering, cleaning, cooking,
+Dialogue: 0,0:54:31.27,0:54:33.92,Default,,0,0,0,,{\an1}拉屎这些琐事上 抱歉我说得有点直\Npooping, you know? Sorry.
+Dialogue: 0,0:54:33.94,0:54:36.02,Default,,0,0,0,,{\an1}你真得照顾好他们的各种需求\NBut, yeah, you really have to tend to their needs,
+Dialogue: 0,0:54:36.04,0:54:38.11,Default,,0,0,0,,{\an1}不然立马给你脸色看\N'cause, um, they'll let you know about it.
+Dialogue: 0,0:54:38.13,0:54:40.31,Default,,0,0,0,,{\an1}他们会闹脾气\NThey get very cranky.
+Dialogue: 0,0:54:40.34,0:54:42.56,Default,,0,0,0,,{\an1}甚至会尿裤子\NUm, they'll pee their pants.
+Dialogue: 0,0:54:42.58,0:54:46.11,Default,,0,0,0,,{\an1}还会陷入严重的抑郁\NThey'll, uh, get very depressed, actually.
+Dialogue: 0,0:54:46.13,0:54:48.17,Default,,0,0,0,,{\an1}有时真的很严重\NThey can get depressed.
+Dialogue: 0,0:54:48.35,0:54:49.85,Default,,0,0,0,,{\an1}哦 哇 我...\NOh. Wow. I...
+Dialogue: 0,0:54:49.87,0:54:51.85,Default,,0,0,0,,{\an1}我还一直以为这游戏挺傻的\NI always just thought it was a silly game
+Dialogue: 0,0:54:51.89,0:54:54.27,Default,,0,0,0,,{\an1}- 里面人老说乱七八糟的傻话  - 不 不 不\N- where they talk gibberish. - No, no, no.
+Dialogue: 0,0:54:54.29,0:54:57.57,Default,,0,0,0,,{\an1}那话很讲究的 是生死攸关的\NThere's stakes. Yeah. It's life or death out there.
+Dialogue: 0,0:54:57.60,0:55:00.46,Default,,0,0,0,,{\an1}可不是胡言乱语 是模拟语\NAnd it's actually not gibberish. It's Simlish.
+Dialogue: 0,0:54:57.62,0:55:00.46,Default,,0,0,0,,{\an7}【模拟语：游戏《模拟人生》中虚拟语言】
+Dialogue: 0,0:55:00.54,0:55:02.44,Default,,0,0,0,,{\an1}是一整套语言\NIt's like it's whole own language.
+Dialogue: 0,0:55:02.47,0:55:05.47,Default,,0,0,0,,{\an1}（模拟语）古吉嘎嗨 啊莱里洛 巴豪 巴豪哇\Ngugi gahe a lie lilo bahao bahao wa... [Simlish]
+Dialogue: 0,0:55:06.12,0:55:09.18,Default,,0,0,0,,{\an1}（模拟语）巴豪哇 巴豪哇阿拉\NBahao waa bahao walaa. [Simlish]
+Dialogue: 0,0:55:09.66,0:55:11.63,Default,,0,0,0,,{\an1}见笑了\NSorry.
+Dialogue: 0,0:55:11.65,0:55:13.66,Default,,0,0,0,,{\an1}抱歉 太蠢了\NSorry. That's dumb.
+Dialogue: 0,0:55:14.39,0:55:16.56,Default,,0,0,0,,{\an1}不 听着真可爱\NNo, it's really sweet.
+Dialogue: 0,0:55:16.58,0:55:19.53,Default,,0,0,0,,{\an1}这是我小时候最喜欢的游戏\NIt was just my favorite game when I was a kid.
+Dialogue: 0,0:55:19.72,0:55:21.27,Default,,0,0,0,,{\an1}我有个双胞胎哥哥\NI have a twin brother.
+Dialogue: 0,0:55:21.29,0:55:24.27,Default,,0,0,0,,{\an1}我们俩着迷得不得了\NWe were obsessed with it, so we just would play it
+Dialogue: 0,0:55:24.29,0:55:26.09,Default,,0,0,0,,{\an1}一玩就是好几个小时\Nfor hours together.
+Dialogue: 0,0:55:26.11,0:55:29.68,Default,,0,0,0,,{\an1}现实里的时间 不是游戏里的那种\NReal hours, not Sims hours. Yeah.
+Dialogue: 0,0:55:29.71,0:55:31.61,Default,,0,0,0,,{\an1}我曾以为长大后我们会过那种日子\NPart of me always thought that's what my life would be like
+Dialogue: 0,0:55:31.63,0:55:33.26,Default,,0,0,0,,{\an1}就像游戏里那样\Nwhen we got older too.
+Dialogue: 0,0:55:33.29,0:55:34.97,Default,,0,0,0,,{\an1}我和罗基买栋房子\NRocky and I would get a house
+Dialogue: 0,0:55:34.99,0:55:36.68,Default,,0,0,0,,{\an1}放台投篮机打篮球\Nand shoot hoops on the SuperDoop,
+Dialogue: 0,0:55:36.71,0:55:38.25,Default,,0,0,0,,{\an1}泡大浴缸聊天\Ntalk in the hot tub.
+Dialogue: 0,0:55:38.27,0:55:39.91,Default,,0,0,0,,{\an1}我全职在家\NI was always the stay at home twin.
+Dialogue: 0,0:55:39.93,0:55:42.23,Default,,0,0,0,,{\an1}他去上班 升职加薪\NHe'd get the job, the promotion,
+Dialogue: 0,0:55:42.26,0:55:45.66,Default,,0,0,0,,{\an1}而我就收拾屋子 修修补补\Nand I'd kind of clean the house, and, you know, fix things,
+Dialogue: 0,0:55:45.68,0:55:48.24,Default,,0,0,0,,{\an1}做做饭 什么的\Nand cook the meals, and...
+Dialogue: 0,0:55:49.52,0:55:50.93,Default,,0,0,0,,{\an1}还总会把厨房烧了\NI'd always burn down the kitchen too.
+Dialogue: 0,0:55:50.95,0:55:52.72,Default,,0,0,0,,{\an1}他会气得要命\NUh, he hated that.
+Dialogue: 0,0:55:53.69,0:55:55.90,Default,,0,0,0,,你们现在还一起玩吗？\NDo you and Rocky still play?
+Dialogue: 0,0:55:55.93,0:55:57.69,Default,,0,0,0,,不 他...\NNo, he, uh,
+Dialogue: 0,0:55:57.72,0:56:00.19,Default,,0,0,0,,他其实几个月前去世了\Nhe passed away a couple months ago, actually.
+Dialogue: 0,0:56:00.91,0:56:02.35,Default,,0,0,0,,哦 不\NOh, no.
+Dialogue: 0,0:56:03.38,0:56:05.70,Default,,0,0,0,,- 真对不起 - 没关系\N- I'm so sorry. - Nah, it's okay.
+Dialogue: 0,0:56:05.87,0:56:08.20,Default,,0,0,0,,反正你又不知道\NUm, I mean, you didn't know.
+Dialogue: 0,0:56:10.65,0:56:14.05,Default,,0,0,0,,我真的很遗憾 抱歉\NI'm so sorry.
+Dialogue: 0,0:56:14.76,0:56:17.63,Default,,0,0,0,,玛茜！万圣节快...\NMarcie! Happy--
 Dialogue: 0,0:56:17.65,0:56:20.41,Default,,0,0,0,,- 天哪 你还好吗？ - 我没事\N- Oh, my God. Are you okay? - I'm fine.
 Dialogue: 0,0:56:20.55,0:56:23.38,Default,,0,0,0,,我就是喝点酒容易矫情\NI'm just an emotional drinker.
 Dialogue: 0,0:56:23.52,0:56:25.65,Default,,0,0,0,,雪莉 万圣节快乐\NShelly, happy Halloween.
