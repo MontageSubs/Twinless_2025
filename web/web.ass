@@ -17,9 +17,9 @@ Video File: ../../../../Volumes/MD_Hub_2.0/torrent/Twinless 2025 1080p iT WEBRip
 Video AR Mode: 4
 Video AR Value: 1.856867
 Video Zoom Percent: 0.875000
-Scroll Position: 1240
-Active Line: 1252
-Video Position: 107627
+Scroll Position: 1344
+Active Line: 1348
+Video Position: 115002
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1293,92 +1293,89 @@ Dialogue: 0,1:14:32.97,1:14:34.84,Default,,0,0,0,,你到底要我怎么办？\NW
 Dialogue: 0,1:14:41.22,1:14:43.12,Default,,0,0,0,,我知道该告诉他 我只是…\NI know I need to tell him. I just...
 Dialogue: 0,1:14:45.22,1:14:46.79,Default,,0,0,0,,我就想稍微拖一会儿\NI want a little bit more time.
 Dialogue: 0,1:14:48.92,1:14:50.02,Default,,0,0,0,,求你了\NPlease.
-Dialogue: 0,1:15:26.29,1:15:28.63,Default,,0,0,0,,她说她这个周末不能见我\NShe said she couldn't see me this weekend.
-Dialogue: 0,1:15:29.36,1:15:30.97,Default,,0,0,0,,然后她不停地道歉\NThen she kept apologizing
-Dialogue: 0,1:15:31.10,1:15:33.20,Default,,0,0,0,,并说我应该和你谈谈\Nand said that I should talk to you.
-Dialogue: 0,1:15:34.17,1:15:36.47,Default,,0,0,0,,我的意思是 你确定她什么都没说吗？\NI mean, are you sure she didn't say anything?
-Dialogue: 0,1:15:38.17,1:15:39.74,Default,,0,0,0,,哦 你知道吗？我完全忘了\NOh, you know what? I totally forgot
-Dialogue: 0,1:15:39.87,1:15:43.54,Default,,0,0,0,,我们正在为多发性硬化症研究进行全公司范围的筹款活动\Nwe're doing this company-wide fundraiser for MS research,
-Dialogue: 0,1:15:43.68,1:15:45.58,Default,,0,0,0,,玛西发誓保持沉默\Nand Marcie took a vow of silence.
+Dialogue: 0,1:15:26.29,1:15:28.63,Default,,0,0,0,,她说这个周末见不了我\NShe said she couldn't see me this weekend.
+Dialogue: 0,1:15:29.36,1:15:30.97,Default,,0,0,0,,然后一个劲儿地道歉\NThen she kept apologizing
+Dialogue: 0,1:15:31.10,1:15:33.20,Default,,0,0,0,,还说让我来找你聊聊\Nand said that I should talk to you.
+Dialogue: 0,1:15:34.17,1:15:36.47,Default,,0,0,0,,你确定她真没跟你说什么吗？\NI mean, are you sure she didn't say anything?
+Dialogue: 0,1:15:38.17,1:15:39.74,Default,,0,0,0,,哦 对了 我差点忘了\NOh, you know what? I totally forgot
+Dialogue: 0,1:15:39.74,1:15:43.54,Default,,0,0,0,,公司最近在搞多发性硬化症的募捐活动\Nwe're doing this company-wide fundraiser for MS research,
+Dialogue: 0,1:15:43.68,1:15:45.58,Default,,0,0,0,,玛西发了誓要保持缄默\Nand Marcie took a vow of silence.
 Dialogue: 0,1:15:46.31,1:15:47.75,Default,,0,0,0,,- 真的吗？ - 嗯\N- Really? - Hmm.
-Dialogue: 0,1:15:48.28,1:15:49.72,Default,,0,0,0,,她为什么不直接告诉我呢？\NWhy wouldn't she just tell me that?
-Dialogue: 0,1:15:50.72,1:15:52.55,Default,,0,0,0,,我们必须签署保密协议\NWe had to sign nondisclosure agreements.
-Dialogue: 0,1:15:53.35,1:15:54.32,Default,,0,0,0,,哦\NOh.
-Dialogue: 0,1:15:56.02,1:15:56.99,Default,,0,0,0,,好的\NOkay.
-Dialogue: 0,1:15:58.53,1:15:59.99,Default,,0,0,0,,哎呀 我好像想你了\NOops. I guess I missed you.
-Dialogue: 0,1:16:00.16,1:16:01.86,Default,,0,0,0,,我保证尽快给您回电\NI promise to call you back ASAP.
-Dialogue: 0,1:16:02.03,1:16:03.50,Default,,0,0,0,,我希望你今天过得愉快\NI hope you're having a wonderful day.
+Dialogue: 0,1:15:48.28,1:15:49.72,Default,,0,0,0,,那她为什么不直接告诉我？\NWhy wouldn't she just tell me that?
+Dialogue: 0,1:15:50.72,1:15:52.55,Default,,0,0,0,,因为我们都签了保密协议\NWe had to sign nondisclosure agreements.
+Dialogue: 0,1:15:53.35,1:15:54.32,Default,,0,0,0,,好吧\NOh.
+Dialogue: 0,1:15:56.02,1:15:56.99,Default,,0,0,0,,是的\NOkay.
+Dialogue: 0,1:15:58.53,1:15:59.53,Default,,0,0,0,,哎呀 好像错过你电话了\NOops. I guess I missed you.
+Dialogue: 0,1:15:59.75,1:16:01.86,Default,,0,0,0,,我保证尽快回你电话\NI promise to call you back ASAP.
+Dialogue: 0,1:16:02.03,1:16:03.50,Default,,0,0,0,,祝你今天过的愉快\NI hope you're having a wonderful day.
 Dialogue: 0,1:16:03.63,1:16:05.73,Default,,0,0,0,,嘿 是我\NHey, it's me.
-Dialogue: 0,1:16:06.80,1:16:09.40,Default,,0,0,0,,只是 呃...我知道你不能说话\NJust, uh... I know you can't talk
-Dialogue: 0,1:16:09.54,1:16:12.51,Default,,0,0,0,,因为你在拯救生命\N'cause you're saving lives.
-Dialogue: 0,1:16:19.91,1:16:21.22,Default,,0,0,0,,羅馬？\NRoman?
-Dialogue: 0,1:16:22.52,1:16:24.45,Default,,0,0,0,,羅馬\NRoman.
+Dialogue: 0,1:16:06.80,1:16:09.40,Default,,0,0,0,,我知道你现在不能说话\NJust, uh... I know you can't talk
+Dialogue: 0,1:16:09.54,1:16:12.05,Default,,0,0,0,,毕竟你正忙着拯救世界呢\N'cause you're saving lives.
+Dialogue: 0,1:16:19.91,1:16:21.22,Default,,0,0,0,,罗曼？\NRoman?
+Dialogue: 0,1:16:22.52,1:16:24.45,Default,,0,0,0,,罗曼\NRoman.
 Dialogue: 0,1:16:25.19,1:16:26.22,Default,,0,0,0,,嘿\NHey.
-Dialogue: 0,1:16:26.35,1:16:27.96,Default,,0,0,0,,有人打开了波旁威士忌\NSomeone cracked the bourbon.
+Dialogue: 0,1:16:26.35,1:16:27.96,Default,,0,0,0,,谁先动了波旁？\NSomeone cracked the bourbon.
 Dialogue: 0,1:16:28.56,1:16:29.96,Default,,0,0,0,,嗯 哦\NMm, ooh.
-Dialogue: 0,1:16:30.69,1:16:33.89,Default,,0,0,0,,好吧 我没有和你一起就开始了 因为我很无聊\NWell, I started without you 'cause I was bored.
-Dialogue: 0,1:16:34.03,1:16:35.20,Default,,0,0,0,,我要去洗澡了\NI'm gonna hop in the shower.
-Dialogue: 0,1:16:35.33,1:16:36.40,Default,,0,0,0,,不 不要\NNo, don't.
-Dialogue: 0,1:16:36.53,1:16:38.77,Default,,0,0,0,,你已经丢下我一个人这么久了\NYou already left me alone for so long.
-Dialogue: 0,1:16:39.83,1:16:41.30,Default,,0,0,0,,噢 哇 你喝醉了\NOh, wow, you are drunk.
+Dialogue: 0,1:16:30.69,1:16:33.89,Default,,0,0,0,,没等你就开喝了 太无聊\NWell, I started without you 'cause I was bored.
+Dialogue: 0,1:16:34.03,1:16:35.20,Default,,0,0,0,,我去冲个澡\NI'm gonna hop in the shower.
+Dialogue: 0,1:16:35.33,1:16:36.40,Default,,0,0,0,,别走\NNo, don't.
+Dialogue: 0,1:16:36.53,1:16:38.77,Default,,0,0,0,,你已经丢下我一个人很久了\NYou already left me alone for so long.
+Dialogue: 0,1:16:39.83,1:16:41.30,Default,,0,0,0,,天啊 你喝大了\NOh, wow, you are drunk.
 Dialogue: 0,1:16:41.44,1:16:42.44,Default,,0,0,0,,哇\NWow.
-Dialogue: 0,1:16:43.34,1:16:44.77,Default,,0,0,0,,呃 这里\NUh, here.
+Dialogue: 0,1:16:43.34,1:16:44.77,Default,,0,0,0,,来\NUh, here.
 Dialogue: 0,1:16:44.91,1:16:46.94,Default,,0,0,0,,我给你倒了一杯\NI poured you one.
-Dialogue: 0,1:16:48.71,1:16:50.31,Default,,0,0,0,,我没放任何东西进去\NI didn't put anything in it.
-Dialogue: 0,1:16:50.44,1:16:53.31,Default,,0,0,0,,我本来可以的 你永远不知道 你不了解我\NI could've though. You never know. You don't know me.
-Dialogue: 0,1:16:56.92,1:16:59.15,Default,,0,0,0,,谢谢\NThanks.
-Dialogue: 0,1:17:03.06,1:17:05.16,Default,,0,0,0,,天哪 这些鞋子真让我难受\NGod, these fucking shoes are killing me.
-Dialogue: 0,1:17:05.29,1:17:07.16,Default,,0,0,0,,我觉得我的脚变大了\NI think my feet got bigger.
-Dialogue: 0,1:17:07.29,1:17:09.26,Default,,0,0,0,,嗯 好吧 你知道那是什么意思\NMmm. Well, you know what that means.
-Dialogue: 0,1:17:11.77,1:17:13.43,Default,,0,0,0,,- 什么？ - 没什么\N- What? - Nothing.
-Dialogue: 0,1:17:13.57,1:17:14.94,Default,,0,0,0,,您想做足部按摩吗？\NDo you want a foot massage?
-Dialogue: 0,1:17:15.07,1:17:17.24,Default,,0,0,0,,- 呃 不 我没事 - 你确定吗？\N- Uh, nah, I'm okay. - Are you sure?
-Dialogue: 0,1:17:17.37,1:17:18.94,Default,,0,0,0,,我超级好\NI'm super good.
-Dialogue: 0,1:17:19.07,1:17:21.18,Default,,0,0,0,,我去按摩培训学校\NI went to massage training school
-Dialogue: 0,1:17:21.31,1:17:22.78,Default,,0,0,0,,暑假在大学里\Nin college in the summer.
-Dialogue: 0,1:17:25.45,1:17:27.08,Default,,0,0,0,,好的 是的 嗯\NOkay. Yeah, mm.
-Dialogue: 0,1:17:27.92,1:17:29.08,Default,,0,0,0,,也许会有帮助\NMaybe it'll help.
-Dialogue: 0,1:17:29.22,1:17:30.65,Default,,0,0,0,,是的 我敢打赌一定会的\NYeah, I bet it will.
-Dialogue: 0,1:17:31.95,1:17:33.35,Default,,0,0,0,,过来吧\NCome on over.
-Dialogue: 0,1:17:34.42,1:17:35.96,Default,,0,0,0,,床很好\NThe bed is fine.
-Dialogue: 0,1:17:40.79,1:17:43.30,Default,,0,0,0,,- 就像这样？ - 是啊\N- Just like this? - Yeah.
-Dialogue: 0,1:17:44.90,1:17:47.10,Default,,0,0,0,,抱歉 哥们 我敢打赌我的脚闻起来像死人\NSorry, man. I bet my foot smells like death.
-Dialogue: 0,1:17:47.23,1:17:48.87,Default,,0,0,0,,嗯 我不介意\NMmm. I don't mind.
+Dialogue: 0,1:16:48.71,1:16:50.31,Default,,0,0,0,,没往里下东西\NI didn't put anything in it.
+Dialogue: 0,1:16:50.44,1:16:51.42,Default,,0,0,0,,但我要是真下了呢\NI could've though. 
+Dialogue: 0,1:16:51.52,1:16:53.31,Default,,0,0,0,,你怎么会知道 你又不了解我\NYou never know. You don't know me.
+Dialogue: 0,1:16:56.92,1:16:59.15,Default,,0,0,0,,谢了\NThanks.
+Dialogue: 0,1:17:03.06,1:17:05.16,Default,,0,0,0,,妈的 这鞋快把我脚勒断了\NGod, these fucking shoes are killing me.
+Dialogue: 0,1:17:05.29,1:17:07.16,Default,,0,0,0,,感觉脚都大了一号\NI think my feet got bigger.
+Dialogue: 0,1:17:07.29,1:17:09.26,Default,,0,0,0,,嗯 你懂的\NMmm. Well, you know what that means.
+Dialogue: 0,1:17:11.77,1:17:13.43,Default,,0,0,0,,- 什么？ - 没事\N- What? - Nothing.
+Dialogue: 0,1:17:13.57,1:17:14.94,Default,,0,0,0,,要不要我帮你按按脚？\NDo you want a foot massage?
+Dialogue: 0,1:17:15.07,1:17:17.24,Default,,0,0,0,,- 不用 我没事 - 你确定？\N- Uh, nah, I'm okay. - Are you sure?
+Dialogue: 0,1:17:17.37,1:17:18.94,Default,,0,0,0,,我手艺可是一流\NI'm super good.
+Dialogue: 0,1:17:19.07,1:17:22.87,Default,,0,0,0,,大学暑假的时候 我还特地去学过按摩\NI went to massage training school in college in the summer.
+Dialogue: 0,1:17:25.45,1:17:27.08,Default,,0,0,0,,行吧 好\NOkay. Yeah, mm.
+Dialogue: 0,1:17:27.92,1:17:29.08,Default,,0,0,0,,也许真有用\NMaybe it'll help.
+Dialogue: 0,1:17:29.22,1:17:30.65,Default,,0,0,0,,肯定有用\NYeah, I bet it will.
+Dialogue: 0,1:17:31.95,1:17:33.35,Default,,0,0,0,,过来\NCome on over.
+Dialogue: 0,1:17:34.42,1:17:35.96,Default,,0,0,0,,就在床上就行\NThe bed is fine.
+Dialogue: 0,1:17:41.94,1:17:43.30,Default,,0,0,0,,- 这样按可以吗？ - 嗯 对\N- Just like this? - Yeah.
+Dialogue: 0,1:17:44.90,1:17:47.10,Default,,0,0,0,,抱歉哥们 我敢说我的脚一定臭死了\NSorry, man. I bet my foot smells like death.
+Dialogue: 0,1:17:47.93,1:17:48.87,Default,,0,0,0,,没关系\I don't mind.
 Dialogue: 0,1:17:52.97,1:17:54.14,Default,,0,0,0,,噢 哇哦\NOh, wow.
-Dialogue: 0,1:17:56.91,1:17:58.28,Default,,0,0,0,,哦 该死 你很擅长这个\NOh, shit, you are good at that.
-Dialogue: 0,1:17:58.41,1:18:01.98,Default,,0,0,0,,喝你的饮料就行\NJust drink your drink.
-Dialogue: 0,1:18:03.35,1:18:05.05,Default,,0,0,0,,好的 抱住你的河马\NAll right, hold your hippos.
+Dialogue: 0,1:17:56.91,1:17:58.40,Default,,0,0,0,,天啊 你还真挺专业的\NOh, shit, you are good at that.
+Dialogue: 0,1:17:59.21,1:18:01.98,Default,,0,0,0,,别管了 你喝你的酒就行\NJust drink your drink.
+Dialogue: 0,1:18:03.35,1:18:05.05,Default,,0,0,0,,行了 马马来\NAll right, hold your hippos.
 Dialogue: 0,1:18:07.19,1:18:08.39,Default,,0,0,0,,你说什么？\NWhat did you say?
-Dialogue: 0,1:18:10.32,1:18:12.39,Default,,0,0,0,,“抱住你的河马 ”就像 呃……\N"Hold your hippos." It's like, uh...
-Dialogue: 0,1:18:13.03,1:18:15.00,Default,,0,0,0,,就像“稍安勿躁” 但是……\Nit's like "hold your horses," but...
-Dialogue: 0,1:18:15.50,1:18:16.83,Default,,0,0,0,,这只是我和洛奇说的一句话\NIt's just something Rocky and I say.
+Dialogue: 0,1:18:10.32,1:18:12.39,Default,,0,0,0,,“马马来” 就像…\N"Hold your hippos." It's like, uh...
+Dialogue: 0,1:18:13.03,1:18:15.00,Default,,0,0,0,,就像“慢慢来”\Nit's like "hold your horses," but...
+Dialogue: 0,1:18:15.50,1:18:16.83,Default,,0,0,0,,这是我和罗基的口头禅\NIt's just something Rocky and I say.
 Dialogue: 0,1:18:18.20,1:18:19.17,Default,,0,0,0,,哦\NOh.
-Dialogue: 0,1:18:21.44,1:18:23.30,Default,,0,0,0,,你和 Dean 有过类似的事情吗？\NDid you and Dean ever have anything like that?
-Dialogue: 0,1:18:25.51,1:18:26.47,Default,,0,0,0,,一...\NUm...
-Dialogue: 0,1:18:28.48,1:18:29.91,Default,,0,0,0,,“金克丝 你欠我一杯汽水 ”\N"Jinx, you owe me a soda."
-Dialogue: 0,1:18:31.68,1:18:33.38,Default,,0,0,0,,没错 但每个人都这么说\NRight, but everyone says that.
-Dialogue: 0,1:18:33.85,1:18:38.02,Default,,0,0,0,,嗯 我们开始了 是的\NWell, we started it. Yeah.
-Dialogue: 0,1:18:45.19,1:18:48.33,Default,,0,0,0,,哦 是啊 就是那个地方\NOh, yeah. That's the fucking spot.
-Dialogue: 0,1:18:49.86,1:18:53.43,Default,,0,0,0,,哦 哇 那真是太好了\NOoh. Wow. That's really good.
-Dialogue: 0,1:18:55.57,1:18:56.77,Default,,0,0,0,,嗯\NMmm.
-Dialogue: 0,1:18:58.07,1:18:59.07,Default,,0,0,0,,哦\NOh.
-Dialogue: 0,1:19:00.41,1:19:04.04,Default,,0,0,0,,这确实很有帮助\NThis is actually really helping.
-Dialogue: 0,1:19:12.35,1:19:13.56,Default,,0,0,0,,噢 哇哦\NOh, wow.
-Dialogue: 0,1:19:14.36,1:19:18.19,Default,,0,0,0,,哇 哇 哇 哇 哇 哇 哇\NWow, wow, wow, wow, wow, wow, wow.
-Dialogue: 0,1:19:23.86,1:19:26.43,Default,,0,0,0,,你在干什么？\NWhat are you doing?
-Dialogue: 0,1:19:26.57,1:19:28.94,Default,,0,0,0,,哇 哇 哇 哇 那他妈的是什么？\NWhoa, whoa, whoa, whoa. What the fuck was that?
-Dialogue: 0,1:19:29.07,1:19:32.64,Default,,0,0,0,,对不起 我不是故意的\NI'm sorry. I didn't mean to do that.
-Dialogue: 0,1:19:32.77,1:19:35.08,Default,,0,0,0,,我不知道按摩学校里有没有教这个\NI don't know if they teach that, like, in-in massage school,
-Dialogue: 0,1:19:35.21,1:19:38.08,Default,,0,0,0,,但我只是 呃 我不喜欢那样 所以……\Nbut I'm just, uh, I'm not into that. So...
-Dialogue: 0,1:19:40.08,1:19:41.75,Default,,0,0,0,,抱歉 只是……\NI'm sorry. It's just...
-Dialogue: 0,1:19:41.88,1:19:44.42,Default,,0,0,0,,你看上去很像他\NYou look so much like him.
+Dialogue: 0,1:18:21.44,1:18:23.30,Default,,0,0,0,,你和迪恩也有这种默契吗？\NDid you and Dean ever have anything like that?
+Dialogue: 0,1:18:25.51,1:18:26.47,Default,,0,0,0,,呃……\NUm...
+Dialogue: 0,1:18:28.48,1:18:29.91,Default,,0,0,0,,“撞口令！你请我喝饮料”\N"Jinx, you owe me a soda."
+Dialogue: 0,1:18:28.48,1:18:29.91,Default,,0,0,0,,{\an9}【Jinx：撞口令，谁先喊 “Jinx” 谁“赢”】
+Dialogue: 0,1:18:31.68,1:18:33.38,Default,,0,0,0,,对啊 所有人都这么说啊\NRight, but everyone says that.
+Dialogue: 0,1:18:33.85,1:18:38.02,Default,,0,0,0,,是我们先说的 没错\NWell, we started it. Yeah.
+Dialogue: 0,1:18:45.19,1:18:48.33,Default,,0,0,0,,哦 对对对 就是那儿\NOh, yeah. That's the fucking spot.
+Dialogue: 0,1:18:49.86,1:18:53.43,Default,,0,0,0,,哇靠 太舒服了\NOoh. Wow. That's really good.
+Dialogue: 0,1:19:00.41,1:19:04.04,Default,,0,0,0,,这还真挺管用的\NThis is actually really helping.
+Dialogue: 0,1:19:23.86,1:19:26.43,Default,,0,0,0,,你干嘛？\NWhat are you doing?
+Dialogue: 0,1:19:26.57,1:19:28.94,Default,,0,0,0,,你他妈在干什么？  \NWhat the fuck was that?!
+Dialogue: 0,1:19:29.07,1:19:32.64,Default,,0,0,0,,对不起  我不是故意的  \NI'm sorry! I didn't mean to do that!
+Dialogue: 0,1:19:32.77,1:19:35.08,Default,,0,0,0,,我没听说按摩课会教这些…\NI don't know if they teach that in massage school...
+Dialogue: 0,1:19:35.21,1:19:38.08,Default,,0,0,0,,不过说真的  我可没兴趣 所以\Nbut I gotta say—uh, I'm not into that, so...
+Dialogue: 0,1:19:40.08,1:19:41.75,Default,,0,0,0,,对不起 我只是……\NI'm sorry. It's just...
+Dialogue: 0,1:19:41.88,1:19:44.42,Default,,0,0,0,,你看起来太像他了\NYou look so much like him.
 Dialogue: 0,1:19:44.55,1:19:45.75,Default,,0,0,0,,像谁？\NLike who?
-Dialogue: 0,1:19:45.89,1:19:47.92,Default,,0,0,0,,哦 我不想让你恨我\NOh, I don't want you to hate me.
-Dialogue: 0,1:19:48.06,1:19:49.76,Default,,0,0,0,,我不恨你 这没什么大不了的 你知道吗？\NI don't hate you. It's not a big deal, you know?
-Dialogue: 0,1:19:49.89,1:19:51.29,Default,,0,0,0,,只是不要再这样做了\NJust don't do it again.
-Dialogue: 0,1:19:51.43,1:19:54.30,Default,,0,0,0,,是的 如果我告诉你 你会恨我的\NYeah, if I tell you, you're gonna hate me,
-Dialogue: 0,1:19:54.43,1:19:56.40,Default,,0,0,0,,然后一切都会结束\Nand then it's gonna be over.
-Dialogue: 0,1:19:56.53,1:19:59.17,Default,,0,0,0,,你在说什么？我……我为什么要恨你？\NWhat are you talking about? Why... why would I hate you?
+Dialogue: 0,1:19:45.89,1:19:47.92,Default,,0,0,0,,我不想让你恨我\NOh, I don't want you to hate me.
+Dialogue: 0,1:19:48.06,1:19:49.76,Default,,0,0,0,,我不会恨你 没什么大不了的 好吗\NI don't hate you. It's not a big deal, okay?
+Dialogue: 0,1:19:49.89,1:19:51.29,Default,,0,0,0,,只要别再那样就行\NJust... don't do that again.
+Dialogue: 0,1:19:51.43,1:19:54.30,Default,,0,0,0,,可是 如果我告诉你真相 你一定会恨我\NYeah... but if I tell you the truth, you're gonna hate me.
+Dialogue: 0,1:19:54.43,1:19:56.40,Default,,0,0,0,,然后一切都完了\NAnd then it's all gonna be over.
+Dialogue: 0,1:19:56.53,1:19:59.17,Default,,0,0,0,,你在说什么？我为什么会恨你？\NWhat are you talking about? Why—why would I hate you?
 Dialogue: 0,1:20:01.57,1:20:03.00,Default,,0,0,0,,因为 嗯...\NBecause, um...
 Dialogue: 0,1:20:04.20,1:20:06.68,Default,,0,0,0,,我没有双胞胎 而且迪恩也不是真实存在的\NI don't have a twin, and Dean isn't real.
 Dialogue: 0,1:20:07.94,1:20:08.91,Default,,0,0,0,,什么 -\NWha--
