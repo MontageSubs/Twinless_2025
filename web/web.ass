@@ -826,8 +826,8 @@ Dialogue: 0,0:51:09.87,0:51:12.77,Default,,0,0,0,,没有你我真不知道该怎
 Dialogue: 0,0:51:14.71,0:51:18.45,Default,,0,0,0,,没有你我真不知道该怎么办！\NI don't know how to fucking be here without you!
 Dialogue: 0,0:51:35.90,0:51:37.73,Default,,0,0,0,,我希望你能见到罗基\NI wish you could've met Rocky.
 Dialogue: 0,0:51:41.57,0:51:43.24,Default,,0,0,0,,他一定会非常喜欢你\NHe would've really liked you.
+Dialogue: 0,0:51:48.41,0:51:50.86,Default,,0,0,0,,{\an5}分割线---------------------------------------
 Dialogue: 0,0:51:55.58,0:51:57.09,Default,,0,0,0,,那里可能没有很多人\NThere might not be a lot of people there.
-Dialogue: 0,0:51:57.09,0:51:57.22,Default,,0,0,0,,分割线---------------------------------------
 Dialogue: 0,0:51:57.22,0:52:00.15,Default,,0,0,0,,先提醒你一下 嗯 玛茜她有点儿……\NJust so you know, uh, Marcie's kind of a...
 Dialogue: 0,0:52:00.29,0:52:02.39,Default,,0,0,0,,不是说她真是个废柴啦 不过\NI mean, I don't wanna say she's a loser, but,
 Dialogue: 0,0:52:02.52,0:52:03.73,Default,,0,0,0,,算了 你见了就明白\NI mean, you'll see.
@@ -845,34 +845,48 @@ Dialogue: 0,0:52:30.82,0:52:32.32,Default,,0,0,0,,你好 听说我们两同道�
 Dialogue: 0,0:52:32.92,0:52:34.09,Default,,0,0,0,,是吗？\NDo you?
 Dialogue: 0,0:52:34.22,0:52:35.59,Default,,0,0,0,,我去拿几杯喝的\NI'll go get us a couple of drinks.
 Dialogue: 0,0:52:35.72,0:52:37.69,Default,,0,0,0,,你们先聊聊吧\NWhy don't, uh, you two mingle?
-Dialogue: 0,0:52:46.47,0:52:48.77,Default,,0,0,0,,- 哦 我真他妈讨厌这首歌 - 我喜欢这首歌\N- Oh, I fucking hate that song. - I love this song.
-Dialogue: 0,0:52:51.74,0:52:54.78,Default,,0,0,0,,嗯 那个 你喜欢木工吗？\NHmm. So, uh, you like wood?
-Dialogue: 0,0:52:55.44,0:52:59.35,Default,,0,0,0,,-嗯... 哦 呃... 是的\NUm... - Oh, uh... Yeah.
-Dialogue: 0,0:52:59.48,0:53:01.78,Default,,0,0,0,,我喜欢动手做东西\NI, uh, I like to use my hands.
-Dialogue: 0,0:53:01.92,0:53:03.15,Default,,0,0,0,,我的手很嫩的\NI have soft hands.
-Dialogue: 0,0:53:04.18,0:53:05.65,Default,,0,0,0,,- 不错 - 有人说过我这双手\N- Cool. - I was told I have the hands
-Dialogue: 0,0:53:05.79,0:53:07.32,Default,,0,0,0,,十指不沾阳春水\N- of somebody who's never worked a day in their life.
-Dialogue: 0,0:53:07.45,0:53:09.46,Default,,0,0,0,,- 哇 - 我妈说的\N- Wow. - I think by my mother.
-Dialogue: 0,0:53:11.13,0:53:12.06,Default,,0,0,0,,你好！\NHi!
-Dialogue: 0,0:53:12.43,0:53:14.03,Default,,0,0,0,,嗨 抱歉 我……\NHi. Sorry, I'm-I'm...
-Dialogue: 0,0:53:14.16,0:53:15.46,Default,,0,0,0,,- 我能摸下吗？ - ……罗曼\N- Can I feel? - ...Roman.
-Dialogue: 0,0:53:15.60,0:53:17.20,Default,,0,0,0,,- 行啊 - 我是玛茜\N- Yeah. - I'm Marcie.
-Dialogue: 0,0:53:20.80,0:53:21.90,Default,,0,0,0,,手真嫩\NVery soft.
-Dialogue: 0,0:53:22.94,0:53:23.87,Default,,0,0,0,,是的\NYeah.
-Dialogue: 0,0:53:25.64,0:53:26.74,Default,,0,0,0,,呃……\NUm...
-Dialogue: 0,0:53:28.14,0:53:29.68,Default,,0,0,0,,你平时还有别的爱好吗？\NAny other hobbies?
-Dialogue: 0,0:53:29.81,0:53:34.31,Default,,0,0,0,,徒步、滑雪、滑翔伞、攀岩、山地滑板、\NHiking, skiing, paragliding, rock climbing, mountainboarding,
-Dialogue: 0,0:53:34.45,0:53:36.92,Default,,0,0,0,,激流漂流 跑酷\NWhite water rafting. Parkour.
-Dialogue: 0,0:53:37.65,0:53:39.22,Default,,0,0,0,,爱好是不是有点多？\NFeel like that's too many.
-Dialogue: 0,0:53:39.35,0:53:40.69,Default,,0,0,0,,算个小毛病吧\NIt's a bit of a problem.
-Dialogue: 0,0:53:40.82,0:53:43.19,Default,,0,0,0,,我算是个肾上腺素上瘾的人\NI'm sort of an adrena-junkie, you know?
-Dialogue: 0,0:53:43.36,0:53:45.16,Default,,0,0,0,,跑酷不是挺危险吗？\NIsn't parkour dangerous?
-Dialogue: 0,0:53:45.29,0:53:47.36,Default,,0,0,0,,- 不 - 但也有人丢了命吧？\N- No. - But people die doing it?
-Dialogue: 0,0:53:47.96,0:53:49.00,Default,,0,0,0,,对\NYes.
-Dialogue: 0,0:53:50.53,0:53:51.70,Default,,0,0,0,,好吧\NOkay.
-Dialogue: 0,0:53:51.83,0:53:54.00,Default,,0,0,0,,关键是知道自己的极限\NYou just have to know your limits.
-Dialogue: 0,0:53:54.14,0:53:56.94,Default,,0,0,0,,我对我的极限一无所知！\NI don't know my limits!
-Dialogue: 0,0:53:57.84,0:54:00.24,Default,,0,0,0,,比如 今年你干过最疯狂的事？\NLike, what's the wildest thing you did this year?
+Dialogue: 0,0:52:46.47,0:52:48.77,Default,,0,0,0,,{\an3}- 哦 我真他妈讨厌这首歌 - 我喜欢这首歌\N- Oh, I fucking hate that song. - I love this song.
+Dialogue: 0,0:52:51.74,0:52:54.78,Default,,0,0,0,,{\an3}嗯 那个 你喜欢木工吗？\NHmm. So, uh, you like wood?
+Dialogue: 0,0:52:55.45,0:52:59.36,Default,,0,0,0,,{\an3}-嗯... 哦 呃... 是的\NUm... - Oh, uh... Yeah.
+Dialogue: 0,0:52:57.26,0:53:00.18,Default,,0,0,0,,{\an1}麻烦让...谢谢\NCould you— Thank you so much.
+Dialogue: 0,0:52:59.48,0:53:01.78,Default,,0,0,0,,{\an3}我喜欢动手做东西\NI, uh, I like to use my hands.
+Dialogue: 0,0:53:01.92,0:53:03.15,Default,,0,0,0,,{\an3}我的手很嫩的\NI have soft hands.
+Dialogue: 0,0:53:04.18,0:53:05.65,Default,,0,0,0,,{\an3}- 不错 - 有人说过我这双手\N- Cool. - I was told I have the hands
+Dialogue: 0,0:53:05.79,0:53:07.32,Default,,0,0,0,,{\an3}十指不沾阳春水\N- of somebody who's never worked a day in their life.
+Dialogue: 0,0:53:07.45,0:53:09.46,Default,,0,0,0,,{\an3}- 哇 - 我妈说的\N- Wow. - I think by my mother.
+Dialogue: 0,0:53:08.38,0:53:11.11,Default,,0,0,0,,{\an1}拿几杯这个\NI'm gonna get a couple cups for them.
+Dialogue: 0,0:53:11.13,0:53:12.06,Default,,0,0,0,,{\an1}你好呀\NHi!
+Dialogue: 0,0:53:12.43,0:53:14.99,Default,,0,0,0,,{\an1}嗨 失礼 我是罗曼\NHi. Sorry, I'm-I'm Roman
+Dialogue: 0,0:53:14.17,0:53:15.47,Default,,0,0,0,,{\an3}我能摸下吗？\NCan I feel?
+Dialogue: 0,0:53:15.60,0:53:17.20,Default,,0,0,0,,{\an3}行啊\NYeah.
+Dialogue: 0,0:53:15.73,0:53:17.33,Default,,0,0,0,,{\an1}我是玛茜\NI'm Marcie.
+Dialogue: 0,0:53:20.80,0:53:21.90,Default,,0,0,0,,{\an3}手真嫩\NVery soft.
+Dialogue: 0,0:53:21.30,0:53:22.92,Default,,0,0,0,,{\an1}来给你 哦 等下\NHere you go, oh, wait.
+Dialogue: 0,0:53:22.94,0:53:23.87,Default,,0,0,0,,{\an3}是的\NYeah.
+Dialogue: 0,0:53:24.70,0:53:26.04,Default,,0,0,0,,{\an1}还有两杯\NTwo more.
+Dialogue: 0,0:53:25.64,0:53:26.74,Default,,0,0,0,,{\an3}呃……\NUm...
+Dialogue: 0,0:53:28.14,0:53:29.68,Default,,0,0,0,,{\an3}你平时还有别的爱好吗？\NAny other hobbies?
+Dialogue: 0,0:53:28.51,0:53:29.54,Default,,0,0,0,,{\an1}干杯\NCheers.
+Dialogue: 0,0:53:29.86,0:53:34.36,Default,,0,0,0,,{\an3}徒步、滑雪、滑翔伞、攀岩、山地滑板、\NHiking, skiing, paragliding, rock climbing, mountainboarding,
+Dialogue: 0,0:53:34.41,0:53:35.65,Default,,0,0,0,,{\an1}真好喝\NThat's really nice.
+Dialogue: 0,0:53:34.45,0:53:36.92,Default,,0,0,0,,{\an3}激流漂流 跑酷\NWhite water rafting. Parkour.
+Dialogue: 0,0:53:35.70,0:53:37.63,Default,,0,0,0,,{\an1}可不是嘛\NYeah, no kidding.
+Dialogue: 0,0:53:37.65,0:53:39.22,Default,,0,0,0,,{\an3}爱好是不是有点多？\NFeel like that's too many.
+Dialogue: 0,0:53:39.35,0:53:40.69,Default,,0,0,0,,{\an3}算个小毛病吧\NIt's a bit of a problem.
+Dialogue: 0,0:53:39.72,0:53:40.72,Default,,0,0,0,,{\an1}说啥？\NWhat?
+Dialogue: 0,0:53:40.82,0:53:43.19,Default,,0,0,0,,{\an3}我算是个肾上腺素上瘾的人\NI'm sort of an adrena-junkie, you know?
+Dialogue: 0,0:53:41.57,0:53:44.70,Default,,0,0,0,,{\an1}我和他几周前认识的\NWe met just a couple week ago.
+Dialogue: 0,0:53:43.36,0:53:45.16,Default,,0,0,0,,{\an3}跑酷不是挺危险吗？\NIsn't parkour dangerous?
+Dialogue: 0,0:53:44.79,0:53:45.78,Default,,0,0,0,,{\an1}对 不 我知道\NYeah—no, I know.
+Dialogue: 0,0:53:45.29,0:53:47.36,Default,,0,0,0,,{\an3}- 不 - 但也有人丢了命吧？\N- No. - But people die doing it?
+Dialogue: 0,0:53:47.39,0:53:48.93,Default,,0,0,0,,{\an1}他跟我说过\NHe told me.
+Dialogue: 0,0:53:47.96,0:53:49.00,Default,,0,0,0,,{\an3}对\NYes.
+Dialogue: 0,0:53:49.19,0:53:50.69,Default,,0,0,0,,{\an1}他说过你\NHe knows about you.
+Dialogue: 0,0:53:50.53,0:53:51.70,Default,,0,0,0,,{\an3}好吧\NOkay.
+Dialogue: 0,0:53:51.83,0:53:54.00,Default,,0,0,0,,{\an3}关键是知道自己的极限\NYou just have to know your limits.
+Dialogue: 0,0:53:52.12,0:53:53.86,Default,,0,0,0,,{\an1}感谢邀请\NThanks for having me.
+Dialogue: 0,0:53:54.14,0:53:56.94,Default,,0,0,0,,{\an3}我对我的极限一无所知！\NI don't know my limits!
+Dialogue: 0,0:53:57.84,0:54:00.24,Default,,0,0,0,,{\an3}比如 今年你干过最疯狂的事？\NLike, what's the wildest thing you did this year?
 Dialogue: 0,0:54:02.04,0:54:03.88,Default,,0,0,0,,一时想不起来 嗯……\NNothing comes to mind. Um...
 Dialogue: 0,0:54:05.01,0:54:06.68,Default,,0,0,0,,陪审团 不过——\NJury duty. Or I almost--
 Dialogue: 0,0:54:06.81,0:54:09.25,Default,,0,0,0,,有利益冲突 所以没被选上\NI had a conflict, so they didn't pick me.
