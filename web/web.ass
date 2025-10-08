@@ -17,13 +17,14 @@ Video File: ../../../../Volumes/MD_Hub_2.0/torrent/Twinless 2025 1080p iT WEBRip
 Video AR Mode: 4
 Video AR Value: 1.856867
 Video Zoom Percent: 0.875000
-Scroll Position: 1528
-Active Line: 1540
-Video Position: 137196
+Scroll Position: 615
+Active Line: 621
+Video Position: 57858
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
+Style: 属名,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,1,1,2,25,25,17,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -331,6 +332,12 @@ Dialogue: 0,0:19:15.96,0:19:18.19,Default,,0,0,0,,但我喜欢它 因为\NBut I 
 Dialogue: 0,0:19:18.76,0:19:20.93,Default,,0,0,0,,如果我没有痛苦 那么……\Nif I don't have the pain, then...
 Dialogue: 0,0:19:22.50,0:19:23.70,Default,,0,0,0,,他真的走了\Nhe's really gone.
 Dialogue: 0,0:19:24.97,0:19:27.04,Default,,0,0,0,,而我实际上是孤独的\NAnd I'm actually alone.
+Dialogue: 0,0:20:11.51,0:20:15.54,属名,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1386,620)}{\fnHeiti SC}出品公司\N\N\N{\fs28}狮门影业\N\N路边景象影业\N\N\N\N\N{\fs25}制作公司\N\N\N{\fs28}共和国影业
+Dialogue: 0,0:20:19.52,0:20:23.55,属名,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1482,540)}{\fnHeiti SC}制作公司\N\N\N{\fs28}彭缪特电影公司
+Dialogue: 0,0:20:27.52,0:20:31.55,属名,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1460,550)}{\fnHeiti SC}联合出品\N\N\N{\fs28}后院计划影业\N\NTPC影业
+Dialogue: 0,0:20:35.53,0:20:41.57,属名,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\fnHeiti SC\pos(948,144)}字幕译制\N\N\N{\fs28}蒙太奇字幕组
+Dialogue: 0,0:20:35.53,0:20:41.57,属名,,0,0,0,,{\fs120\c&H000000&\3c&HB25EA3&\bord10\fnHeiti SC\pos(944,382)}双  生
+Dialogue: 0,0:20:45.54,0:20:49.08,属名,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1560,552)}{\fnHeiti SC}编剧｜导演\N\N\N{\fs28}詹姆斯·斯威尼
 Dialogue: 0,0:20:49.72,0:20:50.85,Default,,0,0,0,,打扰一下\NExcuse me.
 Dialogue: 0,0:20:51.65,0:20:54.25,Default,,0,0,0,,嗨 嗯 这里有人坐吗？\NHi. Um, is anybody sitting here?
 Dialogue: 0,0:20:55.69,0:20:58.29,Default,,0,0,0,,不 嗯 是的 随意\NNo. Um, yeah, feel free.
@@ -637,10 +644,12 @@ Dialogue: 0,0:39:56.63,0:39:58.10,Default,,0,0,0,,嗨 抱歉 我没有——\NHi
 Dialogue: 0,0:39:58.23,0:40:00.67,Default,,0,0,0,,我不是故意打断你们的谈话\NI didn't mean to interrupt your conversation,
 Dialogue: 0,0:40:00.80,0:40:02.57,Default,,0,0,0,,但是 嗯...哦！\Nbut, um... Oh!
 Dialogue: 0,0:40:03.57,0:40:04.84,Default,,0,0,0,,我知道你？\NDo I know you?
-Dialogue: 0,0:40:06.17,0:40:08.01,Default,,0,0,0,,不 对不起 我是鲁珀特\NNo, sorry. I'm-I'm Rupert.
-Dialogue: 0,0:40:08.14,0:40:10.18,Default,,0,0,0,,- 我刚从伦敦来拜访  - 哦\N- I'm just visiting from London. - Oh.
-Dialogue: 0,0:40:10.31,0:40:11.85,Default,,0,0,0,,但事实上 这种事经常发生在我身上\NBut it happens to me all the time, actually.
-Dialogue: 0,0:40:11.98,0:40:14.08,Default,,0,0,0,,总是这样 我总是这么说\NOne of those faces. All the time. I always say that.
+Dialogue: 0,0:40:06.17,0:40:14.08,Default,,0,0,0,,{\an9}NickCollect翻译此场景
+Dialogue: 0,0:40:06.17,0:40:08.01,Default,,0,0,0,,不儿不儿 我是鲁伯特儿\NNo, sorry. I'm-I'm Rupert.
+Dialogue: 0,0:40:08.14,0:40:10.18,Default,,0,0,0,,我是伦敦银儿 来这边儿玩儿\NI'm just visiting from London. 
+Dialogue: 0,0:40:10.31,0:40:11.85,Default,,0,0,0,,其儿吧 这事儿老经常碰上儿了\NBut it happens to me all the time, actually.
+Dialogue: 0,0:40:11.98,0:40:13.16,Default,,0,0,0,,长这么张脸儿 就特儿容易被认错儿\NOne of those faces. All the time. 
+Dialogue: 0,0:40:13.16,0:40:14.08,Default,,0,0,0,,我老得儿这么解释儿\NI always say that.
 Dialogue: 0,0:40:14.22,0:40:16.02,Default,,0,0,0,,好的 嗯 一定是这样\NOkay. Well, that must be,
 Dialogue: 0,0:40:16.15,0:40:17.22,Default,,0,0,0,,那一定非常棒\Nthat must be very nice.
 Dialogue: 0,0:40:17.35,0:40:18.69,Default,,0,0,0,,不管怎样 我只是想说“嗨”\NAnyway, I just wanted to say "Hi,"
@@ -1561,7 +1570,7 @@ Dialogue: 0,1:33:39.42,1:33:41.06,Default,,0,0,0,,那种课不是没用吗？\NA
 Dialogue: 0,1:33:41.56,1:33:43.72,Default,,0,0,0,,听说真打架还得上街才学得会\NI hear you can only really learn how to fight in the streets.
 Dialogue: 0,1:33:45.79,1:33:47.33,Default,,0,0,0,,嗯 我们也会在街上练\NWell, we learn in the streets too.
 Dialogue: 0,1:33:47.46,1:33:51.00,Default,,0,0,0,,我那师父 下班还跟着我偷袭\NMy sensei, he, uh, follows me after work and attacks me.
-Dialogue: 0,1:34:00.11,1:34:01.14,Default,,0,0,0,,你觉得要是换种相遇方式\NDo you think we would've been friends 
+Dialogue: 0,1:34:00.11,1:34:01.14,Default,,0,0,0,,你觉得要是换种相遇方式\NDo you think we would've been friends
 Dialogue: 0,1:34:01.14,1:34:03.02,Default,,0,0,0,,我们会成朋友吗？\Nif we met under different circumstances?
 Dialogue: 0,1:34:15.56,1:34:16.49,Default,,0,0,0,,不知道\NI don't know.
 Dialogue: 0,1:34:18.29,1:34:19.69,Default,,0,0,0,,我希望会吧 可是…\NI'd like to think so, but...
