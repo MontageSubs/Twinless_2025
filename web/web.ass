@@ -12,8 +12,6 @@ PlayResY: 1034
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: ../../../../Volumes/MD_Hub_2.0/torrent/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies.mkv
-Video File: ../../../../Volumes/MD_Hub_2.0/torrent/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies/Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies.mkv
 Video AR Mode: 4
 Video AR Value: 1.856867
 Video Zoom Percent: 0.875000
@@ -24,38 +22,44 @@ Video Position: 105
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
-Style: 属名,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,1,1,2,25,25,17,1
+; 临时
 Style: V2-,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,25,25,17,1
-Style: 演职人员,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,4.5,0,1,0,0,2,25,25,17,1
-Style: 制作方,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,0,0,2,25,25,17,1
+;
+Style: Opening,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,0,0,2,25,25,17,1
+Style: Titles,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,0,0,2,25,25,17,1
+Style: Credits,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,4.5,0,1,0,0,2,25,25,17,1
 
+Opening
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.34,0:00:07.09,制作方,,0,0,0,,{\c&HA0823C&\bord6\blur8\fs120\b1\4c&HFFFFFF&\alpha&HFF&\shad0\pos(960,780)\t(850,1850,\alpha&H80&)}狮门影业
-Dialogue: 1,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz-33\pos(680,750)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}路
-Dialogue: 0,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz-33\pos(680,750)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}路
-Dialogue: 1,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz-15\pos(794,805)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}边
-Dialogue: 0,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz-15\pos(794,805)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}边
-Dialogue: 1,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz-2\pos(909,830)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}景
-Dialogue: 0,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz-2\pos(909,830)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}景
-Dialogue: 1,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz2\pos(1011,830)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}象
-Dialogue: 0,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz2\pos(1011,830)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}象
-Dialogue: 1,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz15\pos(1122,805)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}影
-Dialogue: 0,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz15\pos(1122,805)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}影
-Dialogue: 1,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz33\pos(1240,750)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}业
-Dialogue: 0,0:00:07.60,0:00:10.74,制作方,,0,0,0,,{\fs80\an5\frz33\pos(1240,750)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}业
-Dialogue: 0,0:00:14.00,0:00:19.81,制作方,,0,0,0,,{\fad(500,500)\fs120\pos(955,549)\c&H2B3243&\3c&H9CD3FE&\bord2.5\b1}共和影业
-Dialogue: 0,0:01:10.51,0:01:11.44,Default,,0,0,0,,行吧\NYep.
+Dialogue: 0,0:00:04.34,0:00:07.09,Default,,0,0,0,,{\an2}（狮门影业）
+Dialogue: 0,0:00:07.60,0:00:10.74,Default,,0,0,0,,{\an2}（路边景象影业）
+Dialogue: 0,0:00:14.00,0:00:19.81,Default,,0,0,0,,{\an2}（共和影业）
+Comment: 0,0:00:04.34,0:00:07.09,Opening,,0,0,0,,{\c&HA0823C&\bord6\blur8\fs120\b1\4c&HFFFFFF&\alpha&HFF&\shad0\pos(960,780)\t(850,1850,\alpha&H80&)}狮门影业
+Comment: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-33\pos(680,750)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}路
+Comment: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-33\pos(680,750)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}路
+Comment: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-15\pos(794,805)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}边
+Comment: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-15\pos(794,805)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}边
+Comment: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-2\pos(909,830)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}景
+Comment: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-2\pos(909,830)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}景
+Comment: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz2\pos(1011,830)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}象
+Comment: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz2\pos(1011,830)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}象
+Comment: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz15\pos(1122,805)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}影
+Comment: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz15\pos(1122,805)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}影
+Comment: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz33\pos(1240,750)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}业
+Comment: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz33\pos(1240,750)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}业
+Comment: 0,0:00:14.00,0:00:19.81,Opening,,0,0,0,,{\fad(500,500)\fs120\pos(955,549)\c&H2B3243&\3c&H9CD3FE&\bord2.5\b1}共和影业
+Dialogue: 0,0:01:10.51,0:01:11.44,Default,,0,0,0,,再来\NYep.
 Dialogue: 0,0:01:14.68,0:01:16.51,Default,,0,0,0,,节哀 我是朱迪\NHi. I'm Judy.
 Dialogue: 0,0:01:16.70,0:01:19.10,Default,,0,0,0,,- 罗曼 - 我是罗基同事\N- Roman. - I worked with Rocky.
 Dialogue: 0,0:01:20.05,0:01:21.67,Default,,0,0,0,,抱歉\NSorry.
-Dialogue: 0,0:01:21.69,0:01:25.40,Default,,0,0,0,,见你像见鬼了 抱歉 抱歉\NIt's like looking at a ghost. I'm sorry. I'm sorry.
+Dialogue: 0,0:01:21.69,0:01:25.53,Default,,0,0,0,,见你真吓人 抱歉 抱歉\NIt's like looking at a ghost. I'm sorry. I'm sorry.
 Dialogue: 0,0:01:25.55,0:01:27.52,Default,,0,0,0,,真不想待在这儿了\NHave to get out of here.
 Dialogue: 0,0:01:27.55,0:01:29.62,Default,,0,0,0,,节哀 我是艾瑞克\NRoman. Eric.
 Dialogue: 0,0:01:29.65,0:01:33.21,Default,,0,0,0,,我们素未谋面 却似曾相识\NWe've never met, but I feel like I know you.
 Dialogue: 0,0:01:33.25,0:01:35.07,Default,,0,0,0,,真替你难过\NI'm so sorry for your loss.
-Dialogue: 0,0:01:35.09,0:01:38.03,Default,,0,0,0,,需要的话 我都在...\NI'm-I'm here if you...
-Dialogue: 0,0:01:38.10,0:01:41.98,Default,,0,0,0,,天呐 你长得太像他了\NOh, God. Your face.
+Dialogue: 0,0:01:35.09,0:01:36.21,Default,,0,0,0,,需要的话 我都在...\NI'm-I'm here if you...
+Dialogue: 0,0:01:38.10,0:01:42.91,Default,,0,0,0,,天呐 你长得太像他了\NOh, God. Your face.
 Dialogue: 0,0:02:25.58,0:02:27.19,Default,,0,0,0,,其实 看起来\NIt doesn't-- Actually, it doesn't seem like
 Dialogue: 0,0:02:27.21,0:02:29.25,Default,,0,0,0,,不像你在尽职尽责 看起来...\Nyou are trying to do your job. No, looks like--
 Dialogue: 0,0:02:29.28,0:02:31.03,Default,,0,0,0,,更像是在帮倒忙\NIt feels like you're doing the opposite of your job
@@ -84,7 +88,7 @@ Dialogue: 0,0:03:07.75,0:03:08.47,Default,,0,0,0,,行 行\NAll right, Okay.
 Dialogue: 0,0:03:08.49,0:03:10.00,Default,,0,0,0,,- 开玩笑吗？ - 好吧 那算了\N- You kidding me? - Well, then never mind.
 Dialogue: 0,0:03:10.02,0:03:11.64,Default,,0,0,0,,- 我不管了 - 很好\N- I won't help you. - Good.
 Dialogue: 0,0:03:11.66,0:03:13.17,Default,,0,0,0,,- 全部都你自己做  - 我就是这个意思\N- You can do all this yourself. - That's what I'm saying.
-Dialogue: 0,0:03:13.19,0:03:14.53,Default,,0,0,0,,- 我回酒店后 - 抓紧走\N- I'll go back to the hotel. - Go.
+Dialogue: 0,0:03:13.20,0:03:14.54,Default,,0,0,0,,- 我回酒店后 - 抓紧走\N- I'll go back to the hotel. - Go.
 Dialogue: 0,0:03:14.56,0:03:15.94,Default,,0,0,0,,- 别打电话求我 - 热烈欢送你这混蛋！\N- Don't call me. - Good. Good for fucking you!
 Dialogue: 0,0:03:15.96,0:03:18.00,Default,,0,0,0,,够了！\NTime-out!
 Dialogue: 0,0:03:21.94,0:03:22.91,Default,,0,0,0,,罗曼\NRoman.
@@ -94,7 +98,7 @@ Dialogue: 0,0:03:29.61,0:03:31.55,Default,,0,0,0,,嗯 确实\NWell, that's true.
 Dialogue: 0,0:03:49.23,0:03:50.71,Default,,0,0,0,,大家好\NHello, everyone.
 Dialogue: 0,0:03:50.73,0:03:54.33,Default,,0,0,0,,现在七点了 我们开始吧\NIt's seven o'clock, so I say let's get started.
 Dialogue: 0,0:03:54.50,0:03:56.78,Default,,0,0,0,,今天有几位新朋友\NI see some new faces here today,
-Dialogue: 0,0:03:56.80,0:03:59.86,Default,,0,0,0,,大家来做一个有趣的转圈轮流介绍\Nso I thought it would be fun to go in a circle.
+Dialogue: 0,0:03:56.80,0:03:59.86,Default,,0,0,0,,大家来做个有趣的转圈轮流介绍\Nso I thought it would be fun to go in a circle.
 Dialogue: 0,0:03:59.88,0:04:01.35,Default,,0,0,0,,说出你的名字\NSay your name,
 Dialogue: 0,0:04:01.37,0:04:04.53,Default,,0,0,0,,一个与名字首字相同的食物\Na vegetable that starts with the same first letter
 Dialogue: 0,0:04:04.55,0:04:09.40,Default,,0,0,0,,以及一件不怀念你双胞胎的事\Nand one thing you don't miss about your twin.
@@ -206,14 +210,14 @@ Dialogue: 0,0:09:50.02,0:09:52.56,Default,,0,0,0,,她最宠罗基 所以…\NRoc
 Dialogue: 0,0:09:52.94,0:09:55.74,Default,,0,0,0,,嗯 我也没人宠\NMm. I'm nobody's favorite.
 Dialogue: 0,0:09:56.44,0:09:59.23,Default,,0,0,0,,做双胞胎真让我吃亏\NFeel like being a twin kind of fucked me.
 Dialogue: 0,0:09:59.53,0:10:02.83,Default,,0,0,0,,小时候我就喜欢单干...\NI never needed anyone else as a kid, you know, but now...
-Dialogue: 0,0:10:03.90,0:10:07.89,Default,,0,0,0,,现在感觉跟筷子处都要被甩\Nfeel like I can't make friends with a fork.
+Dialogue: 0,0:10:03.90,0:10:07.89,Default,,0,0,0,,现在感觉跟筷子处都要落单\Nfeel like I can't make friends with a fork.
 Dialogue: 0,0:10:08.05,0:10:09.82,Default,,0,0,0,,每周见一两次都太少了\NOnce, twice a week's not enough.
 Dialogue: 0,0:10:09.84,0:10:13.43,Default,,0,0,0,,我想一直有人陪 我 我太需要陪伴了\NI want to hang out all the time. I'm-I'm too needy.
 Dialogue: 0,0:10:13.55,0:10:15.48,Default,,0,0,0,,我也讨厌做什么都一个人\NI hate doing things alone.
 Dialogue: 0,0:10:15.50,0:10:19.16,Default,,0,0,0,,独自做饭 独自拆信 独自收衣服\NCooking meals, opening mail, folding laundry.
 Dialogue: 0,0:10:19.18,0:10:21.42,Default,,0,0,0,,对 两人做事 事半功倍\NYeah. So much faster with two people.
 Dialogue: 0,0:10:21.45,0:10:24.14,Default,,0,0,0,,可不是吗 老实说 发明床笠的人\NRight? I mean, honestly, whoever invented the fitted sheet
-Dialogue: 0,0:10:24.16,0:10:27.15,Default,,0,0,0,,真该挨揍 狠狠地打\Nshould be flagellated. And not the fun kind.
+Dialogue: 0,0:10:24.16,0:10:27.15,Default,,0,0,0,,真该挨揍 吊起来打\Nshould be flagellated. And not the fun kind.
 Dialogue: 0,0:10:29.19,0:10:30.39,Default,,0,0,0,,你懂我\NYou get me.
 Dialogue: 0,0:10:51.85,0:10:53.18,Default,,0,0,0,,罗基！\NRocky!
 Dialogue: 0,0:10:53.79,0:10:57.44,Default,,0,0,0,,好久不见 近来可好？剪头发啦？\NLong time no see. How are you? Did you get a haircut?
@@ -234,123 +238,125 @@ Dialogue: 0,0:11:24.29,0:11:25.43,Default,,0,0,0,,对 嗯\NRight. Yeah.
 Dialogue: 0,0:11:25.45,0:11:28.17,Default,,0,0,0,,嗯 那词叫什么来着？\NYeah, what is the word again?
 Dialogue: 0,0:11:28.25,0:11:29.88,Default,,0,0,0,,哦 呃…\NOh, uh...
 Dialogue: 0,0:11:31.76,0:11:33.63,Default,,0,0,0,,“阿托图西”\N"Ahtoatushi."
-Dialogue: 0,0:11:33.65,0:11:36.00,Default,,0,0,0,,{\an9}【要不要加这个译者注释我没有想好，待交流--小p】\N【阿托图西：被误认后瞎编 应为可多库西（孤独死） 】
-Dialogue: 0,0:11:36.02,0:11:37.56,Default,,0,0,0,,不对吧  【小p精翻至此】\NThat doesn't sound right.
-Dialogue: 0,0:12:06.86,0:12:07.93,Default,,0,0,0,,喂？\NHello?
-Dialogue: 0,0:12:08.06,0:12:10.40,Default,,0,0,0,,嘿 是我 罗曼\NHey. It's Roman.
-Dialogue: 0,0:12:10.97,0:12:12.60,Default,,0,0,0,,你想跟我去买些杂货吗？\NDo you wanna get groceries with me?
-Dialogue: 0,0:12:23.18,0:12:24.85,Default,,0,0,0,,嘿 柠檬熟没熟怎么看？\NHey, how do you know if lemons are ripe?
-Dialogue: 0,0:12:24.98,0:12:27.28,Default,,0,0,0,,呃 熟的是黄色 没熟的是绿色\NUh, it's yellow. Unripe lemons are green.
-Dialogue: 0,0:12:28.15,0:12:30.42,Default,,0,0,0,,那为什么货架上会摆这么多没熟的呢？\NSo why do they got so many unripe ones out?
-Dialogue: 0,0:12:30.55,0:12:33.02,Default,,0,0,0,,那些是青柠\NThose are limes.
-Dialogue: 0,0:12:45.33,0:12:46.27,Default,,0,0,0,,呃…\NUh...
-Dialogue: 0,0:12:47.23,0:12:48.54,Default,,0,0,0,,你没事吧？\NAre you okay?
-Dialogue: 0,0:12:49.27,0:12:50.74,Default,,0,0,0,,不取笑我不行吗？\NCan you not laugh at me?
-Dialogue: 0,0:12:51.41,0:12:53.94,Default,,0,0,0,,我知道我不聪明\NI know I'm not, like, the brightest tool in the shed,
-Dialogue: 0,0:12:54.07,0:12:56.48,Default,,0,0,0,,但…我也不喜欢被取笑\Nbut... I don't appreciate it.
-Dialogue: 0,0:12:57.44,0:12:59.48,Default,,0,0,0,,好好 应该的 对不起\NYeah. Yeah, of course. I'm sorry.
-Dialogue: 0,0:12:59.61,0:13:02.15,Default,,0,0,0,,如果我哪里做的不对…你可以直接跟我说\NYou know, if I get something wrong... tell me.
-Dialogue: 0,0:13:02.28,0:13:05.05,Default,,0,0,0,,这样…就不会有下次了\N'Cause... then I can know better.
-Dialogue: 0,0:13:09.12,0:13:10.59,Default,,0,0,0,,那我现在能说一个吗\NWould now be a good time to point out
-Dialogue: 0,0:13:10.73,0:13:12.99,Default,,0,0,0,,我想你应该是想说“棚子里最锋利的工具？”\NI think you meant to say, "sharpest tool in the shed?"
-Dialogue: 0,0:13:16.77,0:13:18.43,Default,,0,0,0,,是啊\NYeah.
-Dialogue: 0,0:13:20.93,0:13:22.44,Default,,0,0,0,,也许你想说“盒子里最亮的灯泡”\NMaybe you meant to say, "brightest bulb in the box."
-Dialogue: 0,0:13:22.57,0:13:24.10,Default,,0,0,0,,- 对 我就是这个意思 - 对 对\N- Yeah, maybe that's what I meant. - Yeah, yeah.
-Dialogue: 0,0:13:43.56,0:13:46.89,Default,,0,0,0,,{\an8}[安息吧 深切哀悼刚刚去世的罗基 虽然他的肉体已逝 但他的精神永存]
-Dialogue: 0,0:14:03.98,0:14:04.95,Default,,0,0,0,,嘿\NHey.
-Dialogue: 0,0:14:06.78,0:14:08.15,Default,,0,0,0,,呃 抱歉\NUh, sorry.
-Dialogue: 0,0:14:09.25,0:14:11.05,Default,,0,0,0,,最近睡的不太好\NI haven't been sleeping well, so...
-Dialogue: 0,0:14:11.19,0:14:12.39,Default,,0,0,0,,啊\NOh.
-Dialogue: 0,0:14:12.52,0:14:14.15,Default,,0,0,0,,嘿 那是罗基的衬衫吗？\NHey, is that Rocky's shirt?
-Dialogue: 0,0:14:14.29,0:14:16.89,Default,,0,0,0,,哦 对 是的 你怎么知道？\NOh, yeah, yeah. How'd you know?
-Dialogue: 0,0:14:17.02,0:14:18.73,Default,,0,0,0,,- 你穿起来很好看 - 谢谢\N- Looks good on you. - Thanks.
-Dialogue: 0,0:14:19.99,0:14:21.86,Default,,0,0,0,,呃 我们要找什么书？\NWhat, uh, what are we looking for?
-Dialogue: 0,0:14:22.00,0:14:24.97,Default,,0,0,0,,哦 只是随便看看 我选书都是看封面的\NOh, just browsing. I pick books based on the cover.
-Dialogue: 0,0:14:25.63,0:14:27.23,Default,,0,0,0,,我觉得你这么选书不好\NI thought you weren't supposed to do that.
-Dialogue: 0,0:14:28.00,0:14:29.80,Default,,0,0,0,,你也不该把棉签塞到耳朵里\NYou're also not supposed to put Q-tips in your ear,
-Dialogue: 0,0:14:29.94,0:14:32.41,Default,,0,0,0,,但如果操作的好 感觉就会很爽\Nbut if you do it right, it feels really good.
-Dialogue: 0,0:15:01.67,0:15:02.97,Default,,0,0,0,,我不知道为什么要这么做\NI don't know why I'm doing this
-Dialogue: 0,0:15:03.14,0:15:04.47,Default,,0,0,0,,反正没人会听到这录音\N'cause nobody's ever gonna hear it.
-Dialogue: 0,0:15:04.64,0:15:07.24,Default,,0,0,0,,我接过一个陌生号码来电\NI answered a call from an unknown number once,
-Dialogue: 0,0:15:07.41,0:15:10.38,Default,,0,0,0,,他说 “嘿 我想你”\Nand he said, "Hey, I was thinking about you."
-Dialogue: 0,0:15:10.55,0:15:11.78,Default,,0,0,0,,“你今晚有空吗？”\N"What are you doing tonight?"
-Dialogue: 0,0:15:11.95,0:15:13.58,Default,,0,0,0,,我们烤了…\NAnd we baked...
-Dialogue: 0,0:15:14.58,0:15:15.78,Default,,0,0,0,,嘿\NHey.
-Dialogue: 0,0:15:17.48,0:15:19.15,Default,,0,0,0,,我想我得留下来\NThink I'm gonna stay.
-Dialogue: 0,0:15:19.29,0:15:21.46,Default,,0,0,0,,- 什么？ - 律师说\N- What? - Yeah. Lawyer says,
-Dialogue: 0,0:15:21.59,0:15:23.79,Default,,0,0,0,,不管怎样 遗嘱认证会花一些时间\Nthe probate's gonna take a little while anyway.
-Dialogue: 0,0:15:23.92,0:15:26.06,Default,,0,0,0,,再说罗基的老板还给了我一份工作\NPlus, Rocky's boss offered me a job.
-Dialogue: 0,0:15:26.19,0:15:29.46,Default,,0,0,0,,呃 他哭了很久 我想他是真心的\NUh, he was crying a lot, but I think he was serious.
-Dialogue: 0,0:15:29.60,0:15:30.57,Default,,0,0,0,,唔\NHmm.
-Dialogue: 0,0:15:31.27,0:15:34.10,Default,,0,0,0,,感觉我短时间是没法走了\NFeel like I need to be here right now.
-Dialogue: 0,0:15:34.23,0:15:35.97,Default,,0,0,0,,完全理解\NTotally.
-Dialogue: 0,0:15:36.10,0:15:37.07,Default,,0,0,0,,是啊\NYeah.
-Dialogue: 0,0:15:37.74,0:15:40.41,Default,,0,0,0,,所以 我想这意味着你和我可以成为买菜的好朋友了\NSo, I guess that means you and I get to be grocery buddies.
-Dialogue: 0,0:15:42.71,0:15:45.45,Default,,0,0,0,,顺便问下 你的语音信箱问候语是什么情况？\NHey, what's up with your voicemail greeting, by the way?
-Dialogue: 0,0:15:45.58,0:15:46.65,Default,,0,0,0,,再来一个\NOne more.
-Dialogue: 0,0:15:46.78,0:15:48.62,Default,,0,0,0,,好的 准备好了吗？\NOkay, ready?
-Dialogue: 0,0:15:51.35,0:15:52.89,Default,,0,0,0,,你好\NHello.
-Dialogue: 0,0:15:53.02,0:15:55.59,Default,,0,0,0,,这是丹尼斯的语音信箱\NThis is Dennis's phone.
-Dialogue: 0,0:15:57.59,0:15:59.83,Default,,0,0,0,,请在提示音后...\NPlease leave a message...
-Dialogue: 0,0:16:00.90,0:16:02.16,Default,,0,0,0,,留言\Nafter the tone.
-Dialogue: 0,0:16:02.30,0:16:04.33,Default,,0,0,0,,毛茸茸的小兔子！\NFluffy bunny!
-Dialogue: 0,0:16:14.04,0:16:15.51,Default,,0,0,0,,你在想什么？\NWhat are you thinking about?
-Dialogue: 0,0:16:19.21,0:16:21.32,Default,,0,0,0,,你支持保留死刑吗？\NDo you believe in the death penalty?
-Dialogue: 0,0:16:21.45,0:16:23.15,Default,,0,0,0,,你就在想这个？\NThat's what you were thinking about?
-Dialogue: 0,0:16:25.15,0:16:28.86,Default,,0,0,0,,我不支持 因为\NI guess no. Because there's a chance
-Dialogue: 0,0:16:28.99,0:16:33.09,Default,,0,0,0,,无辜的人有可能被误处决 人死了就无法挽回了\Nof executing someone innocent, and death is irrevocable.
-Dialogue: 0,0:16:34.33,0:16:37.46,Default,,0,0,0,,是 但生活中很多事情本就是无法挽回的\NYeah, but there's some things you can't take back.
-Dialogue: 0,0:16:40.40,0:16:41.67,Default,,0,0,0,,确实\NTrue.
-Dialogue: 0,0:16:46.74,0:16:48.84,Default,,0,0,0,,你这辈子做过最糟糕的事是什么？\NWhat's the worst thing you've ever done?
-Dialogue: 0,0:16:52.98,0:16:55.15,Default,,0,0,0,,你呢？你做过的最糟糕的事是什么？\NWhat's the worst thing you've ever done?
-Dialogue: 0,0:16:55.98,0:16:57.28,Default,,0,0,0,,有几件吧\NThere's a few.
-Dialogue: 0,0:17:00.32,0:17:01.39,Default,,0,0,0,,嗯…\NMm.
+Dialogue: 0,0:11:33.65,0:11:36.00,Default,,0,0,0,,{\an9}【阿托图西：被误认后瞎编 应为孤独死 】
+Dialogue: 0,0:11:36.02,0:11:37.56,Default,,0,0,0,,不对吧\NThat doesn't sound right.
+Dialogue: 0,0:12:06.98,0:12:08.05,Default,,0,0,0,,喂\NHello?
+Dialogue: 0,0:12:08.07,0:12:10.41,Default,,0,0,0,,喂 是我 罗曼\NHey. It's Roman.
+Dialogue: 0,0:12:11.03,0:12:12.94,Default,,0,0,0,,能陪我买点东西吗?\NDo you wanna get groceries with me?
+Dialogue: 0,0:12:23.18,0:12:24.96,Default,,0,0,0,,嘿 柠檬熟没熟怎么看？\NHey, how do you know if lemons are ripe?
+Dialogue: 0,0:12:24.98,0:12:27.69,Default,,0,0,0,,熟的是黄色 没熟的是绿色\NUh, it's yellow. Unripe lemons are green.
+Dialogue: 0,0:12:28.22,0:12:30.60,Default,,0,0,0,,那为啥摆这么多没熟的？\NSo why do they got so many unripe ones out?
+Dialogue: 0,0:12:30.62,0:12:33.09,Default,,0,0,0,,那是青柠\NThose are limes.
+Dialogue: 0,0:12:47.23,0:12:48.54,Default,,0,0,0,,你还好吧？\NAre you okay?
+Dialogue: 0,0:12:49.27,0:12:51.40,Default,,0,0,0,,别笑我行不行？\NCan you not laugh at me?
+Dialogue: 0,0:12:51.43,0:12:53.99,Default,,0,0,0,,我知道我脑袋不光\NI know I'm not, like, the brightest tool in the shed,
+Dialogue: 0,0:12:54.02,0:12:56.70,Default,,0,0,0,,但…但别拿我开涮\Nbut... I don't appreciate it.
+Dialogue: 0,0:12:57.45,0:12:59.49,Default,,0,0,0,,好 好 当然 对不起\NYeah. Yeah, of course. I'm sorry.
+Dialogue: 0,0:12:59.51,0:13:02.26,Default,,0,0,0,,要是发现我错了就直说\NYou know, if I get something wrong... tell me.
+Dialogue: 0,0:13:02.28,0:13:05.42,Default,,0,0,0,,我好能改进\N'Cause... then I can know better.
+Dialogue: 0,0:13:09.24,0:13:10.71,Default,,0,0,0,,容我直说下\NWould now be a good time to point out
+Dialogue: 0,0:13:10.73,0:13:15.08,Default,,0,0,0,,你知道秃头脑袋才光吧？\NI think you meant to say, "sharpest tool in the shed?"
+Dialogue: 0,0:13:17.76,0:13:19.42,Default,,0,0,0,,嗯\NYeah.
+Dialogue: 0,0:13:20.93,0:13:22.44,Default,,0,0,0,,你该说脑袋灵光\NMaybe you meant to say, "brightest bulb in the box."
+Dialogue: 0,0:13:22.47,0:13:24.19,Default,,0,0,0,,- 对 我就是这个意思 - 嗯 嗯\N- Yeah, maybe that's what I meant. - Yeah, yeah.
+Dialogue: 0,0:13:24.27,0:13:28.09,Default,,0,0,0,,{\an9}【游戏《模拟人生1》】
+Dialogue: 0,0:13:43.56,0:13:46.89,Default,,0,0,0,,{\an8}（深切哀悼 罗基已死 肉身已逝 灵魂永存）
+Dialogue: 0,0:14:04.15,0:14:05.12,Default,,0,0,0,,嘿\NHey.
+Dialogue: 0,0:14:06.78,0:14:08.94,Default,,0,0,0,,抱歉 来晚了\NUh, sorry.
+Dialogue: 0,0:14:09.28,0:14:11.66,Default,,0,0,0,,最近睡得很差\NI haven't been sleeping well, so...
+Dialogue: 0,0:14:12.64,0:14:14.27,Default,,0,0,0,,那是罗基的衬衫吗？\NHey, is that Rocky's shirt?
+Dialogue: 0,0:14:14.29,0:14:17.06,Default,,0,0,0,,哦 对 是的 你怎么知道的？\NOh, yeah, yeah. How'd you know?
+Dialogue: 0,0:14:17.09,0:14:19.86,Default,,0,0,0,,- 穿在你身上挺好看的 - 谢谢\N- Looks good on you. - Thanks.
+Dialogue: 0,0:14:20.11,0:14:21.98,Default,,0,0,0,,到底要找什么书？\NWhat, uh, what are we looking for?
+Dialogue: 0,0:14:22.00,0:14:25.71,Default,,0,0,0,,哦 就随便看看 我都是看封面选书的\NOh, just browsing. I pick books based on the cover.
+Dialogue: 0,0:14:25.74,0:14:27.98,Default,,0,0,0,,不该这样选书吧\NI thought you weren't supposed to do that.
+Dialogue: 0,0:14:28.08,0:14:29.92,Default,,0,0,0,,也不该抠鼻挠耳的\NYou're also not supposed to put Q-tips in your ear,
+Dialogue: 0,0:14:29.94,0:14:33.11,Default,,0,0,0,,不过弄对了还挺爽的\Nbut if you do it right, it feels really good.
+Dialogue: 0,0:15:01.67,0:15:03.12,Default,,0,0,0,,我说不上为啥要录\NI don't know why I'm doing this
+Dialogue: 0,0:15:03.14,0:15:04.62,Default,,0,0,0,,反正没人会听到的\N'cause nobody's ever gonna hear it.
+Dialogue: 0,0:15:04.64,0:15:07.42,Default,,0,0,0,,我曾接过一通陌生来电\NI answered a call from an unknown number once,
+Dialogue: 0,0:15:07.45,0:15:10.42,Default,,0,0,0,,他说“我想你了\Nand he said, "Hey, I was thinking about you."
+Dialogue: 0,0:15:10.44,0:15:11.93,Default,,0,0,0,,今晚有什么安排？”\N"What are you doing tonight?"
+Dialogue: 0,0:15:11.95,0:15:13.58,Default,,0,0,0,,后来我和他...\NAnd we baked...
+Dialogue: 0,0:15:14.69,0:15:15.89,Default,,0,0,0,,喂\NHey.
+Dialogue: 0,0:15:17.48,0:15:19.27,Default,,0,0,0,,我估计得留下了\NThink I'm gonna stay.
+Dialogue: 0,0:15:19.29,0:15:21.57,Default,,0,0,0,,- 什么？ - 对\N- What? - Yeah. Lawyer says,
+Dialogue: 0,0:15:21.59,0:15:23.97,Default,,0,0,0,,律师说遗产手续得花点时间\Nthe probate's gonna take a little while anyway.
+Dialogue: 0,0:15:23.99,0:15:26.82,Default,,0,0,0,,再说罗基的老板还给了我一份工作\NPlus, Rocky's boss offered me a job.
+Dialogue: 0,0:15:26.84,0:15:30.25,Default,,0,0,0,,他哭得挺厉害 应该是认真的\NUh, he was crying a lot, but I think he was serious.
+Dialogue: 0,0:15:31.27,0:15:34.10,Default,,0,0,0,,看来得留下来了\NFeel like I need to be here right now.
+Dialogue: 0,0:15:35.02,0:15:36.24,Default,,0,0,0,,不错\NTotally.
+Dialogue: 0,0:15:36.27,0:15:37.26,Default,,0,0,0,,嗯\NYeah.
+Dialogue: 0,0:15:37.63,0:15:41.65,Default,,0,0,0,,那我们就是搭子了\NSo, I guess that means you and I get to be grocery buddies.
+Dialogue: 0,0:15:42.72,0:15:45.46,Default,,0,0,0,,对了 你的语音信箱录音怎么回事？\NHey, what's up with your voicemail greeting, by the way?
+Dialogue: 0,0:15:45.48,0:15:47.51,Default,,0,0,0,,- 再来一个 - 张嘴\N- Another one. - One more.
+Dialogue: 0,0:15:47.90,0:15:49.74,Default,,0,0,0,,准备好了吗？\NOkay, ready?
+Dialogue: 0,0:15:51.48,0:15:53.09,Default,,0,0,0,,你好\NHello.
+Dialogue: 0,0:15:53.12,0:15:55.69,Default,,0,0,0,,我是丹尼斯\NThis is Dennis's phone.
+Dialogue: 0,0:15:57.50,0:15:59.92,Default,,0,0,0,,请在提示音后...\NPlease leave a message...
+Dialogue: 0,0:16:00.97,0:16:02.23,Default,,0,0,0,,留言\Nafter the tone.
+Dialogue: 0,0:16:02.42,0:16:04.45,Default,,0,0,0,,哔兔兔\NFluffy bunny!
+Dialogue: 0,0:16:14.31,0:16:15.78,Default,,0,0,0,,想啥呢？\NWhat are you thinking about?
+Dialogue: 0,0:16:19.25,0:16:21.44,Default,,0,0,0,,你觉得该有死刑吗？\NDo you believe in the death penalty?
+Dialogue: 0,0:16:21.46,0:16:23.35,Default,,0,0,0,,你在想这个？\NThat's what you were thinking about?
+Dialogue: 0,0:16:25.22,0:16:28.97,Default,,0,0,0,,我觉得不\NI guess no. Because there's a chance
+Dialogue: 0,0:16:28.99,0:16:33.58,Default,,0,0,0,,可能会误杀无辜 而死亡无法挽回\Nof executing someone innocent, and death is irrevocable.
+Dialogue: 0,0:16:34.35,0:16:38.65,Default,,0,0,0,,是啊 生活中就是有些事回不去了\NYeah, but there's some things you can't take back.
+Dialogue: 0,0:16:40.43,0:16:41.70,Default,,0,0,0,,对\NTrue.
+Dialogue: 0,0:16:46.89,0:16:50.38,Default,,0,0,0,,你这辈子做过最糟的事是什么？\NWhat's the worst thing you've ever done?
+Dialogue: 0,0:16:53.03,0:16:55.20,Default,,0,0,0,,你呢？你做过最糟的事是什么？\NWhat's the worst thing you've ever done?
+Dialogue: 0,0:16:55.99,0:16:57.29,Default,,0,0,0,,好几件\NThere's a few.
 Dialogue: 0,0:17:07.16,0:17:08.46,Default,,0,0,0,,有一次…\NThis one time...
 Dialogue: 0,0:17:10.10,0:17:12.07,Default,,0,0,0,,罗基和我 呃…\NRocky and I, uh...
-Dialogue: 0,0:17:13.47,0:17:15.24,Default,,0,0,0,,当时我们16岁\Nwe were 16.
-Dialogue: 0,0:17:18.44,0:17:20.07,Default,,0,0,0,,然后 嗯…\NAnd, um...
-Dialogue: 0,0:17:21.71,0:17:23.41,Default,,0,0,0,,他的死是我的错\NIt was my fault he died.
-Dialogue: 0,0:17:26.08,0:17:28.65,Default,,0,0,0,,- 什么？- 是我的错\N- What? - It was my fault.
-Dialogue: 0,0:17:31.29,0:17:34.49,Default,,0,0,0,,迪恩本来应该到机场接我的\NDean was supposed to pick me up from the airport.
-Dialogue: 0,0:17:35.49,0:17:36.69,Default,,0,0,0,,但他忘了\NBut he forgot.
-Dialogue: 0,0:17:38.06,0:17:41.19,Default,,0,0,0,,我本可以直接叫出租车的\NAnd I could've just called a cab,
-Dialogue: 0,0:17:41.33,0:17:43.40,Default,,0,0,0,,但我就是想他来接\Nbut I wanted him to pick me up,
-Dialogue: 0,0:17:43.53,0:17:46.83,Default,,0,0,0,,所以我一遍又一遍给他打电话\Nso I called him again and again and again,
-Dialogue: 0,0:17:46.97,0:17:48.74,Default,,0,0,0,,缠着他不放\Nand I was relentless.
-Dialogue: 0,0:17:49.37,0:17:51.04,Default,,0,0,0,,然后 他超速了\NSo, he broke the speed limit.
-Dialogue: 0,0:17:52.01,0:17:53.54,Default,,0,0,0,,后面你们都能想到了\NAnd you can guess where this is going.
-Dialogue: 0,0:17:53.68,0:17:55.78,Default,,0,0,0,,他撞车了\NHe crashed.
-Dialogue: 0,0:17:57.68,0:17:59.71,Default,,0,0,0,,我对他说的最后一句话是…\NMy last words to him were...
-Dialogue: 0,0:18:01.35,0:18:02.78,Default,,0,0,0,,“去你的 ”\N"Fuck you."
-Dialogue: 0,0:18:02.92,0:18:05.95,Default,,0,0,0,,所以…这就是我的故事\NSo... that's my story.
-Dialogue: 0,0:18:06.65,0:18:07.69,Default,,0,0,0,,嗯…\NUm...
-Dialogue: 0,0:18:09.99,0:18:13.53,Default,,0,0,0,,五年级那年 我的左眼长了针眼\NIn fifth grade, I had a stye in my left eye.
-Dialogue: 0,0:18:14.19,0:18:17.43,Default,,0,0,0,,刚好那天是拍毕业照的日子 真的…\NOn school picture day. It was...
-Dialogue: 0,0:18:18.37,0:18:20.10,Default,,0,0,0,,又红又肿\Nswollen and red.
-Dialogue: 0,0:18:20.23,0:18:22.94,Default,,0,0,0,,我看起来就像福里斯特·惠特克\NAnd I looked like Forest Whitaker.
-Dialogue: 0,0:18:23.87,0:18:25.74,Default,,0,0,0,,所以 我申请不去学校了\NSo, I begged to stay home.
-Dialogue: 0,0:18:27.71,0:18:29.08,Default,,0,0,0,,但被拒绝了\NBut I was overruled,
-Dialogue: 0,0:18:29.21,0:18:33.28,Default,,0,0,0,,所以Dean假扮成我去拍了毕业照\Nso Dean pretended to be me for the yearbook.
-Dialogue: 0,0:18:35.25,0:18:37.75,Default,,0,0,0,,他救了我一把 嗯…\NHe saved me. Um...
-Dialogue: 0,0:18:39.49,0:18:41.56,Default,,0,0,0,,他总在糟糕的日子里出现\NHe was always there on the bad days.
-Dialogue: 0,0:18:42.59,0:18:44.56,Default,,0,0,0,,当街口的阿什利 呃…\NWhen Ashley from down the street, uh,
-Dialogue: 0,0:18:44.69,0:18:47.76,Default,,0,0,0,,取笑我的粉色铅笔盒时 Dean就嘲讽她是黄油巨魔\Nmade fun of my pink pencil box, he called her a butter troll.
-Dialogue: 0,0:18:49.53,0:18:53.97,Default,,0,0,0,,再比如，我继父有一次对我说，‘别回家了’\NUh, when my stepfather asked me not to come home anymore,
-Dialogue: 0,0:18:54.97,0:18:56.47,Default,,0,0,0,,Dean就一直紧紧握着我的手\NDean held my hand.
-Dialogue: 0,0:18:59.31,0:19:00.78,Default,,0,0,0,,相比起来 呃...\NFeels like, uh...
-Dialogue: 0,0:19:02.08,0:19:03.85,Default,,0,0,0,,现在的每天都很糟糕\Nevery day's a bad day now.
-Dialogue: 0,0:19:06.48,0:19:09.42,Default,,0,0,0,,嗯 对不起 呃……\NUm, sorry, uh...
-Dialogue: 0,0:19:10.72,0:19:14.86,Default,,0,0,0,,真的很痛 真真切切的痛\NIt hurts. Like, um, it's literally painful.
-Dialogue: 0,0:19:15.96,0:19:18.19,Default,,0,0,0,,但我反而喜欢这种痛 因为\NBut I like it because
-Dialogue: 0,0:19:18.76,0:19:20.93,Default,,0,0,0,,如果没了这些痛 那…\Nif I don't have the pain, then...
-Dialogue: 0,0:19:22.50,0:19:23.70,Default,,0,0,0,,Dean就真的死了\Nhe's really gone.
-Dialogue: 0,0:19:24.97,0:19:27.04,Default,,0,0,0,,而我 就真的一个人了\NAnd I'm actually alone.
-Dialogue: 0,0:20:05.17,0:20:08.37,制作方,,0,0,0,,{\an8}字幕译制\N蒙太奇字幕组
-Dialogue: 0,0:20:11.54,0:20:15.51,制作方,,0,0,0,,{\an8}出品公司\N狮门影业\N路边景象影业\N彭缪特电影公司
-Dialogue: 0,0:20:19.52,0:20:23.55,制作方,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1482,540)}{\fnHeiti SC}制作公司\N\N{\fs28}彭缪特出品公司
-Dialogue: 0,0:20:27.52,0:20:31.55,制作方,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1460,550)}{\fnHeiti SC}制作公司\N\N\N{\fs28}后院计划影业\N\N三点资本
-Dialogue: 0,0:20:35.53,0:20:41.57,制作方,,0,0,0,,{\fs120\c&H000000&\3c&HB25EA3&\bord10\fnHeiti SC\pos(944,382)}无  双
-Dialogue: 0,0:20:45.54,0:20:49.08,制作方,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1560,552)}{\fnHeiti SC}编剧兼导演\N\N\N{\fs28}詹姆斯·斯威尼
+Dialogue: 0,0:17:13.58,0:17:15.35,Default,,0,0,0,,我们那会儿十六岁\Nwe were 16.
+Dialogue: 0,0:17:18.49,0:17:20.12,Default,,0,0,0,,然后…\NAnd, um...
+Dialogue: 0,0:17:21.75,0:17:23.95,Default,,0,0,0,,是我害死他的\NIt was my fault he died.
+Dialogue: 0,0:17:26.22,0:17:29.14,Default,,0,0,0,,- 什么？- 是我的错\N- What? - It was my fault.
+Dialogue: 0,0:17:31.29,0:17:34.91,Default,,0,0,0,,丹恩本该来机场接我\NDean was supposed to pick me up from the airport.
+Dialogue: 0,0:17:35.54,0:17:37.00,Default,,0,0,0,,但他忘了\NBut he forgot.
+Dialogue: 0,0:17:38.13,0:17:41.34,Default,,0,0,0,,我本可直接叫辆出租车\NAnd I could've just called a cab,
+Dialogue: 0,0:17:41.37,0:17:43.62,Default,,0,0,0,,但我就是想让他来接\Nbut I wanted him to pick me up,
+Dialogue: 0,0:17:43.65,0:17:46.95,Default,,0,0,0,,所以我一遍又一遍给他打电话\Nso I called him again and again and again,
+Dialogue: 0,0:17:46.97,0:17:49.24,Default,,0,0,0,,不停地催他\Nand I was relentless.
+Dialogue: 0,0:17:49.42,0:17:51.39,Default,,0,0,0,,结果他超速了\NSo, he broke the speed limit.
+Dialogue: 0,0:17:52.10,0:17:54.42,Default,,0,0,0,,你们也能猜到结局\NAnd you can guess where this is going.
+Dialogue: 0,0:17:54.44,0:17:56.54,Default,,0,0,0,,他出了车祸\NHe crashed.
+Dialogue: 0,0:17:57.80,0:17:59.91,Default,,0,0,0,,我对他说的最后一句话是…\NMy last words to him were...
+Dialogue: 0,0:18:01.56,0:18:03.04,Default,,0,0,0,,“去你的 ”\N"Fuck you."
+Dialogue: 0,0:18:03.06,0:18:06.50,Default,,0,0,0,,所以…这就是我的故事\NSo... that's my story.
+Dialogue: 0,0:18:10.08,0:18:13.62,Default,,0,0,0,,五年级那年 我左眼长了针眼\NIn fifth grade, I had a stye in my left eye.
+Dialogue: 0,0:18:15.21,0:18:18.45,Default,,0,0,0,,正好是拍学年照那天 那时…\NOn school picture day. It was...
+Dialogue: 0,0:18:18.48,0:18:20.21,Default,,0,0,0,,又红又肿\Nswollen and red.
+Dialogue: 0,0:18:20.23,0:18:22.94,Default,,0,0,0,,像极了青蛙眼\NAnd I looked like Forest Whitaker.
+Dialogue: 0,0:18:24.02,0:18:27.21,Default,,0,0,0,,我求着爸妈让我呆在家\NSo, I begged to stay home.
+Dialogue: 0,0:18:27.87,0:18:29.24,Default,,0,0,0,,但都不同意\NBut I was overruled,
+Dialogue: 0,0:18:29.26,0:18:33.33,Default,,0,0,0,,所以丹恩替我去拍\Nso Dean pretended to be me for the yearbook.
+Dialogue: 0,0:18:35.36,0:18:37.86,Default,,0,0,0,,他真救了我\NHe saved me. Um...
+Dialogue: 0,0:18:39.56,0:18:42.29,Default,,0,0,0,,他总是在我糟糕的时候出现\NHe was always there on the bad days.
+Dialogue: 0,0:18:42.70,0:18:44.67,Default,,0,0,0,,当阿什利在街上\NWhen Ashley from down the street, uh,
+Dialogue: 0,0:18:44.69,0:18:49.28,Default,,0,0,0,,取笑我的粉色铅笔盒时 他就骂她“黄毛怪”\Nmade fun of my pink pencil box, he called her a butter troll.
+Dialogue: 0,0:18:49.47,0:18:53.91,Default,,0,0,0,,继父把我赶出家时\NUh, when my stepfather asked me not to come home anymore,
+Dialogue: 0,0:18:55.10,0:18:58.30,Default,,0,0,0,,丹恩紧紧握着我的手\NDean held my hand.
+Dialogue: 0,0:18:59.50,0:19:01.21,Default,,0,0,0,,感觉...\NFeels like, uh...
+Dialogue: 0,0:19:02.24,0:19:05.46,Default,,0,0,0,,现在每天都是糟糕的日子\Nevery day's a bad day now.
+Dialogue: 0,0:19:06.65,0:19:09.59,Default,,0,0,0,,呃 对不起...\NUm, sorry, uh...
+Dialogue: 0,0:19:10.90,0:19:15.04,Default,,0,0,0,,扎心的痛 真是心如刀割\NIt hurts. Like, um, it's literally painful.
+Dialogue: 0,0:19:16.02,0:19:18.74,Default,,0,0,0,,可我喜欢 因为...\NBut I like it because
+Dialogue: 0,0:19:18.87,0:19:22.35,Default,,0,0,0,,要是没了这痛 那就说明...\Nif I don't have the pain, then...
+Dialogue: 0,0:19:22.63,0:19:24.86,Default,,0,0,0,,他就彻底走了\Nhe's really gone.
+Dialogue: 0,0:19:25.10,0:19:28.47,Default,,0,0,0,,我就彻底孤身一人了\NAnd I'm actually alone.
+Dialogue: 0,0:20:04.55,0:20:08.37,Default,,0,0,0,,{\an8}字幕译制\N蒙太奇字幕组
+Dialogue: 0,0:20:11.54,0:20:15.51,Default,,0,0,0,,{\an8}出品公司\N狮门影业 和 路边景象影业\N彭缪特出品公司
+Dialogue: 0,0:20:19.52,0:20:23.55,Default,,0,0,0,,{\an8}制作公司\N彭缪特出品公司
+Dialogue: 0,0:20:27.52,0:20:31.55,Default,,0,0,0,,{\an8}制作公司\N后院计划影业\N三点资本
+Dialogue: 0,0:20:35.53,0:20:41.57,Default,,0,0,0,,{\an8}无  双
+Dialogue: 0,0:20:45.54,0:20:49.08,Default,,0,0,0,,{\an8}编剧兼导演\N詹姆斯·斯威尼
+Comment: 0,0:20:04.55,0:20:08.37,Titles,,0,0,0,,{\an8}字幕译制\N蒙太奇字幕组
+Comment: 0,0:20:11.54,0:20:15.51,Titles,,0,0,0,,{\an8}出品公司\N狮门影业\N路边景象影业\N彭缪特出品公司
+Comment: 0,0:20:19.52,0:20:23.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1482,540)}{\fnHeiti SC}制作公司\N\N{\fs28}彭缪特出品公司
+Comment: 0,0:20:27.52,0:20:31.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1460,550)}{\fnHeiti SC}制作公司\N\N\N{\fs28}后院计划影业\N\N三点资本
+Comment: 0,0:20:35.53,0:20:41.57,Titles,,0,0,0,,{\fs120\c&H000000&\3c&HB25EA3&\bord10\fnHeiti SC\pos(944,382)}无  双
+Comment: 0,0:20:45.54,0:20:49.08,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1560,552)}{\fnHeiti SC}编剧兼导演\N\N\N{\fs28}詹姆斯·斯威尼
 Dialogue: 0,0:20:49.72,0:20:50.85,Default,,0,0,0,,打扰一下\NExcuse me.
 Dialogue: 0,0:20:51.65,0:20:54.25,Default,,0,0,0,,嗨 这儿有人坐吗？\NHi. Um, is anybody sitting here?
 Dialogue: 0,0:20:55.69,0:20:58.29,Default,,0,0,0,,嗯 没人坐 你请便\NNo. Um, yeah, feel free.
@@ -573,26 +579,26 @@ Dialogue: 0,0:32:16.17,0:32:17.77,Default,,0,0,0,,你认识那家伙吗？\NDo y
 Dialogue: 0,0:32:17.91,0:32:19.64,Default,,0,0,0,,是的 给我两分钟\NYeah. Give me two minutes.
 Dialogue: 0,0:32:22.74,0:32:23.78,Default,,0,0,0,,你好\NHi.
 Dialogue: 0,0:32:27.11,0:32:28.92,Default,,0,0,0,,我正要打电话给你\NI was gonna call you.
-Dialogue: 0,0:33:30.48,0:33:33.28,Default,,0,0,0,,你好！这是Dennis Benver的语音信箱\NHi. You've reached the voicemail of Dennis Benver.
-Dialogue: 0,0:33:33.41,0:33:36.02,Default,,0,0,0,,抱歉我现在无法接电话\NI'm sorry I can't get to the phone right now.
-Dialogue: 0,0:33:37.02,0:33:39.45,Default,,0,0,0,,我会尽快回电\NI'll try calling you back at a future time and date.
-Dialogue: 0,0:33:39.59,0:33:42.56,Default,,0,0,0,,你好！这是Dennis的语音信箱\NHi. You've reached the voicemail of Dennis.
-Dialogue: 0,0:33:43.16,0:33:44.53,Default,,0,0,0,,抱歉没接到你的电话\NI'm so sorry I missed your call,
-Dialogue: 0,0:33:44.66,0:33:46.06,Default,,0,0,0,,请留下姓名和电话号码\Nbut if you leave your name and your number,
-Dialogue: 0,0:33:46.19,0:33:49.30,Default,,0,0,0,,我会尽快回电\NI'll get back to you in a reasonable time.
-Dialogue: 0,0:33:50.03,0:33:51.97,Default,,0,0,0,,感谢你的来电 请留言\NThanks for calling. Leave a message.
-Dialogue: 0,0:33:52.10,0:33:56.00,Default,,0,0,0,,抱歉 您拨打的电话号码暂时无法接通\NI'm sorry. The call you entered cannot be completed as dialed.
-Dialogue: 0,0:33:56.14,0:33:58.07,Default,,0,0,0,,- 请挂断后重新尝试  - 你好\N- Please hang up and try again. - Hi.
-Dialogue: 0,0:33:58.21,0:34:01.58,Default,,0,0,0,,如果您需要帮助 请挂断电话然后致电您的接线员\NIf you need help, hang up and then call your operator.
-Dialogue: 0,0:34:04.98,0:34:07.52,Default,,0,0,0,,嘿 呃…\NHey, uh...
-Dialogue: 0,0:34:08.18,0:34:10.05,Default,,0,0,0,,没人会听到这个 嗯…\NNobody's ever gonna hear this. Um...
-Dialogue: 0,0:34:11.72,0:34:14.35,Default,,0,0,0,,我曾经接到一个陌生号码来电\NI answered a call from an unknown number once,
-Dialogue: 0,0:34:14.52,0:34:17.53,Default,,0,0,0,,他说 “嘿 我想你\Nand he said, "Hey, I was thinking about you.
-Dialogue: 0,0:34:17.66,0:34:19.06,Default,,0,0,0,,你今晚有空吗？”\NWhat are you doing tonight?"
-Dialogue: 0,0:34:19.83,0:34:23.40,Default,,0,0,0,,我们烤了一个草莓奶油蛋糕\NAnd we baked a strawberry shortcake.
-Dialogue: 0,0:34:25.93,0:34:27.23,Default,,0,0,0,,早上\NAnd in the morning,
-Dialogue: 0,0:34:27.40,0:34:28.87,Default,,0,0,0,,我去寻找另一片\NI went looking for another slice.
-Dialogue: 0,0:34:30.71,0:34:32.74,Default,,0,0,0,,我忘了这只是一个梦\NI forgot it was just a dream.
+Dialogue: 0,0:33:30.54,0:33:33.39,Default,,0,0,0,,你好 这是丹尼斯·本弗的语音信箱\NHi. You've reached the voicemail of Dennis Benver.
+Dialogue: 0,0:33:33.41,0:33:36.20,Default,,0,0,0,,抱歉 我现在没法接电话\NI'm sorry I can't get to the phone right now.
+Dialogue: 0,0:33:37.05,0:33:39.48,Default,,0,0,0,,我会尽快回电\NI'll try calling you back at a future time and date.
+Dialogue: 0,0:33:39.69,0:33:42.91,Default,,0,0,0,,你好 这是丹尼斯的留言箱\NHi. You've reached the voicemail of Dennis.
+Dialogue: 0,0:33:43.27,0:33:44.68,Default,,0,0,0,,真抱歉没接到你的来电\NI'm so sorry I missed your call,
+Dialogue: 0,0:33:44.71,0:33:46.17,Default,,0,0,0,,留个名字和号码\Nbut if you leave your name and your number,
+Dialogue: 0,0:33:46.19,0:33:49.30,Default,,0,0,0,,我会立马回电\NI'll get back to you in a reasonable time.
+Dialogue: 0,0:33:50.14,0:33:52.16,Default,,0,0,0,,感谢来电 请留言\NThanks for calling. Leave a message.
+Dialogue: 0,0:33:52.18,0:33:56.23,Default,,0,0,0,,抱歉 您拨打的电话暂时无法接通\NI'm sorry. The call you entered cannot be completed as dialed.
+Dialogue: 0,0:33:56.26,0:33:58.19,Default,,0,0,0,,请稍后再拨\NPlease hang up and try again.
+Dialogue: 0,0:33:58.21,0:34:02.36,Default,,0,0,0,,如需帮助 请致电您的运营商\NIf you need help, hang up and then call your operator.
+Dialogue: 0,0:34:05.03,0:34:07.57,Default,,0,0,0,,嘿...\NHey, uh...
+Dialogue: 0,0:34:08.29,0:34:11.78,Default,,0,0,0,,反正没人会听到的\NNobody's ever gonna hear this. Um...
+Dialogue: 0,0:34:11.81,0:34:14.60,Default,,0,0,0,,我曾接过一通陌生来电\NI answered a call from an unknown number once,
+Dialogue: 0,0:34:14.63,0:34:17.64,Default,,0,0,0,,他说“我想你了\Nand he said, "Hey, I was thinking about you.
+Dialogue: 0,0:34:17.66,0:34:19.85,Default,,0,0,0,,今晚有什么安排？”\NWhat are you doing tonight?"
+Dialogue: 0,0:34:19.87,0:34:24.91,Default,,0,0,0,,后来我和他一起做了个草莓蛋糕\NAnd we baked a strawberry shortcake.
+Dialogue: 0,0:34:26.31,0:34:27.61,Default,,0,0,0,,早上\NAnd in the morning,
+Dialogue: 0,0:34:27.64,0:34:30.43,Default,,0,0,0,,我还去找剩蛋糕\NI went looking for another slice.
+Dialogue: 0,0:34:30.77,0:34:33.46,Default,,0,0,0,,才记起那不过是场梦\NI forgot it was just a dream.
 Dialogue: 0,0:35:13.75,0:35:15.05,Default,,0,0,0,,我们不咬人\NWe don't bite.
 Dialogue: 0,0:35:16.45,0:35:18.99,Default,,0,0,0,,哦 抱歉 我想我迷失方向了\NOh, sorry. I think I'm lost.
 Dialogue: 0,0:35:19.12,0:35:20.39,Default,,0,0,0,,我明白\NI understand.
@@ -1603,20 +1609,20 @@ Dialogue: 0,1:35:09.51,1:35:10.81,Default,,0,0,0,,其实是块砖头\NIt was wit
 Dialogue: 0,1:35:16.62,1:35:18.32,Default,,0,0,0,,二位吃得好吗？需要点什么吗？\NHow are y'all doing? Can I get you anything?
 Dialogue: 0,1:35:19.72,1:35:21.39,Default,,0,0,0,,打包盒可以给我们一个吗？\NCan we get a box to go?
 Dialogue: 0,1:35:22.19,1:35:23.32,Default,,0,0,0,,当然\NSure thing.
-Dialogue: 0,1:35:36.24,1:35:39.27,演职人员,,0,0,0,,{\an8}主演\N迪伦·欧布莱恩 饰 罗曼和罗基
-Dialogue: 0,1:35:40.24,1:35:43.27,演职人员,,0,0,0,,{\an8}主演\N詹姆斯·斯威尼 饰 丹尼斯
-Dialogue: 0,1:35:44.24,1:35:47.27,演职人员,,0,0,0,,{\an8}主演\N艾斯琳·弗兰乔茜 饰 玛茜
-Dialogue: 0,1:35:48.25,1:35:51.28,演职人员,,0,0,0,,{\an8}主演\N克里斯·佩尔费蒂 饰 乔治？\N【片中未注明角色需指出他饰演什么】
-Dialogue: 0,1:35:52.42,1:35:55.45,演职人员,,0,0,0,,{\an8}主演\N弗朗索瓦·阿尔诺 饰 萨米
-Dialogue: 0,1:35:56.42,1:35:59.45,演职人员,,0,0,0,,{\an8}主演\N塔莎·史密斯 饰 夏洛特
-Dialogue: 0,1:36:00.26,1:36:03.29,演职人员,,0,0,0,,{\an8}主演\N劳伦·格拉汉姆 饰 丽莎？？
-Dialogue: 0,1:36:04.26,1:36:07.29,演职人员,,0,0,0,,{\an8}主演\N苏珊·朴 饰 赛奇\N克 丽 饰 比安卡
-Dialogue: 0,1:36:20.28,1:36:23.31,演职人员,,0,0,0,,{\an8}配乐\N郑在日
-Dialogue: 0,1:36:24.28,1:36:27.31,演职人员,,0,0,0,,{\an8}剪辑\N耐克·博亚诺夫
-Dialogue: 0,1:36:32.29,1:36:35.32,演职人员,,0,0,0,,{\an8}摄影\N格雷格·科顿
-Dialogue: 0,1:36:36.44,1:36:43.42,演职人员,,0,0,0,,{\an8}蒙太奇字幕组 原创译制 · 许可CC BY‑NC‑SA 4.0\N翻译：xxx · 校对：yyy · 后期：zzz\NTelegram和IRC交流群：MontageSubs
-Dialogue: 0,1:36:52.31,1:36:55.34,演职人员,,0,0,0,,{\an8}制片人\N大卫·彭缪特\N詹姆斯·斯威尼
-Dialogue: 0,1:39:57.92,1:40:00.88,Default,,0,0,0,,{\an2}(彭缪特出品公司)
+Dialogue: 0,1:35:36.24,1:35:39.27,Credits,,0,0,0,,{\an8}主演\N迪伦·欧布莱恩 饰 罗曼和罗基
+Dialogue: 0,1:35:40.24,1:35:43.27,Credits,,0,0,0,,{\an8}主演\N詹姆斯·斯威尼 饰 丹尼斯
+Dialogue: 0,1:35:44.24,1:35:47.27,Credits,,0,0,0,,{\an8}主演\N艾斯琳·弗兰乔茜 饰 玛茜
+Dialogue: 0,1:35:48.25,1:35:51.28,Credits,,0,0,0,,{\an8}主演\N克里斯·佩尔费蒂 饰 乔治？\N【片中未注明角色需指出他饰演什么】
+Dialogue: 0,1:35:52.42,1:35:55.45,Credits,,0,0,0,,{\an8}主演\N弗朗索瓦·阿尔诺 饰 萨米
+Dialogue: 0,1:35:56.42,1:35:59.45,Credits,,0,0,0,,{\an8}主演\N塔莎·史密斯 饰 夏洛特
+Dialogue: 0,1:36:00.26,1:36:03.29,Credits,,0,0,0,,{\an8}主演\N劳伦·格拉汉姆 饰 丽莎？？
+Dialogue: 0,1:36:04.26,1:36:07.29,Credits,,0,0,0,,{\an8}主演\N苏珊·朴 饰 赛奇\N克 丽 饰 比安卡
+Dialogue: 0,1:36:20.28,1:36:23.31,Credits,,0,0,0,,{\an8}配乐\N郑在日
+Dialogue: 0,1:36:24.28,1:36:27.31,Credits,,0,0,0,,{\an8}剪辑\N耐克·博亚诺夫
+Dialogue: 0,1:36:32.29,1:36:35.32,Credits,,0,0,0,,{\an8}摄影\N格雷格·科顿
+Dialogue: 0,1:36:36.44,1:36:43.42,Credits,,0,0,0,,{\an8}蒙太奇字幕组 原创译制 · 许可CC BY‑NC‑SA 4.0\N翻译：xxx · 校对：yyy · 后期：zzz\NTelegram和IRC交流群：MontageSubs
+Dialogue: 0,1:36:52.31,1:36:55.34,Credits,,0,0,0,,{\an8}制片人\N大卫·彭缪特\N詹姆斯·斯威尼
+Dialogue: 0,1:39:57.92,1:40:00.88,Default,,0,0,0,,{\an2}（彭缪特出品公司）
 Dialogue: 0,1:40:00.90,1:40:03.87,Default,,0,0,0,,{\an2}（后院计划影业）
 Dialogue: 0,1:40:03.89,1:40:06.89,Default,,0,0,0,,{\an2}（共和影业）
 Dialogue: 0,1:40:06.91,1:40:11.63,Default,,0,0,0,,{\an2}（狮门影业）
