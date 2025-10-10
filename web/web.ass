@@ -238,7 +238,7 @@ Dialogue: 0,0:11:24.29,0:11:25.43,Default,,0,0,0,,对 嗯\NRight. Yeah.
 Dialogue: 0,0:11:25.45,0:11:28.17,Default,,0,0,0,,嗯 那词叫什么来着？\NYeah, what is the word again?
 Dialogue: 0,0:11:28.25,0:11:29.88,Default,,0,0,0,,哦 呃…\NOh, uh...
 Dialogue: 0,0:11:31.76,0:11:33.63,Default,,0,0,0,,“阿托图西”\N"Ahtoatushi."
-Dialogue: 0,0:11:33.65,0:11:36.00,Default,,0,0,0,,{\an9}【阿托图西：被误认后瞎编 应为孤独死 】
+Dialogue: 0,0:11:33.65,0:11:36.00,Default,,0,0,0,,{\an9}【阿托图西：被误认后瞎编 应为孤独死】
 Dialogue: 0,0:11:36.02,0:11:37.56,Default,,0,0,0,,不对吧\NThat doesn't sound right.
 Dialogue: 0,0:12:06.98,0:12:08.05,Default,,0,0,0,,喂\NHello?
 Dialogue: 0,0:12:08.07,0:12:10.41,Default,,0,0,0,,喂 是我 罗曼\NHey. It's Roman.
@@ -398,50 +398,54 @@ Dialogue: 0,0:22:21.14,0:22:22.23,Default,,0,0,0,,（日语）行啊\Nじゃあ
 Dialogue: 0,0:22:22.25,0:22:26.42,Default,,0,0,0,,（日语）那我说 你听就好了\N俺が話すからお前が聞けよ
 Dialogue: 0,0:22:28.07,0:22:29.59,Default,,0,0,0,,我刚才说的啥？\NWhat did I just say?
 Dialogue: 0,0:22:29.62,0:22:31.74,Default,,0,0,0,,- 奶昔什么的吧 - 天呐\N- Something about milkshakes. - Oh, my God.
-Dialogue: 0,0:22:31.77,0:22:33.67,Default,,0,0,0,,- 你这个瘦巴巴的骗子 - 你怎么会说日语？\N- You're a skinny fucking liar. - Why do you speak Japanese?
-Dialogue: 0,0:22:33.69,0:22:36.77,Default,,0,0,0,,因为我在东京待过 干嘛骗我？\NBecause I lived in Tokyo. Why would you lie to me?
+Dialogue: 0,0:22:31.77,0:22:33.67,Default,,0,0,0,,- 你这瘦巴巴的骗子 - 你怎么会说日语？\N- You're a skinny fucking liar. - Why do you speak Japanese?
+Dialogue: 0,0:22:33.69,0:22:37.32,Default,,0,0,0,,因为我在东京待过 干嘛骗我？\NBecause I lived in Tokyo. Why would you lie to me?
 Dialogue: 0,0:22:37.96,0:22:39.93,Default,,0,0,0,,能翻篇了吗？\NIs this over?
 Dialogue: 0,0:22:40.69,0:22:42.18,Default,,0,0,0,,不能 你很可爱\NNo, you're cute.
 Dialogue: 0,0:22:42.41,0:22:44.86,Default,,0,0,0,,我有点迷上你了\NI'm kind of obsessed with you.
 Dialogue: 0,0:22:44.89,0:22:47.29,Default,,0,0,0,,- 等等 你车停哪儿了？ - 我们走过了\N- Wait, where did you park? - No, we passed it.
 Dialogue: 0,0:22:47.31,0:22:50.95,Default,,0,0,0,,- 你为什么不早说？ - 我在跟着你\N- Why didn't you say anything? - I was following you.
 Dialogue: 0,0:22:51.28,0:22:54.85,Default,,0,0,0,,噢 你喜欢跟着我吗？\NAw. You like following me?
-Dialogue: 0,0:23:01.55,0:23:03.48,Default,,0,0,0,,告诉我一件你从未告诉过别人的事\NTell me something you've never told anyone.
-Dialogue: 0,0:23:04.52,0:23:05.85,Default,,0,0,0,,我没看过《钢木兰》\NI've never seen Steel Magnolias.
-Dialogue: 0,0:23:05.99,0:23:08.16,Default,,0,0,0,,- 哦 这太性感了 - 是吗？轮到你了\N- Oh, that's so hot. - Yeah? Your turn.
-Dialogue: 0,0:23:08.29,0:23:10.42,Default,,0,0,0,,呃 在八年级的科学课上 我把仓鼠爸爸\NUh, in eighth-grade science, I put the father hamster
-Dialogue: 0,0:23:10.56,0:23:11.86,Default,,0,0,0,,放回仓鼠妈妈的笼子里\Nback in the cage with the mother hamster,
-Dialogue: 0,0:23:11.99,0:23:13.59,Default,,0,0,0,,他吃掉了两个仓鼠宝宝\Nand he ate two of the babies.
-Dialogue: 0,0:23:13.73,0:23:15.86,Default,,0,0,0,,噢 这有点重口\NOh, that's kind of kinky.
-Dialogue: 0,0:23:18.03,0:23:19.77,Default,,0,0,0,,如果我们俩在一起 我们可以换衣服穿\NIf we were in a relationship, we could share clothes.
-Dialogue: 0,0:23:19.90,0:23:21.87,Default,,0,0,0,,我们的尺码不一样吧\NI don't think we're the same size.
-Dialogue: 0,0:23:22.00,0:23:23.84,Default,,0,0,0,,- 你多高？ - 一米七八\N- How tall are you? - Five-ten.
-Dialogue: 0,0:23:23.97,0:23:26.37,Default,,0,0,0,,嗯 我也是一米七八 双胞胎啊\NMmm. I'm five-ten. Twins.
-Dialogue: 0,0:23:28.31,0:23:30.04,Default,,0,0,0,,真的吗？\NThese even real?
-Dialogue: 0,0:23:30.18,0:23:31.91,Default,,0,0,0,,- 我还真是双胞胎 - 什么？\N- You know, I am a twin. - What?
-Dialogue: 0,0:23:32.05,0:23:34.18,Default,,0,0,0,,- 我是双胞胎 - 你也是双胞胎吗？\N- I'm a twin. - You have a twin?
-Dialogue: 0,0:23:34.32,0:23:35.95,Default,,0,0,0,,是的 捏我的乳头\NYeah. Pinch my nipple.
-Dialogue: 0,0:23:36.08,0:23:37.75,Default,,0,0,0,,- 你在逗我玩吗？ - 没有啊\N- You messing with me right now? - No.
-Dialogue: 0,0:23:37.89,0:23:40.09,Default,,0,0,0,,你有个双胞胎兄弟？\NAre you monozygotic?
-Dialogue: 0,0:23:40.22,0:23:41.96,Default,,0,0,0,,- 那你们长得一模一样 嘢 - 对！\N- If that means identical, yeah. - Oh!
-Dialogue: 0,0:23:42.09,0:23:44.33,Default,,0,0,0,,我超喜欢双胞胎 我有整套\NI am obsessed with twins. I owned the entire
-Dialogue: 0,0:23:44.49,0:23:46.43,Default,,0,0,0,,《玛丽·凯特和阿什莉历险记》丛书\NNew Adventures of Mary-Kate and Ashley book series.
-Dialogue: 0,0:23:46.56,0:23:48.53,Default,,0,0,0,,她们的所有的电影我都看过\NI watched all their movies
-Dialogue: 0,0:23:48.66,0:23:50.63,Default,,0,0,0,,甚至那些突然被砍的电视剧我都看了\Nand all of their abruptly canceled TV series.
-Dialogue: 0,0:23:50.77,0:23:53.57,Default,,0,0,0,,五岁起 每年圣诞节我都会向我妈要一个双胞胎\NI asked my mom for a twin every Christmas from age five...
-Dialogue: 0,0:23:53.70,0:23:55.37,Default,,0,0,0,,直到我知道性是什么\N...until I learned what sex was.
-Dialogue: 0,0:23:55.50,0:23:57.20,Default,,0,0,0,,我真不敢相信你有一个双胞胎\NI can't believe you have a twin.
-Dialogue: 0,0:23:57.34,0:23:58.64,Default,,0,0,0,,- 我太喜欢双胞胎了 - 是吗？\N- I love twins. - Yeah?
-Dialogue: 0,0:23:58.77,0:24:00.37,Default,,0,0,0,,- 是啊 - 他叫罗曼\N- Yeah. - His name's Roman.
-Dialogue: 0,0:24:00.51,0:24:04.08,Default,,0,0,0,,哦 罗基和罗曼 我太喜欢这对名字了\NOh, Rocky and Roman. I fucking love that.
-Dialogue: 0,0:24:06.55,0:24:09.65,Default,,0,0,0,,他也在波特兰吗？在这栋楼里吗？\NDoes he live in Portland? Does he live in this building?
-Dialogue: 0,0:24:11.85,0:24:13.49,Default,,0,0,0,,你是不是反应太大了点？\NDid you just get harder?
-Dialogue: 0,0:24:17.86,0:24:19.96,Default,,0,0,0,,那你们有互换过身份吗？\NSo, did you ever switch places?
-Dialogue: 0,0:24:20.09,0:24:21.60,Default,,0,0,0,,大二那年\NSophomore year.
-Dialogue: 0,0:24:21.73,0:24:23.97,Default,,0,0,0,,几何期末考试\NGeometry final.
-Dialogue: 0,0:24:24.10,0:24:27.90,Default,,0,0,0,,你们说过的最长的'撞口令'是什么？\NWhat's the longest sentence you've ever said in unison?
-Dialogue: 0,0:24:28.04,0:24:29.47,Default,,0,0,0,,“她还想要一个面包圈”\N"All that she wants is another bagel."
-Dialogue: 0,0:24:29.60,0:24:31.57,Default,,0,0,0,,噢 天啦 我要高潮了\NOh, my God, I'm gonna come.
+Dialogue: 0,0:23:01.55,0:23:03.91,Default,,0,0,0,,说个你从没说过的秘密\NTell me something you've never told anyone.
+Dialogue: 0,0:23:04.57,0:23:06.19,Default,,0,0,0,,我从没看过《钢木兰》\NI've never seen Steel Magnolias.
+Dialogue: 0,0:23:04.57,0:23:08.02,Default,,0,0,0,,{\an9}【《钢木兰》（1989）：经典女性情感片 常作为情感参照】
+Dialogue: 0,0:23:06.23,0:23:08.27,Default,,0,0,0,,- 哦 太撩了 - 是吗？该你说了\N- Oh, that's so hot. - Yeah? Your turn.
+Dialogue: 0,0:23:08.29,0:23:10.54,Default,,0,0,0,,初二科学课上 我把仓鼠爸爸\NUh, in eighth-grade science, I put the father hamster
+Dialogue: 0,0:23:10.56,0:23:12.08,Default,,0,0,0,,放回仓鼠妈妈的笼子里\Nback in the cage with the mother hamster,
+Dialogue: 0,0:23:12.11,0:23:13.88,Default,,0,0,0,,结果他吃了两个仓鼠宝宝\Nand he ate two of the babies.
+Dialogue: 0,0:23:13.91,0:23:16.04,Default,,0,0,0,,噢 这有点重口\NOh, that's kind of kinky.
+Dialogue: 0,0:23:18.03,0:23:19.98,Default,,0,0,0,,要是我们在一起 衣服就能互穿了\NIf we were in a relationship, we could share clothes.
+Dialogue: 0,0:23:20.01,0:23:21.98,Default,,0,0,0,,我们的尺码不一样吧\NI don't think we're the same size.
+Dialogue: 0,0:23:22.00,0:23:23.95,Default,,0,0,0,,- 你多高？ - 一米七八\N- How tall are you? - Five-ten.
+Dialogue: 0,0:23:23.97,0:23:26.37,Default,,0,0,0,,我也是一米七八 双胞胎啊\NMmm. I'm five-ten. Twins.
+Dialogue: 0,0:23:28.36,0:23:30.21,Default,,0,0,0,,这眼镜真的假的？\NThese even real?
+Dialogue: 0,0:23:30.24,0:23:32.03,Default,,0,0,0,,- 我还真是双胞胎 - 什么？\N- You know, I am a twin. - What?
+Dialogue: 0,0:23:32.05,0:23:34.37,Default,,0,0,0,,- 我是双胞胎 - 你有个双胞胎？\N- I'm a twin. - You have a twin?
+Dialogue: 0,0:23:34.39,0:23:36.06,Default,,0,0,0,,是的 掐我乳头 验证一下\NYeah. Pinch my nipple.
+Dialogue: 0,0:23:36.08,0:23:37.87,Default,,0,0,0,,- 你在逗我吧？ - 没有\N- You messing with me right now? - No.
+Dialogue: 0,0:23:37.89,0:23:40.09,Default,,0,0,0,,你们是单卵的吗？\NAre you monozygotic?
+Dialogue: 0,0:23:40.12,0:23:42.07,Default,,0,0,0,,- 指同卵的话 是的 - 哦！\N- If that means identical, yeah. - Oh!
+Dialogue: 0,0:23:42.09,0:23:44.33,Default,,0,0,0,,我超迷双胞胎的 我有整套\NI am obsessed with twins. I owned the entire
+Dialogue: 0,0:23:44.36,0:23:46.64,Default,,0,0,0,,《玛丽-凯特和阿什莉历险记》丛书\NNew Adventures of Mary-Kate and Ashley book series.
+Dialogue: 0,0:23:44.36,0:23:48.72,Default,,0,0,0,,{\an9}【90年代双胞胎童星的冒险故事】
+Dialogue: 0,0:23:46.67,0:23:48.71,Default,,0,0,0,,她们所有的电影\NI watched all their movies
+Dialogue: 0,0:23:48.73,0:23:50.80,Default,,0,0,0,,被砍的剧我都看过\Nand all of their abruptly canceled TV series.
+Dialogue: 0,0:23:50.82,0:23:53.68,Default,,0,0,0,,从五岁起 每年都跟我妈求个双胞胎\NI asked my mom for a twin every Christmas from age five...
+Dialogue: 0,0:23:53.70,0:23:55.58,Default,,0,0,0,,直到知道性是什么\N...until I learned what sex was.
+Dialogue: 0,0:23:55.61,0:23:57.42,Default,,0,0,0,,真不敢相信你有个双胞胎\NI can't believe you have a twin.
+Dialogue: 0,0:23:57.45,0:23:58.81,Default,,0,0,0,,- 我超爱双胞胎 - 是吗？\N- I love twins. - Yeah?
+Dialogue: 0,0:23:58.84,0:24:00.49,Default,,0,0,0,,- 是啊 - 他叫罗曼\N- Yeah. - His name's Roman.
+Dialogue: 0,0:24:00.51,0:24:05.06,Default,,0,0,0,,罗基和罗曼 简直绝配 爱死了\NOh, Rocky and Roman. I fucking love that.
+Dialogue: 0,0:24:06.55,0:24:10.35,Default,,0,0,0,,他也在波特兰吗？在这栋楼里吗？\NDoes he live in Portland? Does he live in this building?
+Dialogue: 0,0:24:11.85,0:24:14.18,Default,,0,0,0,,你是不是更兴奋了？\NDid you just get harder?
+Dialogue: 0,0:24:17.78,0:24:20.12,Default,,0,0,0,,你们有互换过身份吗？\NSo, did you ever switch places?
+Dialogue: 0,0:24:20.14,0:24:21.77,Default,,0,0,0,,高二那年\NSophomore year.
+Dialogue: 0,0:24:21.79,0:24:23.72,Default,,0,0,0,,几何期末考试\NGeometry final.
+Dialogue: 0,0:24:24.06,0:24:27.98,Default,,0,0,0,,你们齐声说过最长的一句是啥？\NWhat's the longest sentence you've ever said in unison?
+Dialogue: 0,0:24:28.01,0:24:29.64,Default,,0,0,0,,“她只想再要个贝果”\N"All that she wants is another bagel."
+Dialogue: 0,0:24:28.01,0:24:31.55,Default,,0,0,0,,{\an9}【改编自瑞典乐队爱司基地《她只想要》歌词】
+Dialogue: 0,0:24:29.67,0:24:31.64,Default,,0,0,0,,天呐 我要高潮了\NOh, my God, I'm gonna come.
+Dialogue: 0,0:24:32.76,0:24:37.36,Default,,0,0,0,,{\an5}【小p精译至此】
 Dialogue: 0,0:24:37.38,0:24:39.31,Default,,0,0,0,,你为什么对双胞胎这么痴迷？\NSo, why are you so obsessed with twins?
 Dialogue: 0,0:24:39.45,0:24:41.45,Default,,0,0,0,,嗯…我不想告诉你\NMm. I don't want to tell you.
 Dialogue: 0,0:24:41.58,0:24:43.02,Default,,0,0,0,,哦 你肯定还是会说的 来吧\NOh, you're gonna tell me anyway. Come on.
@@ -496,7 +500,7 @@ Dialogue: 0,0:27:22.21,0:27:25.08,Default,,0,0,0,,他不想让我一个人“疼
 Dialogue: 0,0:27:25.21,0:27:27.65,Default,,0,0,0,,哦 天呐 他太好了\NOh. Oh, my God, that's adorable.
 Dialogue: 0,0:27:27.78,0:27:29.42,Default,,0,0,0,,他可能故意拿保龄球\NHe probably, like, dropped a bowling ball
 Dialogue: 0,0:27:29.55,0:27:30.48,Default,,0,0,0,,砸他脚了\Non it or something.
-Dialogue: 0,0:27:30.62,0:27:31.95,Default,,0,0,0,,-天啦 -我知道\N- My God. - I know.
+Dialogue: 0,0:27:30.62,0:27:31.95,Default,,0,0,0,,-天呐 -我知道\N- My God. - I know.
 Dialogue: 0,0:27:37.12,0:27:38.76,Default,,0,0,0,,我从没骨折过\NI've never broken a bone.
 Dialogue: 0,0:27:39.26,0:27:42.36,Default,,0,0,0,,嗷 不 你现在就要骨折了\NOh, no. Now, it's gonna happen.
 Dialogue: 0,0:27:42.50,0:27:44.37,Default,,0,0,0,,不能说 一说就要应验的\NIt's like a thing. You can't say that.
@@ -504,7 +508,7 @@ Dialogue: 0,0:27:44.50,0:27:45.47,Default,,0,0,0,,行吧\NOkay.
 Dialogue: 0,0:27:49.50,0:27:50.84,Default,,0,0,0,,你应该给他打电话\NYou should call him.
 Dialogue: 0,0:27:53.34,0:27:54.54,Default,,0,0,0,,嗯 是该打的\NYeah, I should.
 Dialogue: 0,0:27:54.68,0:27:56.11,Default,,0,0,0,,你打吧 我在旁边听\NYou should call him and I'll listen.
-Dialogue: 0,0:27:56.24,0:27:57.38,Default,,0,0,0,,噢 天啦\NOh, Jesus.
+Dialogue: 0,0:27:56.24,0:27:57.38,Default,,0,0,0,,噢 天呐\NOh, Jesus.
 Dialogue: 0,0:27:59.08,0:28:00.85,Default,,0,0,0,,别急嘛\NHold your hippos.
 Dialogue: 0,0:28:01.58,0:28:03.68,Default,,0,0,0,,不行 必须急啊\NNo, I can't.
 Dialogue: 0,0:28:03.82,0:28:06.02,Default,,0,0,0,,我必须修复你这段破裂的双胞胎情谊\NI must amend your broken twinship.
@@ -1216,7 +1220,7 @@ Dialogue: 0,1:07:35.02,1:07:36.19,Default,,0,0,0,,行啊 你\NNice, buddy.
 Dialogue: 0,1:07:38.39,1:07:39.69,Default,,0,0,0,,可以起床吗\NWould you please get up?
 Dialogue: 0,1:07:41.23,1:07:42.36,Default,,0,0,0,,已经下午了\NIt's afternoon.
 Dialogue: 0,1:07:46.83,1:07:48.60,Default,,0,0,0,,妈妈\NMom.
-Dialogue: 0,1:07:53.68,1:07:57.24,Default,,0,0,0,, - 袜子 - 谢谢哥们\NSocks. Thanks, buddy.
+Dialogue: 0,1:07:53.68,1:07:57.24,Default,,0,0,0,,- 袜子 - 谢谢哥们\NSocks. Thanks, buddy.
 Dialogue: 0,1:07:57.38,1:07:58.85,Default,,0,0,0,,不客气\NYou're welcome.
 Dialogue: 0,1:07:58.98,1:08:01.11,Default,,0,0,0,,下一个谁来？\NWho's next?
 Dialogue: 0,1:08:01.25,1:08:03.35,Default,,0,0,0,,这张卡是给你的 玛西\Nthe card's for you, Marcie.
