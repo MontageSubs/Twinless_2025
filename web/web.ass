@@ -357,54 +357,55 @@ Comment: 0,0:20:19.52,0:20:23.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bo
 Comment: 0,0:20:27.52,0:20:31.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1460,550)}{\fnHeiti SC}制作公司\N\N\N{\fs28}后院计划影业\N\N三点资本
 Comment: 0,0:20:35.53,0:20:41.57,Titles,,0,0,0,,{\fs120\c&H000000&\3c&HB25EA3&\bord10\fnHeiti SC\pos(944,382)}无  双
 Comment: 0,0:20:45.54,0:20:49.08,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1560,552)}{\fnHeiti SC}编剧兼导演\N\N\N{\fs28}詹姆斯·斯威尼
-Dialogue: 0,0:20:49.72,0:20:50.85,Default,,0,0,0,,打扰一下\NExcuse me.
-Dialogue: 0,0:20:51.65,0:20:54.25,Default,,0,0,0,,嗨 这儿有人坐吗？\NHi. Um, is anybody sitting here?
-Dialogue: 0,0:20:55.69,0:20:58.29,Default,,0,0,0,,嗯 没人坐 你请便\NNo. Um, yeah, feel free.
-Dialogue: 0,0:20:58.43,0:20:59.89,Default,,0,0,0,,嗯 我快吃好了 但是呢\NUh, I'm almost done, but, uh, yeah,
-Dialogue: 0,0:21:00.03,0:21:02.20,Default,,0,0,0,,我没地方去 所以…\NI-I don't have anywhere to be, so...
-Dialogue: 0,0:21:02.33,0:21:05.20,Default,,0,0,0,,哦 不是这意思 抱歉 我只是想借一下椅子\NOh. Oh, no, sorry. I just want the chair.
-Dialogue: 0,0:21:06.27,0:21:07.24,Default,,0,0,0,,没问题\NYeah.
-Dialogue: 0,0:21:08.44,0:21:10.47,Default,,0,0,0,,- 拿走吧 - 好的 谢谢\N- Take it. - Okay, thanks.
-Dialogue: 0,0:21:18.41,0:21:19.65,Default,,0,0,0,,刚真是一场悲剧\NThat was tragic.
-Dialogue: 0,0:21:20.28,0:21:22.58,Default,,0,0,0,,- 哦 你看到了？- 对 我看到了 我们都看到了\N- Oh, you saw that? - I did, yeah. We all did.
-Dialogue: 0,0:21:22.72,0:21:24.45,Default,,0,0,0,,餐馆里的所有人\NEveryone in the diner.
-Dialogue: 0,0:21:24.59,0:21:26.32,Default,,0,0,0,,你得走了 你不能再待在这里了\NYou have to leave. You can't be here anymore.
-Dialogue: 0,0:21:26.45,0:21:27.79,Default,,0,0,0,,- 我们投票了  - 喔\N- We voted. - Oh.
-Dialogue: 0,0:21:27.92,0:21:29.76,Default,,0,0,0,,我知道 走吧 我送你出去\NI know. Come on. I'll escort you out.
-Dialogue: 0,0:21:29.89,0:21:31.26,Default,,0,0,0,,来吧 跟着我\NCome on. You have to come with me.
-Dialogue: 0,0:21:31.39,0:21:34.33,Default,,0,0,0,,不 把三明治留下 好 好 我们走\NNo, leave the sandwich. Yeah. Yeah. Here we go.
-Dialogue: 0,0:21:37.90,0:21:39.47,Default,,0,0,0,,哦 天呐 你是在看我屁股？\NOh, my God, were you just looking at my butt?
-Dialogue: 0,0:21:39.60,0:21:41.43,Default,,0,0,0,,没有\NNo.
-Dialogue: 0,0:21:43.27,0:21:44.97,Default,,0,0,0,,他们家的三明治真的特好吃\NThey make really good sandwiches.
-Dialogue: 0,0:21:45.11,0:21:47.01,Default,,0,0,0,,哦 我不喜欢特好吃的三明治\NOh, I don't like really good sandwiches.
-Dialogue: 0,0:21:47.14,0:21:48.41,Default,,0,0,0,,我喜欢刚好吃的三明治\NI like good ones.
-Dialogue: 0,0:21:49.41,0:21:51.18,Default,,0,0,0,,你最喜欢哪家的三明治？\NWhat's your favorite sandwich?
-Dialogue: 0,0:21:51.31,0:21:52.78,Default,,0,0,0,,- BLT - 嗯 【要注释BLT具体指代什么？培根生菜番茄】\N- BLT. - Mm.
-Dialogue: 0,0:21:52.91,0:21:55.42,Default,,0,0,0,,- 我们可以跳过闲聊的  - 喔 好 可以\N- We can skip the small talk. - Yeah, yeah, we can.
-Dialogue: 0,0:21:55.55,0:21:57.12,Default,,0,0,0,,嗯 哦\NHmm. Ooh.
-Dialogue: 0,0:21:57.25,0:21:59.49,Default,,0,0,0,,你和你爸的关系怎么样？\NWhat's your relationship like with your father?
-Dialogue: 0,0:21:59.62,0:22:00.96,Default,,0,0,0,,你和你父母亲关系怎么样？\NAre you close with your parents?
-Dialogue: 0,0:22:01.09,0:22:02.99,Default,,0,0,0,,不 你不能用问题来回答问题\NNo, you can't answer a question with a question.
-Dialogue: 0,0:22:03.76,0:22:05.03,Default,,0,0,0,,- 我和我爸挺亲的  - 嗯\N- I'm close with my father. - Mm.
-Dialogue: 0,0:22:05.16,0:22:06.43,Default,,0,0,0,,我们不太说话\NWe don't talk much.
-Dialogue: 0,0:22:06.56,0:22:08.76,Default,,0,0,0,,是那种不用说出口的亲近 他住在日本\NIt's an unspoken closeness. He lives in Japan.
-Dialogue: 0,0:22:08.90,0:22:10.03,Default,,0,0,0,,- 日本？- 对\N- Japan? - Yeah.
-Dialogue: 0,0:22:10.16,0:22:11.60,Default,,0,0,0,,- 为什么在日本？ - 呃 我是在日本出生的\N- Why Japan? - Uh, I was born in Japan.
-Dialogue: 0,0:22:11.73,0:22:13.20,Default,,0,0,0,,他在大阪当教授\NHe's a professor in Osaka.
-Dialogue: 0,0:22:13.33,0:22:14.80,Default,,0,0,0,,- 等等 真的吗？你日语流利吗？ - 嗯哼\N- Wait, really? Are you fluent? - Mm-hmm.
-Dialogue: 0,0:22:14.94,0:22:16.47,Default,,0,0,0,,嗯 准确说是我能听日语\NWell, I mean, I-I understand fluently,
-Dialogue: 0,0:22:16.60,0:22:18.54,Default,,0,0,0,,但我说日语口音…算了\Nbut my accent's sort of-- Anyway.
-Dialogue: 0,0:22:18.67,0:22:21.01,Default,,0,0,0,,呃 所以别叫我说日语\NUh, so don't ask me to say anything.
-Dialogue: 0,0:22:27.98,0:22:29.45,Default,,0,0,0,,我刚才说的啥？\NWhat did I just say?
-Dialogue: 0,0:22:29.58,0:22:31.82,Default,,0,0,0,,- 奶昔什么的吧  - 哦 天啦\N- Something about milkshakes. - Oh, my God.
-Dialogue: 0,0:22:31.95,0:22:33.55,Default,,0,0,0,,- 你是个该死的瘦骗子  - 你为什么会说日语？\N- You're a skinny fucking liar. - Why do you speak Japanese?
-Dialogue: 0,0:22:33.69,0:22:35.49,Default,,0,0,0,,因为我在东京待过 那你为什么骗我？\NBecause I lived in Tokyo. Why would you lie to me?
-Dialogue: 0,0:22:37.96,0:22:39.03,Default,,0,0,0,,这事儿能翻篇了吗？\NIs this over?
-Dialogue: 0,0:22:40.63,0:22:41.86,Default,,0,0,0,,不能 你很可爱\NNo, you're cute.
-Dialogue: 0,0:22:42.36,0:22:44.67,Default,,0,0,0,,我有点迷上你了\NI'm kind of obsessed with you.
-Dialogue: 0,0:22:44.80,0:22:47.07,Default,,0,0,0,,- 等等 你车停在哪儿？ - 不是这边 我们走过了\N- Wait, where did you park? - No, we passed it.
-Dialogue: 0,0:22:47.20,0:22:49.54,Default,,0,0,0,,- 你为什么不早说？ - 我一直在跟着你啊\N- Why didn't you say anything? - I was following you.
-Dialogue: 0,0:22:51.27,0:22:53.51,Default,,0,0,0,,噢 你喜欢跟着我？\NAw. You like following me?
+Dialogue: 0,0:20:49.91,0:20:51.19,Default,,0,0,0,,打扰一下\NExcuse me.
+Dialogue: 0,0:20:51.68,0:20:54.75,Default,,0,0,0,,嗨 这儿有人坐吗？\NHi. Um, is anybody sitting here?
+Dialogue: 0,0:20:55.74,0:20:58.34,Default,,0,0,0,,没人 你请便\NNo. Um, yeah, feel free.
+Dialogue: 0,0:20:58.43,0:21:00.01,Default,,0,0,0,,我快吃完了\NUh, I'm almost done, but, uh, yeah,
+Dialogue: 0,0:21:00.03,0:21:02.44,Default,,0,0,0,,但 但我也没别的地方去 恐怕...\NI-I don't have anywhere to be, so...
+Dialogue: 0,0:21:02.46,0:21:05.91,Default,,0,0,0,,哦 不是的 我只是想借把椅子\NOh. Oh, no, sorry. I just want the chair.
+Dialogue: 0,0:21:06.40,0:21:07.58,Default,,0,0,0,,没问题\NYeah.
+Dialogue: 0,0:21:08.56,0:21:10.80,Default,,0,0,0,,- 拿吧 - 好的 谢谢\N- Take it. - Okay, thanks.
+Dialogue: 0,0:21:18.50,0:21:20.19,Default,,0,0,0,,你太悲催了\NThat was tragic.
+Dialogue: 0,0:21:20.29,0:21:22.81,Default,,0,0,0,,- 哦 你看到了？- 看到了 大家都看到了\N- Oh, you saw that? - I did, yeah. We all did.
+Dialogue: 0,0:21:22.84,0:21:24.67,Default,,0,0,0,,整个餐馆都看到了\NEveryone in the diner.
+Dialogue: 0,0:21:24.70,0:21:26.53,Default,,0,0,0,,你得走 你在这太不合场面了\NYou have to leave. You can't be here anymore.
+Dialogue: 0,0:21:26.56,0:21:28.00,Default,,0,0,0,,- 都投票通过了  - 哦\N- We voted. - Oh.
+Dialogue: 0,0:21:28.03,0:21:29.97,Default,,0,0,0,,我知道 来吧 我送你出去\NI know. Come on. I'll escort you out.
+Dialogue: 0,0:21:30.00,0:21:31.37,Default,,0,0,0,,快点 跟我走\NCome on. You have to come with me.
+Dialogue: 0,0:21:31.39,0:21:34.33,Default,,0,0,0,,不 把三明治留下 好 好 跟我走\NNo, leave the sandwich. Yeah. Yeah. Here we go.
+Dialogue: 0,0:21:38.08,0:21:39.73,Default,,0,0,0,,天呐 刚在看我屁股吗？\NOh, my God, were you just looking at my butt?
+Dialogue: 0,0:21:39.76,0:21:41.59,Default,,0,0,0,,没有啊\NNo.
+Dialogue: 0,0:21:43.35,0:21:45.15,Default,,0,0,0,,刚才的三明治真特好吃\NThey make really good sandwiches.
+Dialogue: 0,0:21:45.17,0:21:47.21,Default,,0,0,0,,哦 我不喜欢特好吃的\NOh, I don't like really good sandwiches.
+Dialogue: 0,0:21:47.24,0:21:49.19,Default,,0,0,0,,我喜欢刚刚好的\NI like good ones.
+Dialogue: 0,0:21:49.52,0:21:51.39,Default,,0,0,0,,你最喜欢哪种三明治？\NWhat's your favorite sandwich?
+Dialogue: 0,0:21:51.42,0:21:52.89,Default,,0,0,0,,培根生菜加番茄\NBLT.
+Dialogue: 0,0:21:52.91,0:21:55.85,Default,,0,0,0,,- 省掉寒暄直奔主题吧  - 好 可以\N- We can skip the small talk. - Yeah, yeah, we can.
+Dialogue: 0,0:21:57.16,0:21:59.60,Default,,0,0,0,,你和你爸的关系怎么样？\NWhat's your relationship like with your father?
+Dialogue: 0,0:21:59.62,0:22:01.02,Default,,0,0,0,,你和你父母亲关系呢？\NAre you close with your parents?
+Dialogue: 0,0:22:01.05,0:22:03.45,Default,,0,0,0,,不行 别用问题来回问题\NNo, you can't answer a question with a question.
+Dialogue: 0,0:22:03.87,0:22:05.24,Default,,0,0,0,,我和我爸挺亲的\NI'm close with my father.
+Dialogue: 0,0:22:05.27,0:22:06.54,Default,,0,0,0,,我们不太说话\NWe don't talk much.
+Dialogue: 0,0:22:06.56,0:22:08.98,Default,,0,0,0,,是种无言的亲近 他住在日本\NIt's an unspoken closeness. He lives in Japan.
+Dialogue: 0,0:22:09.01,0:22:10.14,Default,,0,0,0,,- 日本？- 对\N- Japan? - Yeah.
+Dialogue: 0,0:22:10.16,0:22:11.74,Default,,0,0,0,,- 为什么在日本？ - 呃 我出生在日本\N- Why Japan? - Uh, I was born in Japan.
+Dialogue: 0,0:22:11.76,0:22:13.40,Default,,0,0,0,,他在大阪当教授\NHe's a professor in Osaka.
+Dialogue: 0,0:22:13.42,0:22:15.02,Default,,0,0,0,,- 真假吗？你日语溜吗？ - 嗯哼\N- Wait, really? Are you fluent? - Mm-hmm.
+Dialogue: 0,0:22:15.05,0:22:16.58,Default,,0,0,0,,嗯 准确说 我听得很溜\NWell, I mean, I-I understand fluently,
+Dialogue: 0,0:22:16.60,0:22:18.54,Default,,0,0,0,,只是口音很怪\Nbut my accent's sort of-- Anyway.
+Dialogue: 0,0:22:18.57,0:22:20.91,Default,,0,0,0,,别让我开口就好\NUh, so don't ask me to say anything.
+Dialogue: 0,0:22:21.14,0:22:22.23,Default,,0,0,0,,（日语）行啊\Nじゃあ
+Dialogue: 0,0:22:22.25,0:22:26.42,Default,,0,0,0,,（日语）那我说 你听就好了\N俺が話すからお前が聞けよ
+Dialogue: 0,0:22:28.07,0:22:29.59,Default,,0,0,0,,我刚才说的啥？\NWhat did I just say?
+Dialogue: 0,0:22:29.62,0:22:31.74,Default,,0,0,0,,- 奶昔什么的吧  - 天呐\N- Something about milkshakes. - Oh, my God.
+Dialogue: 0,0:22:31.77,0:22:33.67,Default,,0,0,0,,- 你这个瘦巴巴的骗子 - 你怎么会说日语？\N- You're a skinny fucking liar. - Why do you speak Japanese?
+Dialogue: 0,0:22:33.69,0:22:36.77,Default,,0,0,0,,因为我在东京待过 干嘛骗我？\NBecause I lived in Tokyo. Why would you lie to me?
+Dialogue: 0,0:22:37.96,0:22:39.93,Default,,0,0,0,,能翻篇了吗？\NIs this over?
+Dialogue: 0,0:22:40.69,0:22:42.18,Default,,0,0,0,,不能 你很可爱\NNo, you're cute.
+Dialogue: 0,0:22:42.41,0:22:44.86,Default,,0,0,0,,我有点迷上你了\NI'm kind of obsessed with you.
+Dialogue: 0,0:22:44.89,0:22:47.29,Default,,0,0,0,,- 等等 你车停哪儿了？ - 我们走过了\N- Wait, where did you park? - No, we passed it.
+Dialogue: 0,0:22:47.31,0:22:50.95,Default,,0,0,0,,- 你为什么不早说？ - 我在跟着你\N- Why didn't you say anything? - I was following you.
+Dialogue: 0,0:22:51.28,0:22:54.85,Default,,0,0,0,,噢 你喜欢跟着我吗？\NAw. You like following me?
 Dialogue: 0,0:23:01.55,0:23:03.48,Default,,0,0,0,,告诉我一件你从未告诉过别人的事\NTell me something you've never told anyone.
 Dialogue: 0,0:23:04.52,0:23:05.85,Default,,0,0,0,,我没看过《钢木兰》\NI've never seen Steel Magnolias.
 Dialogue: 0,0:23:05.99,0:23:08.16,Default,,0,0,0,,- 哦 这太性感了 - 是吗？轮到你了\N- Oh, that's so hot. - Yeah? Your turn.
