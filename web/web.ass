@@ -22,9 +22,7 @@ Video Position: 105
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
-; 临时
-Style: V2-,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,8,25,25,17,1
-;
+Style: Music,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
 Style: Opening,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,0,0,2,25,25,17,1
 Style: Titles,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,0,0,2,25,25,17,1
 Style: Credits,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,4.5,0,1,0,0,2,25,25,17,1
@@ -166,7 +164,8 @@ Dialogue: 0,0:07:21.21,0:07:23.58,Default,,0,0,0,,嗯 知道 我就知道\NYeah.
 Dialogue: 0,0:07:24.55,0:07:25.48,Default,,0,0,0,,好的\NOkay.
 Dialogue: 0,0:07:27.97,0:07:30.12,Default,,0,0,0,,我叫 丹 丹尼斯\NI'm D-- uh, I'm Dennis.
 Dialogue: 0,0:07:30.42,0:07:32.22,Default,,0,0,0,,我叫罗曼\NRoman.
-Dialogue: 0,0:07:39.30,0:07:41.05,Default,,0,0,0,,- 你饿吗？ - 你双胞胎叫什么名字？\N- Are you hungry? - What was your twin's name?
+Dialogue: 0,0:07:39.30,0:07:41.05,Default,,0,0,0,,{\an3}你双胞胎叫什么名字？\NWhat was your twin's name?
+Dialogue: 0,0:07:39.30,0:07:41.05,Default,,0,0,0,,{\an1}你饿吗？\NAre you hungry?
 Dialogue: 0,0:07:41.07,0:07:42.71,Default,,0,0,0,,- 抱歉 什么？ - 只是想问你\N- Sorry, what? - Sorry. I was just gonna ask
 Dialogue: 0,0:07:42.73,0:07:44.56,Default,,0,0,0,,喜欢不喜欢三明治 没事\Nif you like sandwiches. Never mind.
 Dialogue: 0,0:07:53.64,0:07:54.92,Default,,0,0,0,,你确定不吃点？\NYou sure you don't want some?
@@ -395,10 +394,10 @@ Dialogue: 0,0:22:15.05,0:22:16.58,Default,,0,0,0,,嗯 准确说 我听得很溜\
 Dialogue: 0,0:22:16.60,0:22:18.54,Default,,0,0,0,,只是口音很怪\Nbut my accent's sort of-- Anyway.
 Dialogue: 0,0:22:18.57,0:22:20.91,Default,,0,0,0,,别让我开口就好\NUh, so don't ask me to say anything.
 Dialogue: 0,0:22:21.14,0:22:22.23,Default,,0,0,0,,（日语）行啊\Nじゃあ
-Dialogue: 0,0:22:22.25,0:22:26.42,Default,,0,0,0,,（日语）那我说 你听就好了\N俺が話すからお前が聞けよ
+Dialogue: 0,0:22:22.25,0:22:27.76,Default,,0,0,0,,（日语）那我说 你给我听好了\N俺が話すから お前が聞けよ
 Dialogue: 0,0:22:28.07,0:22:29.59,Default,,0,0,0,,我刚才说的啥？\NWhat did I just say?
 Dialogue: 0,0:22:29.62,0:22:31.74,Default,,0,0,0,,- 奶昔什么的吧 - 天呐\N- Something about milkshakes. - Oh, my God.
-Dialogue: 0,0:22:31.77,0:22:33.67,Default,,0,0,0,,- 你这瘦巴巴的骗子 - 你怎么会说日语？\N- You're a skinny fucking liar. - Why do you speak Japanese?
+Dialogue: 0,0:22:31.77,0:22:33.67,Default,,0,0,0,,- 你怎么会说日语？ - 你这瘦巴巴的骗子\N- Why do you speak Japanese? - You're a skinny fucking liar.
 Dialogue: 0,0:22:33.69,0:22:37.32,Default,,0,0,0,,因为我在东京待过 干嘛骗我？\NBecause I lived in Tokyo. Why would you lie to me?
 Dialogue: 0,0:22:37.96,0:22:39.93,Default,,0,0,0,,能翻篇了吗？\NIs this over?
 Dialogue: 0,0:22:40.69,0:22:42.18,Default,,0,0,0,,不能 你很可爱\NNo, you're cute.
@@ -441,7 +440,7 @@ Dialogue: 0,0:24:11.85,0:24:14.18,Default,,0,0,0,,你是不是更兴奋了？\ND
 Dialogue: 0,0:24:17.78,0:24:20.12,Default,,0,0,0,,你们有互换过身份吗？\NSo, did you ever switch places?
 Dialogue: 0,0:24:20.14,0:24:21.77,Default,,0,0,0,,高二那年\NSophomore year.
 Dialogue: 0,0:24:21.79,0:24:23.72,Default,,0,0,0,,几何期末考试\NGeometry final.
-Dialogue: 0,0:24:24.06,0:24:27.98,Default,,0,0,0,,你们齐声说过最长的一句是啥？\NWhat's the longest sentence you've ever said in unison?
+Dialogue: 0,0:24:23.75,0:24:27.98,Default,,0,0,0,,你们异口同声说过最长的一句是啥？\NWhat's the longest sentence you've ever said in unison?
 Dialogue: 0,0:24:28.01,0:24:29.64,Default,,0,0,0,,“她只想再要个贝果”\N"All that she wants is another bagel."
 Dialogue: 0,0:24:28.01,0:24:31.55,Default,,0,0,0,,{\an9}【改编自瑞典乐队爱司基地《她只想要》歌词】
 Dialogue: 0,0:24:29.67,0:24:31.64,Default,,0,0,0,,天呐 我要高潮了\NOh, my God, I'm gonna come.
@@ -498,7 +497,7 @@ Dialogue: 0,0:27:22.32,0:27:25.74,Default,,0,0,0,,他不想让我独自受苦\NH
 Dialogue: 0,0:27:26.21,0:27:27.76,Default,,0,0,0,,天呐 这真暖心\NOh. Oh, my God, that's adorable.
 Dialogue: 0,0:27:27.78,0:27:29.53,Default,,0,0,0,,他可能拿保龄球砸的\NHe probably, like, dropped a bowling ball
 Dialogue: 0,0:27:29.55,0:27:30.84,Default,,0,0,0,,或者类似的\Non it or something.
-Dialogue: 0,0:27:30.87,0:27:32.20,Default,,0,0,0,,-天呐 -我知道\N- My God. - I know.
+Dialogue: 0,0:27:30.87,0:27:32.20,Default,,0,0,0,,- 天呐 -我知道\N- My God. - I know.
 Dialogue: 0,0:27:37.12,0:27:39.24,Default,,0,0,0,,我都想骨折下\NI've never broken a bone.
 Dialogue: 0,0:27:39.26,0:27:42.36,Default,,0,0,0,,呸 呸 呸 完了\NOh, no. Now, it's gonna happen.
 Dialogue: 0,0:27:42.39,0:27:44.53,Default,,0,0,0,,这下要应验了 别这么说\NIt's like a thing. You can't say that.
@@ -581,7 +580,7 @@ Dialogue: 0,0:32:14.51,0:32:16.26,Default,,0,0,0,,去死吧！\NFuck you!
 Dialogue: 0,0:32:16.29,0:32:17.89,Default,,0,0,0,,你认识那个人吗？\NDo you know that guy?
 Dialogue: 0,0:32:17.91,0:32:20.08,Default,,0,0,0,,认识 给我两分钟\NYeah. Give me two minutes.
 Dialogue: 0,0:32:22.85,0:32:23.89,Default,,0,0,0,,嗨\NHi.
-Dialogue: 0,0:32:27.39,0:32:29.20,Default,,0,0,0,,我本来想打给你\NI was gonna call you.
+Dialogue: 0,0:32:27.39,0:32:29.20,Default,,0,0,0,,我正要打电话给你\NI was gonna call you.
 Dialogue: 0,0:33:30.54,0:33:33.39,Default,,0,0,0,,你好 这是丹尼斯·本弗的语音信箱\NHi. You've reached the voicemail of Dennis Benver.
 Dialogue: 0,0:33:33.41,0:33:36.20,Default,,0,0,0,,抱歉 我现在没法接电话\NI'm sorry I can't get to the phone right now.
 Dialogue: 0,0:33:37.05,0:33:39.48,Default,,0,0,0,,我会尽快回电\NI'll try calling you back at a future time and date.
@@ -617,123 +616,144 @@ Dialogue: 0,0:35:59.60,0:36:01.75,Default,,0,0,0,,他这话把我气翻了\NFuck
 Dialogue: 0,0:36:04.07,0:36:06.77,Default,,0,0,0,,大概我们已经太大了 不需要同床了\NWe were probably too old to be sharing a bed
 Dialogue: 0,0:36:06.80,0:36:08.50,Default,,0,0,0,,反正当时就那样\Nat that point, anyway.
 Dialogue: 0,0:36:11.64,0:36:14.83,Default,,0,0,0,,我 我也不知道为什么想起这事\NI don't-- I don't know why I was telling that story.
-Dialogue: 0,0:36:26.81,0:36:33.24,Default,,0,0,0,,{\an5}【小p翻译至此】
-Dialogue: 0,0:36:58.72,0:37:00.39,Default,,0,0,0,,- 嗨 丹尼斯！ - 嗷 吓死我了！\N- Hi, Dennis! - Oh, fuck me!
-Dialogue: 0,0:37:00.52,0:37:03.06,Default,,0,0,0,,喔 对不起 我不是故意吓你的\NOh, sorry, I didn't mean to startle you.
-Dialogue: 0,0:37:03.19,0:37:04.42,Default,,0,0,0,,我以为就我没走了呢\NI thought I was the last one here.
-Dialogue: 0,0:37:04.56,0:37:05.99,Default,,0,0,0,,你还在干活吗？\NAre you still working?
-Dialogue: 0,0:37:06.13,0:37:07.86,Default,,0,0,0,,不 我在学习\NNo, I'm studying.
-Dialogue: 0,0:37:08.56,0:37:09.73,Default,,0,0,0,,准备LSAT考试\NFor the LSAT.
-Dialogue: 0,0:37:08.56,0:37:09.73,Default,,0,0,0,,{\an8}LSAT（Law School Admission Test 法学入学考试）
-Dialogue: 0,0:37:10.53,0:37:12.53,Default,,0,0,0,,没听说你打算考律师啊\NI didn't know you wanted to be a lawyer.
-Dialogue: 0,0:37:12.67,0:37:14.60,Default,,0,0,0,,太酷了！哇！\NThat's so cool! Wow!
-Dialogue: 0,0:37:18.54,0:37:19.84,Default,,0,0,0,,好的 祝你晚安\NOkay, well, have a good night.
-Dialogue: 0,0:37:19.97,0:37:23.71,Default,,0,0,0,,好的！再见 丹尼斯 哦 祝你好运\NOkay! Bye, Dennis. Oh, and good luck.
-Dialogue: 0,0:37:40.06,0:37:41.66,Default,,0,0,0,,- 喂？ - 嘿\N- Hello? - Hey.
+Dialogue: 0,0:36:58.83,0:37:00.55,Default,,0,0,0,,- 嗨 丹尼斯！ - 嗷 吓死我了！\N- Hi, Dennis! - Oh, fuck me!
+Dialogue: 0,0:37:00.58,0:37:03.22,Default,,0,0,0,,喔 对不起 不是故意吓你的\NOh, sorry, I didn't mean to startle you.
+Dialogue: 0,0:37:03.25,0:37:04.63,Default,,0,0,0,,我以为都走光了\NI thought I was the last one here.
+Dialogue: 0,0:37:04.65,0:37:06.22,Default,,0,0,0,,你还在加班吗？\NAre you still working?
+Dialogue: 0,0:37:06.25,0:37:07.98,Default,,0,0,0,,不 我在学习\NNo, I'm studying.
+Dialogue: 0,0:37:08.59,0:37:10.43,Default,,0,0,0,,准备律师考试\NFor the LSAT.
+Dialogue: 0,0:37:10.60,0:37:12.65,Default,,0,0,0,,我不知道你想当律师\NI didn't know you wanted to be a lawyer.
+Dialogue: 0,0:37:12.68,0:37:14.99,Default,,0,0,0,,真厉害啊\NThat's so cool! Wow!
+Dialogue: 0,0:37:18.59,0:37:19.93,Default,,0,0,0,,行了 晚安不送\NOkay, well, have a good night.
+Dialogue: 0,0:37:19.96,0:37:22.38,Default,,0,0,0,,好的 再见 丹尼斯\NOkay! Bye, Dennis.
+Dialogue: 0,0:37:22.41,0:37:24.40,Default,,0,0,0,,哦 加油\NOh, and good luck.
+Dialogue: 0,0:37:40.11,0:37:41.71,Default,,0,0,0,,- 喂？ - 喂\N- Hello? - Hey.
 Dialogue: 0,0:37:41.83,0:37:43.53,Default,,0,0,0,,是我 罗曼\NIt's Roman.
-Dialogue: 0,0:37:43.66,0:37:44.57,Default,,0,0,0,,嘿\NHey.
-Dialogue: 0,0:37:45.17,0:37:46.80,Default,,0,0,0,,你想跟我去买些杂货吗？\NYou wanna get groceries with me?
-Dialogue: 0,0:37:47.54,0:37:51.04,Default,,0,0,0,,可以啊！我正有这个打算\NYeah! I've been, um, meaning to go to the store.
-Dialogue: 0,0:38:44.49,0:38:45.69,Default,,0,0,0,,罗基！\NRocky!
-Dialogue: 0,0:38:47.23,0:38:49.86,Default,,0,0,0,,哦 哇 你...\NOh. Wow. You...
-Dialogue: 0,0:38:50.00,0:38:52.63,Default,,0,0,0,,抱歉 你一定是罗基的兄弟吧？\NSorry, you must be Rocky's brother?
-Dialogue: 0,0:38:52.77,0:38:54.80,Default,,0,0,0,,是的 我是\NYeah. Yeah, I am.
-Dialogue: 0,0:38:54.94,0:38:57.17,Default,,0,0,0,,嗯 节哀顺变\NUm, I'm so sorry for your loss.
-Dialogue: 0,0:38:57.31,0:38:59.97,Default,,0,0,0,,谢谢 你参加了葬礼？还是...\NThanks. Were you at the service or...
-Dialogue: 0,0:39:00.11,0:39:02.78,Default,,0,0,0,,没参加 我当时在塔希提岛 出差\NNo, I was-- I was in Tahiti, for work.
-Dialogue: 0,0:39:02.91,0:39:06.51,Default,,0,0,0,,呃 他出事的时候我在场\NUh, but I was-- I was there when he died.
-Dialogue: 0,0:39:06.65,0:39:08.32,Default,,0,0,0,,噢 你就是那个\NOh, you're that guy.
-Dialogue: 0,0:39:08.45,0:39:10.02,Default,,0,0,0,,我们正想去买冰冻酸奶\NWe were just trying to get some froyo,
-Dialogue: 0,0:39:10.15,0:39:13.89,Default,,0,0,0,,突然那个疯子就开始对着我们大喊大叫\Nand this crazy fucking lunatic, like, starts screaming at us.
-Dialogue: 0,0:39:14.02,0:39:15.59,Default,,0,0,0,,于是 罗基走到马路上\NAnd so, Rocky stepped into the street,
-Dialogue: 0,0:39:15.72,0:39:17.69,Default,,0,0,0,,然后那辆车就突然冲过来了\Nand this car came out of, like, nowhere,
-Dialogue: 0,0:39:17.83,0:39:19.39,Default,,0,0,0,,接着我就听到碰撞的声音\Nand I heard this crunching sound.
-Dialogue: 0,0:39:19.53,0:39:22.13,Default,,0,0,0,,哇 嗯 你没必要再听这些的\NWow. Um, you don't need to hear all that.
-Dialogue: 0,0:39:22.26,0:39:25.30,Default,,0,0,0,,抱歉 我也正在换心理医生\NI'm sorry. I'm in the process of switching therapists.
-Dialogue: 0,0:39:26.13,0:39:29.14,Default,,0,0,0,,你看到那个疯狂尖叫的疯子了吗？或者...\NDid you get a look at the crazy screaming guy or...
-Dialogue: 0,0:39:30.44,0:39:33.47,Default,,0,0,0,,说实话 事情发生得太突然\NI couldn't tell you, honestly. It just-- It happened so fast.
-Dialogue: 0,0:39:33.61,0:39:35.34,Default,,0,0,0,,呃 我没能仔细看清\NUh, I didn't get a good look at him.
-Dialogue: 0,0:39:35.48,0:39:38.31,Default,,0,0,0,,哦 我早就想好了\NOh. I've just, uh, thought a lot about
-Dialogue: 0,0:39:38.45,0:39:41.05,Default,,0,0,0,,如果我见到那个疯子 我绝对不会放过他\Nwhat I would do to that guy if I ever saw him.
-Dialogue: 0,0:39:42.52,0:39:44.89,Default,,0,0,0,,我要把他的睾丸从他喉咙里扯出来\NRip his fucking testicles right out of his throat,
-Dialogue: 0,0:39:45.02,0:39:47.22,Default,,0,0,0,,再从他的鸡巴里塞回去\Nshove them back down through his own dick hole,
-Dialogue: 0,0:39:47.36,0:39:48.62,Default,,0,0,0,,塞到他的屁眼\Nback out his ass.
-Dialogue: 0,0:39:49.36,0:39:52.39,Default,,0,0,0,,打烂他的脸 打到他不再喘气为止\NPummel his fucking face till he was past his expiration date.
-Dialogue: 0,0:39:56.63,0:39:58.10,Default,,0,0,0,,嗨 抱歉 我不是...\NHi. I'm sorry. I didn't--
-Dialogue: 0,0:39:58.23,0:40:00.67,Default,,0,0,0,,我不是故意打断你们聊天的\NI didn't mean to interrupt your conversation,
-Dialogue: 0,0:40:00.80,0:40:02.57,Default,,0,0,0,,但是 嗯...嗷！\Nbut, um... Oh!
-Dialogue: 0,0:40:03.57,0:40:04.84,Default,,0,0,0,,我认识你吗？\NDo I know you?
-Dialogue: 0,0:40:06.17,0:40:14.08,V2-,,0,0,0,,{\an9}NickCollect翻译此场景
-Dialogue: 0,0:40:06.17,0:40:08.01,V2-,,0,0,0,,不儿不儿 我是鲁伯特儿\NNo, sorry. I'm-I'm Rupert.
-Dialogue: 0,0:40:06.17,0:40:08.01,Default,,0,0,0,,不 对不起 我叫鲁伯特\NNo, sorry. I'm-I'm Rupert.
-Dialogue: 0,0:40:08.14,0:40:10.18,V2-,,0,0,0,,我是伦敦银儿 来这边儿玩儿\NI'm just visiting from London.
-Dialogue: 0,0:40:08.14,0:40:10.18,Default,,0,0,0,,- 我刚从伦敦过来 - 哦\N- I'm just visiting from London. - Oh.
-Dialogue: 0,0:40:10.31,0:40:11.85,V2-,,0,0,0,,其儿吧 这事儿老经常碰上儿了\NBut it happens to me all the time, actually.
-Dialogue: 0,0:40:10.31,0:40:11.85,Default,,0,0,0,,经常有人把我认错\NBut it happens to me all the time, actually.
-Dialogue: 0,0:40:11.98,0:40:13.16,V2-,,0,0,0,,长这么张脸儿 就特儿容易被认错儿\NOne of those faces. All the time.
-Dialogue: 0,0:40:11.98,0:40:14.08,Default,,0,0,0,,好多次了 我都习惯了\NOne of those faces. All the time. I always say that.
-Dialogue: 0,0:40:13.16,0:40:14.08,V2-,,0,0,0,,我老得儿这么解释儿\NI always say that.
-Dialogue: 0,0:40:14.22,0:40:16.02,Default,,0,0,0,,好的 嗯 一定是这样\NOkay. Well, that must be,
-Dialogue: 0,0:40:16.15,0:40:17.22,Default,,0,0,0,,那一定非常棒\Nthat must be very nice.
-Dialogue: 0,0:40:17.35,0:40:18.69,Default,,0,0,0,,算了 我本来打算就打个招呼的\NAnyway, I just wanted to say "Hi,"
-Dialogue: 0,0:40:18.82,0:40:21.19,Default,,0,0,0,,嗯 抱歉 有点唐突了\Nand, um, sorry this was awkward,
-Dialogue: 0,0:40:21.32,0:40:23.02,Default,,0,0,0,,但是 就这样 节哀顺变\Nbut, yeah, my condolences.
-Dialogue: 0,0:40:23.16,0:40:24.96,Default,,0,0,0,,- 再见 鲁伯特 - 谢谢\N- Bye, Rupert. - Thanks.
-Dialogue: 0,0:40:25.89,0:40:26.96,Default,,0,0,0,,祝你一切顺利\NHave a good one.
-Dialogue: 0,0:40:29.73,0:40:30.97,Default,,0,0,0,,刚才什么情况？\NWhat the hell was that?
-Dialogue: 0,0:40:31.57,0:40:33.47,Default,,0,0,0,,我会用别的口音说话\NI start talking in different accents
-Dialogue: 0,0:40:33.60,0:40:35.44,Default,,0,0,0,,当我发现被某人吸引的时候\Nwhen I find someone attractive.
-Dialogue: 0,0:40:36.00,0:40:37.31,Default,,0,0,0,,这是一种本能反应\NIt's a defense mechanism.
-Dialogue: 0,0:40:38.21,0:40:39.44,Default,,0,0,0,,等等 妈的\NWait, shit.
-Dialogue: 0,0:40:39.57,0:40:40.74,Default,,0,0,0,,- 我去把他叫回来 - 不！\N- Let me go get him back. - No!
-Dialogue: 0,0:40:43.21,0:40:44.58,Default,,0,0,0,,他是你喜欢的类型？\NSo was he your type?
-Dialogue: 0,0:40:45.08,0:40:45.95,Default,,0,0,0,,呃...\NUh...
-Dialogue: 0,0:40:47.25,0:40:49.25,Default,,0,0,0,,我好像没有明确的喜欢类型\NI don't think I have a type.
-Dialogue: 0,0:40:51.85,0:40:53.55,Default,,0,0,0,,听我说 我们公司有个同志\NYou know, there's a gay guy at work.
-Dialogue: 0,0:40:53.69,0:40:54.76,Default,,0,0,0,,叫山姆\NSam.
-Dialogue: 0,0:40:55.56,0:40:57.99,Default,,0,0,0,,有空带你见见他 我觉得你们应该很合适\NYou should meet him. I think you'd really get along.
-Dialogue: 0,0:40:58.69,0:41:00.39,Default,,0,0,0,,别搞了 这就像说“你们都是亚洲人\NYou know, that's sort of like, "You're both Asian.
-Dialogue: 0,0:41:00.53,0:41:02.33,Default,,0,0,0,,我确信你们有很多关于亚洲的事情要聊”\NI'm sure you have lots of Asian things to talk about."
-Dialogue: 0,0:41:02.46,0:41:04.23,Default,,0,0,0,,不 兄弟 我只是想引见给你\NNo, man, I'm trying to hook you up.
-Dialogue: 0,0:41:04.80,0:41:05.90,Default,,0,0,0,,拜托\NCome on.
-Dialogue: 0,0:41:07.90,0:41:09.44,Default,,0,0,0,,你喜欢什么类型的女孩？\NWhat kind of girls are you into?
-Dialogue: 0,0:41:11.87,0:41:13.94,Default,,0,0,0,,我喜欢胸大的\NI like boobs.
-Dialogue: 0,0:41:14.78,0:41:17.61,Default,,0,0,0,,但 现在我只想找个好女孩\NBut honestly, at this point, I just wanna meet a nice girl.
-Dialogue: 0,0:41:18.25,0:41:19.68,Default,,0,0,0,,好女孩胸都平胸吗？\NNice girls don't have boobs?
-Dialogue: 0,0:41:21.25,0:41:22.78,Default,,0,0,0,,你找到了再说吧\NIf you find one, let me know.
-Dialogue: 0,0:41:23.28,0:41:24.59,Default,,0,0,0,,一起还是分开？\NTogether or separate?
-Dialogue: 0,0:41:24.72,0:41:26.19,Default,,0,0,0,,- 一起 - 分开\N- Together. - Separate.
-Dialogue: 0,0:41:31.39,0:41:33.96,Default,,0,0,0,,这该死的灯为什么亮着？\NWhy is this fucking light on?
-Dialogue: 0,0:41:34.69,0:41:38.45,Default,,0,0,0,,-祝你生日快乐 - 你们是怎么知道的\N- Happy birthday to you! - How would you guys know?
-Dialogue: 0,0:41:38.63,0:41:42.37,Default,,0,0,0,,-祝你生日快乐 - 我从来不聊我私事的啊\N- Happy birthday to you! - I never talk about my personal life!
-Dialogue: 0,0:41:42.63,0:41:47.04,Default,,0,0,0,,-祝你生日快乐 亲爱的*\NHappy birthday to you! Dear *
-Dialogue: 0,0:41:47.33,0:41:50.03,Default,,0,0,0,,祝你生日快乐\NHappy birthday to you!
-Dialogue: 0,0:41:52.68,0:41:55.02,Default,,0,0,0,,- 嗨 丹尼斯 - 嗯 嗨 玛西\N- Hi, Dennis. - Mm, hi, Marcie.
-Dialogue: 0,0:41:55.15,0:41:57.72,Default,,0,0,0,,- 你看起来很高兴啊 - 嗯 谢谢\N- You look really happy. - Mm, thanks.
-Dialogue: 0,0:41:58.42,0:42:01.86,Default,,0,0,0,,- 我很高兴 - 太棒了！真为你高兴\N- I am happy. - That's amazing! Good for you.
-Dialogue: 0,0:42:01.99,0:42:05.33,Default,,0,0,0,,是的 这周末我要去西雅图看冰球比赛\NYeah. I'm going to Seattle this weekend for a hockey game.
-Dialogue: 0,0:42:05.46,0:42:08.80,Default,,0,0,0,,啊 太令人兴奋了 我喜欢冬季运动\NAh, how exciting. I love winter sports.
-Dialogue: 0,0:42:08.93,0:42:10.20,Default,,0,0,0,,这是我内心的密歇根\NIt's the Michigan in me.
-Dialogue: 0,0:42:10.80,0:42:12.40,Default,,0,0,0,,是的 对我来说有点睾丸激素味\NYeah, it's a bit testosterone-y for my taste,
-Dialogue: 0,0:42:12.53,0:42:13.67,Default,,0,0,0,,但罗曼非常喜欢\Nbut Roman's into it,
-Dialogue: 0,0:42:13.80,0:42:15.67,Default,,0,0,0,,人际关系就是妥协嘛\Nand relationships are about compromise.
-Dialogue: 0,0:42:15.80,0:42:17.74,Default,,0,0,0,,喔！罗曼是谁？\NOoh! Who's Roman?
-Dialogue: 0,0:42:17.87,0:42:19.24,Default,,0,0,0,,他是你的男朋友吗？\NIs he your boyfriend?
-Dialogue: 0,0:42:19.37,0:42:22.81,Default,,0,0,0,,不 我们只是朋友\NNo. Um, we're just pals.
-Dialogue: 0,0:42:23.71,0:42:25.55,Default,,0,0,0,,- 那真是不错 - 还行\N- That's really nice. - Yeah.
-Dialogue: 0,0:42:26.98,0:42:30.18,Default,,0,0,0,,- 你结婚了吗？ - 我？\N- Are you married? - Me?
-Dialogue: 0,0:42:30.32,0:42:32.92,Default,,0,0,0,,没呢 你觉得我已经结婚了吗？\NNo. Um, did you think I was married?
-Dialogue: 0,0:42:34.39,0:42:35.72,Default,,0,0,0,,是啊 你看起来就像那种\NYeah, you just seem like someone
-Dialogue: 0,0:42:35.86,0:42:37.06,Default,,0,0,0,,到你这个年纪就结婚的人\Nwho would be married by your age.
-Dialogue: 0,0:42:37.66,0:42:39.33,Default,,0,0,0,,你这么说就对了 因为我家里所有的女人\NIt's funny you say that, because all the women
-Dialogue: 0,0:42:39.46,0:42:40.90,Default,,0,0,0,,结婚都很早\Nin my family married very young,
-Dialogue: 0,0:42:41.03,0:42:42.20,Default,,0,0,0,,我一直以为\Nand I always thought
-Dialogue: 0,0:42:42.33,0:42:44.50,Default,,0,0,0,,我会在28岁前就生小孩的\NI would have a kid before I turned 28.
-Dialogue: 0,0:42:44.63,0:42:46.57,Default,,0,0,0,,当然 现在已经有小进展了\NAnd sure, these days, there are advancements,
-Dialogue: 0,0:42:46.70,0:42:49.34,Default,,0,0,0,,但时光飞逝\Nbut the clock is still ticking.
-Dialogue: 0,0:42:49.47,0:42:50.54,Default,,0,0,0,,为了我的“卵”\NFor my eggs.
-Dialogue: 0,0:42:53.67,0:42:55.11,Default,,0,0,0,,好 等下 我去拿些蛋糕来\NRight, well, I'm gonna get more cake.
-Dialogue: 0,0:42:55.24,0:42:56.91,Default,,0,0,0,,好 我站在这就好\NOkay. I'll just stand here.
+Dialogue: 0,0:37:43.69,0:37:44.60,Default,,0,0,0,,嘿\NHey.
+Dialogue: 0,0:37:45.17,0:37:47.14,Default,,0,0,0,,能陪我买东西吗？\NYou wanna get groceries with me?
+Dialogue: 0,0:37:47.60,0:37:51.10,Default,,0,0,0,,可以啊！我正打算去超市\NYeah! I've been, um, meaning to go to the store.
+Dialogue: 0,0:37:56.70,0:38:00.50,Music,,0,0,0,,{\an7}♪ 我会忘了 把灯关\N{\i1}♪ I might forget to turn out all the lights ♪{\i0}
+Dialogue: 0,0:38:00.65,0:38:03.15,Music,,0,0,0,,{\an7}♪ 拂晓寒\N{\i1}♪ But you take care of me ♪{\i0}
+Dialogue: 0,0:38:03.32,0:38:06.09,Music,,0,0,0,,{\an7}♪ 你会替我\N{\i1}♪ When I have to leave ♪{\i0}
+Dialogue: 0,0:38:06.25,0:38:10.26,Music,,0,0,0,,{\an7}♪ 收心安 ♪\N{\i1}♪ At dawn ♪{\i0}
+Dialogue: 0,0:38:11.96,0:38:15.83,Music,,0,0,0,,{\an7}♪ 我会睡过 床头铃\N{\i1}♪ I might sleep in Past all my alarms ♪{\i0}
+Dialogue: 0,0:38:16.00,0:38:18.50,Music,,0,0,0,,{\an7}♪ 路艰难\N{\i1}♪ But you take care of us ♪{\i0}
+Dialogue: 0,0:38:18.67,0:38:21.27,Music,,0,0,0,,{\an7}♪ 你为我们\N{\i1}♪ When I make it tough ♪{\i0}
+Dialogue: 0,0:38:21.44,0:38:26.32,Music,,0,0,0,,{\an7}♪ 收心安 ♪\N{\i1}♪ Because ♪{\i0}
+Dialogue: 0,0:38:26.47,0:38:29.11,Music,,0,0,0,,{\an7}♪ 我尽力\N{\i1}♪ It takes all that I got ♪{\i0}
+Dialogue: 0,0:38:29.28,0:38:31.11,Music,,0,0,0,,{\an7}♪ 别搞坏\N{\i1}♪ Not to fuck this up ♪{\i0}
+Dialogue: 0,0:38:31.28,0:38:33.78,Music,,0,0,0,,{\an7}♪ 告诉我 告诉我\N{\i1}♪ So, won't you let me know ♪{\i0}
+Dialogue: 0,0:38:33.95,0:38:36.38,Music,,0,0,0,,{\an7}♪ 不孤单\N{\i1}♪ If I'm not alone ♪{\i0}
+Dialogue: 0,0:38:36.55,0:38:40.99,Music,,0,0,0,,{\an7}♪ 在你怀 ♪\N{\i1}♪ Leaning on you ♪{\i0}
+Dialogue: 0,0:38:42.82,0:38:44.36,Music,,0,0,0,,{\an7}♪ 无畏否...♪\N{\i1}♪ Was I fearless... ♪{\i0}
+Dialogue: 0,0:38:44.49,0:38:46.70,Default,,0,0,0,,罗基 你怎么活...\NRocky!
+Dialogue: 0,0:38:47.34,0:38:50.04,Default,,0,0,0,,哦 哇 你是...\NOh. Wow. You...
+Dialogue: 0,0:38:50.07,0:38:52.86,Default,,0,0,0,,失礼了 你是罗基的弟弟吧？\NSorry, you must be Rocky's brother?
+Dialogue: 0,0:38:52.89,0:38:54.97,Default,,0,0,0,,是的 是我\NYeah. Yeah, I am.
+Dialogue: 0,0:38:55.00,0:38:57.34,Default,,0,0,0,,抱歉 节哀顺变\NUm, I'm so sorry for your loss.
+Dialogue: 0,0:38:57.36,0:39:00.09,Default,,0,0,0,,谢了 你有来参加葬礼吗？\NThanks. Were you at the service or...
+Dialogue: 0,0:39:00.11,0:39:02.89,Default,,0,0,0,,没有 当时在大溪地岛出差\NNo, I was-- I was in Tahiti, for work.
+Dialogue: 0,0:39:02.91,0:39:06.51,Default,,0,0,0,,不过 他出事时我在场\NUh, but I was-- I was there when he died.
+Dialogue: 0,0:39:06.73,0:39:08.47,Default,,0,0,0,,噢 你就是那个人\NOh, you're that guy.
+Dialogue: 0,0:39:08.50,0:39:10.13,Default,,0,0,0,,我们只是想去买酸奶冰淇淋\NWe were just trying to get some froyo,
+Dialogue: 0,0:39:10.15,0:39:14.00,Default,,0,0,0,,突然有个疯子冲我们大喊大叫\Nand this crazy fucking lunatic, like, starts screaming at us.
+Dialogue: 0,0:39:14.02,0:39:15.81,Default,,0,0,0,,于是 罗基走到马路中间\NAnd so, Rocky stepped into the street,
+Dialogue: 0,0:39:15.84,0:39:17.81,Default,,0,0,0,,那辆车突然冲了出来\Nand this car came out of, like, nowhere,
+Dialogue: 0,0:39:17.83,0:39:19.53,Default,,0,0,0,,接着就是碰撞声\Nand I heard this crunching sound.
+Dialogue: 0,0:39:19.56,0:39:22.25,Default,,0,0,0,,哇 好像我说太多了\NWow. Um, you don't need to hear all that.
+Dialogue: 0,0:39:22.27,0:39:25.31,Default,,0,0,0,,抱歉 我也正在换心理医生\NI'm sorry. I'm in the process of switching therapists.
+Dialogue: 0,0:39:26.27,0:39:29.88,Default,,0,0,0,,那个疯子长什么样？\NDid you get a look at the crazy screaming guy or...
+Dialogue: 0,0:39:30.48,0:39:33.59,Default,,0,0,0,,说实话 事情发生得太快了\NI couldn't tell you, honestly. It just-- It happened so fast.
+Dialogue: 0,0:39:33.61,0:39:35.57,Default,,0,0,0,,我没看清\NUh, I didn't get a good look at him.
+Dialogue: 0,0:39:35.60,0:39:38.43,Default,,0,0,0,,我只是一直在想\NOh. I've just, uh, thought a lot about
+Dialogue: 0,0:39:38.45,0:39:42.09,Default,,0,0,0,,碰到那人怎么收拾他\Nwhat I would do to that guy if I ever saw him.
+Dialogue: 0,0:39:42.11,0:39:45.11,Default,,0,0,0,,把他那该死的蛋蛋 从嗓子里拽出来\NRip his fucking testicles right out of his throat,
+Dialogue: 0,0:39:45.14,0:39:47.38,Default,,0,0,0,,打个领带 再给他从尿道塞回去\Nshove them back down through his own dick hole,
+Dialogue: 0,0:39:47.41,0:39:49.40,Default,,0,0,0,,再从肛门拽出来\Nback out his ass.
+Dialogue: 0,0:39:49.43,0:39:53.24,Default,,0,0,0,,把他脸揍得连亲妈都认不出来\NPummel his fucking face till he was past his expiration date.
+Dialogue: 0,0:39:56.67,0:39:58.21,Default,,0,0,0,,嗨 抱歉 我不是...\NHi. I'm sorry. I didn't--
+Dialogue: 0,0:39:58.24,0:40:01.70,Default,,0,0,0,,不是故意打断你们聊天的 但...\NI didn't mean to interrupt your conversation, but, um...
+Dialogue: 0,0:40:01.79,0:40:03.28,Default,,0,0,0,,咦！\NOh!
+Dialogue: 0,0:40:03.65,0:40:06.15,Default,,0,0,0,,我们以前见过吗？\NDo I know you?
+Dialogue: 0,0:40:06.17,0:40:08.12,Default,,0,0,0,,哎呦 您儿认错了 我是鲁伯儿\NNo, sorry. I'm-I'm Rupert.
+Dialogue: 0,0:40:08.14,0:40:10.37,Default,,0,0,0,,- 正宗伦敦银儿 - 哦\N- I'm just visiting from London. - Oh.
+Dialogue: 0,0:40:10.40,0:40:11.72,Default,,0,0,0,,这事儿 老常儿碰了\NBut it happens to me all the time, actually.
+Dialogue: 0,0:40:11.75,0:40:13.22,Default,,0,0,0,,就这副脸儿 老被银儿认错\NOne of those faces. All the time.
+Dialogue: 0,0:40:13.24,0:40:14.38,Default,,0,0,0,,老得儿解释儿\NI always say that.
+Dialogue: 0,0:40:14.41,0:40:16.13,Default,,0,0,0,,好吧 行\NOkay. Well, that must be,
+Dialogue: 0,0:40:16.15,0:40:17.33,Default,,0,0,0,,挺好的\Nthat must be very nice.
+Dialogue: 0,0:40:17.35,0:40:18.80,Default,,0,0,0,,算了 我就是打个招呼\NAnyway, I just wanted to say "Hi,"
+Dialogue: 0,0:40:18.82,0:40:21.30,Default,,0,0,0,,嗯 抱歉 有点唐突了\Nand, um, sorry this was awkward,
+Dialogue: 0,0:40:21.36,0:40:23.52,Default,,0,0,0,,总之 节哀顺变\Nbut, yeah, my condolences.
+Dialogue: 0,0:40:23.55,0:40:25.79,Default,,0,0,0,,- 保重 鲁伯儿 - 谢了\N- Bye, Rupert. - Thanks.
+Dialogue: 0,0:40:26.04,0:40:27.53,Default,,0,0,0,,保重\NHave a good one.
+Dialogue: 0,0:40:29.73,0:40:31.62,Default,,0,0,0,,刚才搞什么鬼？\NWhat the hell was that?
+Dialogue: 0,0:40:31.64,0:40:33.54,Default,,0,0,0,,我一看到喜欢的人\NI start talking in different accents
+Dialogue: 0,0:40:33.56,0:40:35.56,Default,,0,0,0,,就会换口音\Nwhen I find someone attractive.
+Dialogue: 0,0:40:36.00,0:40:37.66,Default,,0,0,0,,本能反应吧\NIt's a defense mechanism.
+Dialogue: 0,0:40:38.26,0:40:39.60,Default,,0,0,0,,真的？\NWait, shit.
+Dialogue: 0,0:40:39.63,0:40:40.88,Default,,0,0,0,,- 我去把他叫回来 - 别！\N- Let me go get him back. - No!
+Dialogue: 0,0:40:43.21,0:40:44.69,Default,,0,0,0,,他算你的菜吗？\NSo was he your type?
+Dialogue: 0,0:40:47.25,0:40:49.68,Default,,0,0,0,,我没明确的喜好\NI don't think I have a type.
+Dialogue: 0,0:40:51.94,0:40:53.89,Default,,0,0,0,,我的公司有个同志\NYou know, there's a gay guy at work.
+Dialogue: 0,0:40:53.92,0:40:54.99,Default,,0,0,0,,叫山姆\NSam.
+Dialogue: 0,0:40:55.56,0:40:58.67,Default,,0,0,0,,你该见见他 我觉得你们挺合得来\NYou should meet him. I think you'd really get along.
+Dialogue: 0,0:40:58.71,0:41:00.51,Default,,0,0,0,,听起来有点像“你们都是亚洲人\NYou know, that's sort of like, "You're both Asian.
+Dialogue: 0,0:41:00.53,0:41:02.44,Default,,0,0,0,,肯定聊得来”那套\NI'm sure you have lots of Asian things to talk about."
+Dialogue: 0,0:41:02.46,0:41:04.77,Default,,0,0,0,,不是那意思 只是想给你牵线\NNo, man, I'm trying to hook you up.
+Dialogue: 0,0:41:04.80,0:41:05.90,Default,,0,0,0,,别误会\NCome on.
+Dialogue: 0,0:41:08.03,0:41:10.55,Default,,0,0,0,,你喜欢哪种女生？\NWhat kind of girls are you into?
+Dialogue: 0,0:41:11.90,0:41:13.88,Default,,0,0,0,,有胸的\NI like boobs.
+Dialogue: 0,0:41:14.82,0:41:17.95,Default,,0,0,0,,但说真心话 找个好女孩就行\NBut honestly, at this point, I just wanna meet a nice girl.
+Dialogue: 0,0:41:18.41,0:41:20.78,Default,,0,0,0,,好女孩就没有胸吗？\NNice girls don't have boobs?
+Dialogue: 0,0:41:21.23,0:41:23.26,Default,,0,0,0,,要是你遇到 记得告诉我\NIf you find one, let me know.
+Dialogue: 0,0:41:23.28,0:41:25.05,Default,,0,0,0,,要一起结还是分开付？\NTogether or separate?
+Dialogue: 0,0:41:25.07,0:41:27.02,Default,,0,0,0,,{\an1}一起结\NTogether.
+Dialogue: 0,0:41:25.07,0:41:27.02,Default,,0,0,0,,{\an3}分开付\NSeparate.
+Dialogue: 0,0:41:31.39,0:41:34.51,Default,,0,0,0,,灯怎么不关的？\NWhy is this fucking light on?
+Dialogue: 0,0:41:34.69,0:41:38.60,Default,,0,0,0,,- 祝你生日快乐 - 你们是怎么知道的\N- Happy birthday to you - How would you guys know?
+Dialogue: 0,0:41:38.63,0:41:42.37,Default,,0,0,0,,- 祝你生日快乐 - 我从来不谈我私事的啊\N- Happy birthday to you - I never talk about my personal life!
+Dialogue: 0,0:41:42.61,0:41:47.02,Default,,0,0,0,,祝赛吉生日快乐\NHappy birthday, dear Sage
+Dialogue: 0,0:41:47.33,0:41:50.03,Default,,0,0,0,,祝你生日快乐\NHappy birthday to...
+Dialogue: 0,0:41:52.68,0:41:55.18,Default,,0,0,0,,- 嗨 丹尼斯 - 嗯 嗨 玛西\N- Hi, Dennis. - Mm, hi, Marcie.
+Dialogue: 0,0:41:55.21,0:41:58.13,Default,,0,0,0,,- 你看起来真开心啊 - 嗯 谢谢\N- You look really happy. - Mm, thanks.
+Dialogue: 0,0:41:58.43,0:42:01.87,Default,,0,0,0,,- 确实开心 - 真好 真不错\N- I am happy. - That's amazing! Good for you.
+Dialogue: 0,0:42:01.99,0:42:05.54,Default,,0,0,0,,是的 我周末要去西雅图看场冰球赛\NYeah. I'm going to Seattle this weekend for a hockey game.
+Dialogue: 0,0:42:05.57,0:42:09.17,Default,,0,0,0,,啊 真羡慕 我超爱冬季运动\NAh, how exciting. I love winter sports.
+Dialogue: 0,0:42:09.20,0:42:10.78,Default,,0,0,0,,密歇根人的老毛病\NIt's the Michigan in me.
+Dialogue: 0,0:42:10.80,0:42:12.51,Default,,0,0,0,,嗯 但冰球太阳刚了\NYeah, it's a bit testosterone-y for my taste,
+Dialogue: 0,0:42:12.53,0:42:13.78,Default,,0,0,0,,但罗曼喜欢\Nbut Roman's into it,
+Dialogue: 0,0:42:13.80,0:42:15.78,Default,,0,0,0,,感情就得让步嘛\Nand relationships are about compromise.
+Dialogue: 0,0:42:15.80,0:42:17.85,Default,,0,0,0,,喔！罗曼是谁？\NOoh! Who's Roman?
+Dialogue: 0,0:42:17.87,0:42:19.50,Default,,0,0,0,,你男朋友吗？\NIs he your boyfriend?
+Dialogue: 0,0:42:19.52,0:42:22.96,Default,,0,0,0,,不 我们只是朋友\NNo. Um, we're just pals.
+Dialogue: 0,0:42:23.71,0:42:25.55,Default,,0,0,0,,- 那也挺好的 - 嗯\N- That's really nice. - Yeah.
+Dialogue: 0,0:42:27.02,0:42:30.38,Default,,0,0,0,,- 你结婚了吗？ - 我？哈 哈 哈\N- Are you married? - Me?
+Dialogue: 0,0:42:30.41,0:42:33.55,Default,,0,0,0,,没呢 你以为我结婚了？\NNo. Um, did you think I was married?
+Dialogue: 0,0:42:34.47,0:42:35.84,Default,,0,0,0,,嗯 你看上去\NYeah, you just seem like someone
+Dialogue: 0,0:42:35.86,0:42:37.58,Default,,0,0,0,,像个会早婚的人\Nwho would be married by your age.
+Dialogue: 0,0:42:37.63,0:42:39.44,Default,,0,0,0,,说来巧 我家女人\NIt's funny you say that, because all the women
+Dialogue: 0,0:42:39.46,0:42:41.01,Default,,0,0,0,,结婚都很早\Nin my family married very young,
+Dialogue: 0,0:42:41.03,0:42:42.31,Default,,0,0,0,,我一直以为\Nand I always thought
+Dialogue: 0,0:42:42.33,0:42:44.62,Default,,0,0,0,,我会在28岁前有孩子的\NI would have a kid before I turned 28.
+Dialogue: 0,0:42:44.65,0:42:46.68,Default,,0,0,0,,现在科技是进步了\NAnd sure, these days, there are advancements,
+Dialogue: 0,0:42:46.70,0:42:49.45,Default,,0,0,0,,但时光飞逝\Nbut the clock is still ticking.
+Dialogue: 0,0:42:49.48,0:42:51.40,Default,,0,0,0,,卵子还在倒计时\NFor my eggs.
+Dialogue: 0,0:42:53.78,0:42:55.25,Default,,0,0,0,,好 等下 我去再添块蛋糕来\NRight, well, I'm gonna get more cake.
+Dialogue: 0,0:42:55.27,0:42:57.85,Default,,0,0,0,,好 我就在这儿等着\NOkay. I'll just stand here.
+Dialogue: 0,0:43:10.96,0:43:14.53,Music,,0,0,0,,{\an7}♪ 车窗摇 话随风拂\N{\i1}♪ She rolls the window down ♪{\i0}
+Dialogue: 0,0:43:15.50,0:43:19.57,Music,,0,0,0,,{\an7}♪ 她低语 盖过车吼 ♪\N{\i1}♪ And she talks over the sound ♪{\i0}
+Dialogue: 0,0:43:20.67,0:43:24.94,Music,,0,0,0,,{\an7}♪ 车影过 心被牵走\N{\i1}♪ Of the cars that pass us by ♪{\i0}
+Dialogue: 0,0:43:25.11,0:43:26.94,Music,,0,0,0,,{\an7}♪ 我不知 为何为何\N{\i1}♪ And I don't know why ♪{\i0}
+Dialogue: 0,0:43:27.12,0:43:30.25,Music,,0,0,0,,{\an7}♪ 却因她 心已成慕 ♪\N{\i1}♪ But she's changed my mind ♪{\i0}
+Dialogue: 0,0:43:31.18,0:43:33.45,Music,,0,0,0,,{\an7}♪ 你看她 她望我\N{\i1}♪ Would you look at her She looks at me ♪{\i0}
+Dialogue: 0,0:43:33.61,0:43:36.15,Music,,0,0,0,,{\an7}♪ 她牵我 念难休\N{\i1}♪ She's got me thinking About her constantly ♪{\i0}
+Dialogue: 0,0:43:36.32,0:43:39.92,Music,,0,0,0,,{\an7}♪ 她不知 我心哀 ♪\N{\i1}♪ But she don't know How I feel ♪{\i0}
+Dialogue: 0,0:43:41.09,0:43:43.82,Music,,0,0,0,,{\an7}♪ 她自顾 半无疑\N{\i1}♪ And as she carries on Without a doubt ♪{\i0}
+Dialogue: 0,0:43:43.99,0:43:46.66,Music,,0,0,0,,{\an7}♪ 我想她 她可知\N{\i1}♪ I wonder If she's figured out ♪{\i0}
+Dialogue: 0,0:43:46.83,0:43:49.06,Music,,0,0,0,,{\an7}♪ 我为她 已成痴 ♪\N{\i1}♪ I'm crazy for this girl... ♪{\i0}
+Dialogue: 0,0:43:51.83,0:43:56.07,Music,,0,0,0,,{\an7}♪ 我为她 已成痴 ♪\N{\i1}♪ Yeah, I'm crazy for this girl ♪{\i0}
+Dialogue: 0,0:43:58.78,0:44:04.02,Default,,0,0,0,,{\an5}【小p翻译至此】
 Dialogue: 0,0:44:05.61,0:44:07.41,Default,,0,0,0,,她问我想吃甜筒吗\NSo she asked if I want an ice cream cone,
 Dialogue: 0,0:44:07.55,0:44:09.92,Default,,0,0,0,,我说：“好啊 加点冰淇淋更好”\Nand I said, "Yes, but I would like ice cream in it."
 Dialogue: 0,0:44:11.29,0:44:12.45,Default,,0,0,0,,- 啊 - 怎么了？\N- Ah. - What?
@@ -867,6 +887,7 @@ Dialogue: 0,0:51:55.58,0:51:57.20,Default,,0,0,0,,里面可能不会太热闹\NT
 Dialogue: 0,0:51:57.22,0:52:00.27,Default,,0,0,0,,提醒你一下 呃 玛茜有点...\NJust so you know, uh, Marcie's kind of a...
 Dialogue: 0,0:52:00.29,0:52:02.50,Default,,0,0,0,,我不想说她是个废柴啦 不过\NI mean, I don't wanna say she's a loser, but,
 Dialogue: 0,0:52:02.52,0:52:03.76,Default,,0,0,0,,进去就知道了\NI mean, you'll see.
+Dialogue: 0,0:52:10.60,0:52:11.73,Music,,0,0,0,,{\an7\i1}♪ See you blowing me a kiss... ♪{\i0}
 Dialogue: 0,0:52:11.87,0:52:12.80,Default,,0,0,0,,罗曼？\NRoman?
 Dialogue: 0,0:52:13.91,0:52:16.05,Default,,0,0,0,,哇 萨米 你怎么在这儿？\NWhoa, Sammy. What are you doing here?
 Dialogue: 0,0:52:16.08,0:52:18.28,Default,,0,0,0,,哦 我和玛茜一起上过木工课\NOh, I took a woodworking class with Marcie.
@@ -881,7 +902,10 @@ Dialogue: 0,0:52:30.99,0:52:32.93,Default,,0,0,0,,你好 听说我们俩是同�
 Dialogue: 0,0:52:32.95,0:52:34.22,Default,,0,0,0,,是吗？\NDo you?
 Dialogue: 0,0:52:34.39,0:52:35.76,Default,,0,0,0,,我去拿点喝的\NI'll go get us a couple of drinks.
 Dialogue: 0,0:52:35.79,0:52:37.40,Default,,0,0,0,,你们俩先聊\NWhy don't, uh, you two mingle?
-Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an3}- 我真超讨厌这首歌 - 我超喜欢这首歌\N- Oh, I fucking hate that song. - I love this song.
+Dialogue: 0,0:52:38.63,0:52:42.66,Music,,0,0,0,,{\an7\i1}♪ Not like we have a date with destiny ♪{\i0}
+Dialogue: 0,0:52:43.53,0:52:46.33,Music,,0,0,0,,{\an7\i1}♪ It's just a little crush... ♪{\i0}
+Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an9}我真超讨厌这首歌\NOh, I fucking hate that song.
+Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an3}我超喜欢这首歌\NI love this song.
 Dialogue: 0,0:52:51.74,0:52:55.37,Default,,0,0,0,,{\an3}嗯 你对木头活儿感兴趣吗？\NHmm. So, uh, you like wood?
 Dialogue: 0,0:52:55.45,0:52:59.36,Default,,0,0,0,,{\an3}哦 呃...是的\NOh, uh... Yeah.
 Dialogue: 0,0:52:57.26,0:53:00.18,Default,,0,0,0,,{\an1}麻烦让...谢谢\NCould you... Thank you so much.
@@ -928,6 +952,8 @@ Dialogue: 0,0:54:02.09,0:54:03.93,Default,,0,0,0,,{\an3}这可想不起来\NNoth
 Dialogue: 0,0:54:05.01,0:54:06.79,Default,,0,0,0,,{\an3}当陪审员吧\NJury duty. Or I almost--
 Dialogue: 0,0:54:06.81,0:54:09.25,Default,,0,0,0,,{\an3}但有利益冲突 没被选上\NI had a conflict, so they didn't pick me.
 Dialogue: 0,0:54:12.69,0:54:14.59,Default,,0,0,0,,{\an3}你挺有趣的\NYou're cute.
+Dialogue: 0,0:54:14.76,0:54:17.63,Music,,0,0,0,,{\an7\i1}♪ ...In your eyes ♪{\i0}
+Dialogue: 0,0:54:17.79,0:54:20.03,Music,,0,0,0,,{\an7\i1}♪ A vision of you and me... ♪{\i0}
 Dialogue: 0,0:54:20.34,0:54:22.11,Default,,0,0,0,,{\an1}哦 你竟然从没玩过《模拟人生1》？\NOh, you never played the original Sims?
 Dialogue: 0,0:54:22.13,0:54:23.66,Default,,0,0,0,,{\an1}天啊 那可是经典\NOh, man, it's the best.
 Dialogue: 0,0:54:23.69,0:54:25.81,Default,,0,0,0,,{\an1}其实 很多人不知道它超难的\NActually, a lot of people don't realize it was really hard.
@@ -1147,7 +1173,8 @@ Dialogue: 0,1:03:36.65,1:03:40.52,Default,,0,0,0,,我不行了 我不行了\NAnx
 Dialogue: 0,1:03:48.80,1:03:51.13,Default,,0,0,0,,我刚和经理莎伦问过了\NSo, I spoke with Sharon, the manager--
 Dialogue: 0,1:03:51.27,1:03:52.70,Default,,0,0,0,,哦 她人真好\NOh, she's a sweetheart.
 Dialogue: 0,1:03:52.83,1:03:54.30,Default,,0,0,0,,你们要退款 还是留作代金券？\NDo we want credit or a refund?
-Dialogue: 0,1:03:55.07,1:03:56.27,Default,,0,0,0,,- 退款 - 代金券\N- Refund. - Credit.
+Dialogue: 0,1:03:55.07,1:03:56.27,Default,,0,0,0,,{\an1}代金券\NCredit.
+Dialogue: 0,1:03:55.07,1:03:56.27,Default,,0,0,0,,{\an3}退款\NRefund.
 Dialogue: 0,1:03:59.77,1:04:01.04,Default,,0,0,0,,乔尼走了\NJonny died.
 Dialogue: 0,1:04:02.18,1:04:03.34,Default,,0,0,0,,我的狗\NMy dog.
 Dialogue: 0,1:04:04.11,1:04:07.11,Default,,0,0,0,,我不该用我哥哥的名字给它取名\NI shouldn't have named him after my brother.
@@ -1181,8 +1208,11 @@ Dialogue: 0,1:05:47.72,1:05:50.62,Default,,0,0,0,,嘿 哥们 抱歉拖这么久�
 Dialogue: 0,1:05:51.52,1:05:53.82,Default,,0,0,0,,你愿不愿意去莫斯科一起过圣诞？\Nhow'd you like to spend Christmas in Moscow?
 Dialogue: 0,1:05:55.19,1:05:56.39,Default,,0,0,0,,莫斯科？爱达荷州那个？\NMoscow, Idaho?
 Dialogue: 0,1:05:57.22,1:05:58.96,Default,,0,0,0,,没错\NThat's the one.
+Dialogue: 0,1:06:00.16,1:06:03.13,Music,,0,0,0,,{\an7}♪ 车窗摇 话随风拂\N{\i1}♪ She rolls the window down ♪{\i0}
+Dialogue: 0,1:06:04.36,1:06:06.23,Music,,0,0,0,,{\an7}♪ 她低语 盖过车吼 ♪\N{\i1}♪ And she talks over the sound ♪{\i0}
 Dialogue: 0,1:06:06.37,1:06:07.90,Default,,0,0,0,,丹尼斯 你的腿伸得开吗？\NDo you have enough leg room, Dennis?
 Dialogue: 0,1:06:08.70,1:06:10.00,Default,,0,0,0,,不行\NNo.
+Dialogue: 0,1:06:10.17,1:06:13.14,Music,,0,0,0,,{\an7}♪ 车影过 心被牵走\N{\i1}♪ Of the cars that pass us by... ♪{\i0}
 Dialogue: 0,1:06:13.27,1:06:15.74,Default,,0,0,0,,- 装饰呢？ - 什么？你说啥？\N- Where are the decorations? - I'm sorry, what?
 Dialogue: 0,1:06:15.88,1:06:17.85,Default,,0,0,0,,圣诞装饰啊？灯呢？一点气氛都没有？\NDecorations? Where are the lights? Anything? Christmas?
 Dialogue: 0,1:06:17.98,1:06:19.85,Default,,0,0,0,,什么装饰？你在胡说什么？\NWhere are the decorations? What are you talking about?
@@ -1500,9 +1530,16 @@ Dialogue: 0,1:24:59.93,1:25:03.54,Default,,0,0,0,,我想问她 但问不了 她�
 Dialogue: 0,1:25:04.40,1:25:06.14,Default,,0,0,0,,真的 我真的有个妈妈\NReally dead. She's real.
 Dialogue: 0,1:25:08.38,1:25:10.41,Default,,0,0,0,,我们信你至少有个妈\NWe believe you got a mom.
 Dialogue: 0,1:25:12.18,1:25:13.28,Default,,0,0,0,,我不信\NI don't.
+Dialogue: 0,1:25:28.50,1:25:32.27,Music,,0,0,0,,{\an7}♪ 车窗摇 话随风拂\N{\i1}♪ She rolls the window down ♪{\i0}
+Dialogue: 0,1:25:33.03,1:25:37.27,Music,,0,0,0,,{\an7}♪ 她低语 盖过车吼 ♪\N{\i1}♪ And she talks over the sound ♪{\i0}
+Dialogue: 0,1:25:38.17,1:25:42.31,Music,,0,0,0,,{\an7}♪ 车影过 心被牵走\N{\i1}♪ Of the cars that pass us by ♪{\i0}
+Dialogue: 0,1:25:42.48,1:25:44.38,Music,,0,0,0,,{\an7}♪ 我不知 为何为何\N{\i1}♪ And I don't know why ♪{\i0}
+Dialogue: 0,1:25:44.55,1:25:47.75,Music,,0,0,0,,{\an7}♪ 却因她 心已成慕 ♪\N{\i1}♪ But she's changed my mind ♪{\i0}
 Dialogue: 0,1:25:48.62,1:25:50.65,Default,,0,0,0,,打扰一下 可以帮我们拍张照吗？\NExcuse me. Can you take a picture of us?
 Dialogue: 0,1:25:52.39,1:25:55.66,Default,,0,0,0,,不！可！以！你们根本不知道自己有多幸运！\NNo. No, I can't. You have no idea how lucky you are.
 Dialogue: 0,1:25:55.79,1:25:57.83,Default,,0,0,0,,抱歉 打扰你了\NWell, sorry we asked.
+Dialogue: 0,1:25:58.99,1:26:01.50,Music,,0,0,0,,{\an7}♪ 她自顾 半无疑\N{\i1}♪ ...And as she carries on without a doubt ♪{\i0}
+Dialogue: 0,1:26:01.66,1:26:03.93,Music,,0,0,0,,{\an7}♪ 我想她 她可知\N{\i1}♪ I wonder if she's figured out... ♪{\i0}
 Dialogue: 0,1:26:09.30,1:26:10.47,Default,,0,0,0,,操\NFuck.
 Dialogue: 0,1:26:14.11,1:26:15.68,Default,,0,0,0,,你在找什么？\NWhat are you looking for?
 Dialogue: 0,1:26:15.81,1:26:18.31,Default,,0,0,0,,我怎么都找不到洛奇的毛衣\NI can't find Rocky's sweater. Uh...
@@ -1625,6 +1662,22 @@ Dialogue: 0,1:36:24.28,1:36:27.31,Credits,,0,0,0,,{\an8}剪辑\N耐克·博亚�
 Dialogue: 0,1:36:32.29,1:36:35.32,Credits,,0,0,0,,{\an8}摄影\N格雷格·科顿
 Dialogue: 0,1:36:36.44,1:36:43.42,Credits,,0,0,0,,{\an8}蒙太奇字幕组 原创译制 · 许可CC BY‑NC‑SA 4.0\N翻译：xxx · 校对：yyy · 后期：zzz\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,1:36:52.31,1:36:55.34,Credits,,0,0,0,,{\an8}制片人\N大卫·彭缪特\N詹姆斯·斯威尼
+Dialogue: 0,1:35:51.99,1:35:53.52,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:35:56.76,1:35:59.03,Music,,0,0,0,,{\i1}♪ Better men wouldn't carry on ♪{\i0}
+Dialogue: 0,1:36:01.33,1:36:03.10,Music,,0,0,0,,{\i1}♪ What was the first line? ♪{\i0}
+Dialogue: 0,1:36:05.00,1:36:09.40,Music,,0,0,0,,{\i1}♪ We had a good time ♪{\i0}
+Dialogue: 0,1:36:11.07,1:36:12.24,Music,,0,0,0,,{\i1}♪ Know you twice ♪{\i0}
+Dialogue: 0,1:36:15.81,1:36:17.38,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:36:20.25,1:36:22.88,Music,,0,0,0,,{\i1}♪ Much better people proved me wrong ♪{\i0}
+Dialogue: 0,1:36:25.35,1:36:27.15,Music,,0,0,0,,{\i1}♪ They set a high price ♪{\i0}
+Dialogue: 0,1:36:29.99,1:36:31.26,Music,,0,0,0,,{\i1}♪ To know you twice ♪{\i0}
+Dialogue: 0,1:36:35.16,1:36:36.46,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:36:39.70,1:36:41.90,Music,,0,0,0,,{\i1}♪ Nothing's new under the sun ♪{\i0}
+Dialogue: 0,1:36:44.77,1:36:46.94,Music,,0,0,0,,{\i1}♪ Thought you could be all you know ♪{\i0}
+Dialogue: 0,1:36:49.68,1:36:50.84,Music,,0,0,0,,{\i1}♪ Strikes once ♪{\i0}
+Dialogue: 0,1:36:52.88,1:36:57.82,Music,,0,0,0,,{\i1}♪ We had a good time ♪{\i0}
+Dialogue: 0,1:37:42.53,1:37:43.96,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:37:56.68,1:38:01.18,Music,,0,0,0,,{\i1}♪ We had a good time ♪{\i0}
 Dialogue: 0,1:39:57.92,1:40:00.88,Default,,0,0,0,,{\an2}（彭缪特出品公司）
 Dialogue: 0,1:40:00.90,1:40:03.87,Default,,0,0,0,,{\an2}（后院计划影业）
 Dialogue: 0,1:40:03.89,1:40:06.89,Default,,0,0,0,,{\an2}（共和影业）
