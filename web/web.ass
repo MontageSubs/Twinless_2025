@@ -300,7 +300,7 @@ Dialogue: 0,0:16:19.25,0:16:21.44,Default,,0,0,0,,你觉得该有死刑吗？\ND
 Dialogue: 0,0:16:21.46,0:16:23.35,Default,,0,0,0,,你在想这个？\NThat's what you were thinking about?
 Dialogue: 0,0:16:25.22,0:16:28.97,Default,,0,0,0,,我觉得不\NI guess no. Because there's a chance
 Dialogue: 0,0:16:28.99,0:16:33.58,Default,,0,0,0,,可能会误杀无辜 而死亡无法挽回\Nof executing someone innocent, and death is irrevocable.
-Dialogue: 0,0:16:34.35,0:16:38.65,Default,,0,0,0,,是啊 生活中就是有些事回不去了\NYeah, but there's some things you can't take back.
+Dialogue: 0,0:16:34.35,0:16:38.65,Default,,0,0,0,,是啊 生活中有些事是没有后悔药的\NYeah, but there's some things you can't take back.
 Dialogue: 0,0:16:40.43,0:16:41.70,Default,,0,0,0,,对\NTrue.
 Dialogue: 0,0:16:46.89,0:16:50.38,Default,,0,0,0,,你这辈子做过最糟的事是什么？\NWhat's the worst thing you've ever done?
 Dialogue: 0,0:16:53.03,0:16:55.20,Default,,0,0,0,,你呢？你做过最糟的事是什么？\NWhat's the worst thing you've ever done?
@@ -753,136 +753,135 @@ Dialogue: 0,0:43:41.09,0:43:43.82,Music,,0,0,0,,{\an7}♪ 她自顾 半无疑\N{
 Dialogue: 0,0:43:43.99,0:43:46.66,Music,,0,0,0,,{\an7}♪ 我想她 她可知\N{\i1}♪ I wonder If she's figured out ♪{\i0}
 Dialogue: 0,0:43:46.83,0:43:49.06,Music,,0,0,0,,{\an7}♪ 我为她 已成痴 ♪\N{\i1}♪ I'm crazy for this girl... ♪{\i0}
 Dialogue: 0,0:43:51.83,0:43:56.07,Music,,0,0,0,,{\an7}♪ 我为她 已成痴 ♪\N{\i1}♪ Yeah, I'm crazy for this girl ♪{\i0}
-Dialogue: 0,0:43:58.78,0:44:04.02,Default,,0,0,0,,{\an5}【小p翻译至此】
-Dialogue: 0,0:44:05.61,0:44:07.41,Default,,0,0,0,,她问我想吃甜筒吗\NSo she asked if I want an ice cream cone,
-Dialogue: 0,0:44:07.55,0:44:09.92,Default,,0,0,0,,我说：“好啊 加点冰淇淋更好”\Nand I said, "Yes, but I would like ice cream in it."
-Dialogue: 0,0:44:11.29,0:44:12.45,Default,,0,0,0,,- 啊 - 怎么了？\N- Ah. - What?
-Dialogue: 0,0:44:12.59,0:44:14.26,Default,,0,0,0,,没什么 我的狗下巴又不舒服了\NNothing. My dog jaw's bothering me.
-Dialogue: 0,0:44:14.39,0:44:15.49,Default,,0,0,0,,- 你的狗下巴？ - 是啊\N- Your dog jaw? - Yeah.
-Dialogue: 0,0:44:15.62,0:44:17.32,Default,,0,0,0,,- 你没听说过狗下巴吗？ - 没有\N- You never heard of dog jaw? - No.
-Dialogue: 0,0:44:17.46,0:44:18.99,Default,,0,0,0,,就像我生来就有下颌骨\NIt's like I was born with a jawbone
-Dialogue: 0,0:44:19.13,0:44:20.66,Default,,0,0,0,,像爪印那样的\Nthat's shaped like a paw print.
-Dialogue: 0,0:44:20.79,0:44:21.93,Default,,0,0,0,,- 没听懂 - 这里 你摸摸看\N- What? - Here. Yeah, you can feel it right here.
-Dialogue: 0,0:44:22.06,0:44:23.46,Default,,0,0,0,,- 这儿吗？ - 对\N- Here? - Yeah.
-Dialogue: 0,0:44:23.60,0:44:24.97,Default,,0,0,0,,...死基佬\NFaggots.
-Dialogue: 0,0:44:25.10,0:44:26.54,Default,,0,0,0,,等下 你刚刚说什么？\NWait, what'd you say?
-Dialogue: 0,0:44:26.67,0:44:29.44,Default,,0,0,0,,- 没事 算了吧 - 喂！你他妈说啥？\N- It's fine. Let it go. - Hey! Fuck did you say?
-Dialogue: 0,0:44:32.11,0:44:33.67,Default,,0,0,0,,我说：“看看这些死基佬”\NI said, "Look at those faggots."
-Dialogue: 0,0:44:34.64,0:44:35.78,Default,,0,0,0,,你得道歉知道吗？\NWhy don't you apologize?
-Dialogue: 0,0:44:36.84,0:44:38.48,Default,,0,0,0,,嘿 你是要给我口一下吗？\NHey, why don't you suck my dick?
-Dialogue: 0,0:44:40.01,0:44:41.45,Default,,0,0,0,,好吧 我给你们都口一下\NOkay, I will suck whosever dick
-Dialogue: 0,0:44:41.58,0:44:43.88,Default,,0,0,0,,你们别吵了就行\Nif we can just de-escalate the situation.
-Dialogue: 0,0:44:44.02,0:44:45.45,Default,,0,0,0,,你应该听你女朋友的话\NYou should listen to your girlfriend.
-Dialogue: 0,0:44:46.02,0:44:47.12,Default,,0,0,0,,赶紧道歉\NSay you're sorry.
-Dialogue: 0,0:44:52.76,0:44:53.99,Default,,0,0,0,,对不起\NI'm sorry.
-Dialogue: 0,0:44:59.60,0:45:02.30,Default,,0,0,0,,去你妈的！\NFuck you!
-Dialogue: 0,0:45:02.44,0:45:05.37,Default,,0,0,0,,喔 这里还有一个 喔！\NOh. There's one here. Oh!
-Dialogue: 0,0:45:07.54,0:45:08.88,Default,,0,0,0,,嗷 我不喜欢这样\NOh, no. I don't like this.
-Dialogue: 0,0:45:09.01,0:45:11.21,Default,,0,0,0,,哦 哦 干什么？哎哟！\NOh, oh, what? Ow!
-Dialogue: 0,0:45:11.35,0:45:12.68,Default,,0,0,0,,过来啊 你这小杂种\NCome here, you little fucking piece
-Dialogue: 0,0:45:12.81,0:45:16.08,Default,,0,0,0,,妈的！\Nof shit!
-Dialogue: 0,0:45:16.22,0:45:17.72,Default,,0,0,0,,罗曼\NRoman.
-Dialogue: 0,0:45:17.85,0:45:19.35,Default,,0,0,0,,罗曼 罗曼\NRoman. Roman.
-Dialogue: 0,0:45:19.49,0:45:21.39,Default,,0,0,0,,罗曼 罗曼 罗曼！停 停 停！\NRoman, Roman, Roman! Stop, stop, stop!
-Dialogue: 0,0:45:23.82,0:45:24.89,Default,,0,0,0,,噢 操！\NOh, fuck!
-Dialogue: 0,0:45:25.03,0:45:26.76,Default,,0,0,0,,- 我们走吧 我们走吧 - 哦 操\N- Let's go. Let's go. - Oh, fuck.
-Dialogue: 0,0:45:26.89,0:45:28.56,Default,,0,0,0,,他妈的！\NFuck!
-Dialogue: 0,0:45:31.03,0:45:33.40,Default,,0,0,0,,我还以为Z世代是温良的一代呢\NI thought Gen Z was supposed to be nice.
-Dialogue: 0,0:45:37.51,0:45:39.41,Default,,0,0,0,,冰块我拿来了\NI got ice in a bucket.
-Dialogue: 0,0:45:39.54,0:45:40.84,Default,,0,0,0,,我帮你敷在哪儿？\NNeed me to put it anywhere on you?
-Dialogue: 0,0:45:40.98,0:45:43.34,Default,,0,0,0,,好 敷在威士忌里 我给你也倒了一杯\NYeah, my bourbon. I poured you one too.
+Dialogue: 0,0:44:05.61,0:44:07.53,Default,,0,0,0,,她问我想吃甜筒吗\NSo she asked if I want an ice cream cone,
+Dialogue: 0,0:44:07.55,0:44:09.92,Default,,0,0,0,,我说 只要甜的筒\Nand I said, "Yes, but I would like ice cream in it."
+Dialogue: 0,0:44:11.33,0:44:12.61,Default,,0,0,0,,- 哎呦 - 怎么了？\N- Ah. - What?
+Dialogue: 0,0:44:12.64,0:44:14.39,Default,,0,0,0,,没什么 我犬骨痛\NNothing. My dog jaw's bothering me.
+Dialogue: 0,0:44:14.42,0:44:15.65,Default,,0,0,0,,- 你犬骨？ - 是啊\N- Your dog jaw? - Yeah.
+Dialogue: 0,0:44:15.68,0:44:17.50,Default,,0,0,0,,- 你不知道犬骨吗？ - 不知道\N- You never heard of dog jaw? - No.
+Dialogue: 0,0:44:17.53,0:44:19.06,Default,,0,0,0,,就像天生下巴\NIt's like I was born with a jawbone
+Dialogue: 0,0:44:19.08,0:44:20.68,Default,,0,0,0,,带了点狗的基因\Nthat's shaped like a paw print.
+Dialogue: 0,0:44:20.71,0:44:21.79,Default,,0,0,0,,- 啥？ - 你摸摸看\N- What? - Here. Yeah, you can feel it right here.
+Dialogue: 0,0:44:21.81,0:44:22.36,Default,,0,0,0,,- 这？ - 对\N- Here? - Yeah.
+Dialogue: 0,0:44:22.39,0:44:24.90,Default,,0,0,0,,{\an9}【犬骨痛：最新恶作剧 诱人摸下巴后装狗咬人】
+Dialogue: 0,0:44:23.64,0:44:25.03,Default,,0,0,0,,...死基佬\NFaggots.
+Dialogue: 0,0:44:25.10,0:44:26.71,Default,,0,0,0,,等下 你说什么？\NWait, what'd you say?
+Dialogue: 0,0:44:26.73,0:44:30.82,Default,,0,0,0,,- 没事 算了吧 - 喂！你混蛋说什么？\N- It's fine. Let it go. - Hey! Fuck did you say?
+Dialogue: 0,0:44:32.11,0:44:34.50,Default,,0,0,0,,我说 看那群死基佬\NI said, "Look at those faggots."
+Dialogue: 0,0:44:34.73,0:44:36.56,Default,,0,0,0,,给我道歉\NWhy don't you apologize?
+Dialogue: 0,0:44:36.90,0:44:39.64,Default,,0,0,0,,要不要来跪舔下？\NHey, why don't you suck my dick?
+Dialogue: 0,0:44:40.01,0:44:41.56,Default,,0,0,0,,要是能别闹大\NOkay, I will suck whosever dick
+Dialogue: 0,0:44:41.58,0:44:43.88,Default,,0,0,0,,我就跪着舔谁都行\Nif we can just de-escalate the situation.
+Dialogue: 0,0:44:44.14,0:44:45.76,Default,,0,0,0,,学学你女朋友\NYou should listen to your girlfriend.
+Dialogue: 0,0:44:46.02,0:44:47.38,Default,,0,0,0,,赶紧道歉\NSay you're sorry.
+Dialogue: 0,0:44:52.76,0:44:53.99,Default,,0,0,0,,我道歉\NI'm sorry.
+Dialogue: 0,0:44:59.52,0:45:02.22,Default,,0,0,0,,去死吧\NFuck you!
+Dialogue: 0,0:45:02.44,0:45:05.37,Default,,0,0,0,,喔 这里还有一个 喔\NOh. There's one here. Oh!
+Dialogue: 0,0:45:07.54,0:45:08.88,Default,,0,0,0,,嗷 真吓人\NOh, no. I don't like this.
+Dialogue: 0,0:45:09.01,0:45:11.21,Default,,0,0,0,,哦 哦 真疼\NOh, oh, what? Ow!
+Dialogue: 0,0:45:11.44,0:45:14.65,Default,,0,0,0,,老子来教训教训你\NCome here, you little fucking piece of shit!
+Dialogue: 0,0:45:16.25,0:45:17.75,Default,,0,0,0,,罗曼 住手\NRoman.
+Dialogue: 0,0:45:17.85,0:45:19.35,Default,,0,0,0,,罗曼 听我说\NRoman. Roman.
+Dialogue: 0,0:45:19.49,0:45:22.16,Default,,0,0,0,,罗曼 罗曼 罗曼 停 停 停\NRoman, Roman, Roman! Stop, stop, stop!
+Dialogue: 0,0:45:23.93,0:45:25.11,Default,,0,0,0,,噢 天呐\NOh, fuck!
+Dialogue: 0,0:45:25.14,0:45:26.87,Default,,0,0,0,,- 赶快走 赶快走 - 哦 操\N- Let's go. Let's go. - Oh, fuck.
+Dialogue: 0,0:45:26.89,0:45:28.56,Default,,0,0,0,,混蛋\NFuck!
+Dialogue: 0,0:45:31.54,0:45:35.23,Default,,0,0,0,,我们这代人应该是随和的\NI thought Gen Z was supposed to be nice.
+Dialogue: 0,0:45:37.54,0:45:39.57,Default,,0,0,0,,冰拿来了\NI got ice in a bucket.
+Dialogue: 0,0:45:39.59,0:45:41.01,Default,,0,0,0,,要我帮你敷哪儿吗？\NNeed me to put it anywhere on you?
+Dialogue: 0,0:45:41.03,0:45:43.99,Default,,0,0,0,,不用 放酒里就行 我给你也倒了一杯\NYeah, my bourbon. I poured you one too.
 Dialogue: 0,0:45:49.98,0:45:51.72,Default,,0,0,0,,好了\NAll right.
-Dialogue: 0,0:45:51.85,0:45:53.29,Default,,0,0,0,,- 干杯 - 干杯\N- Cheers. - Cheers.
-Dialogue: 0,0:45:58.83,0:46:01.76,Default,,0,0,0,,好的\NOkay.
-Dialogue: 0,0:46:05.37,0:46:07.70,Default,,0,0,0,,所以 你在哪儿学的打架？\NSo, where'd you learn to beat people up?
-Dialogue: 0,0:46:09.94,0:46:12.11,Default,,0,0,0,,我小时候练过一点空手道\NI took a little karate as a kid,
-Dialogue: 0,0:46:12.24,0:46:14.58,Default,,0,0,0,,没拿到蓝带就放弃了\Nbut I quit when I didn't make blue belt.
-Dialogue: 0,0:46:15.44,0:46:18.25,Default,,0,0,0,,高中毕业后还玩过一阵MMA综合格斗\NThen I guess I dabbled in some MMA after high school,
-Dialogue: 0,0:46:18.38,0:46:20.75,Default,,0,0,0,,但其实 课堂上你是学不会怎么打架的\Nbut honestly, you don't learn to fight in a classroom.
-Dialogue: 0,0:46:20.88,0:46:22.48,Default,,0,0,0,,是在街头打出来的\NYou learn in the streets.
-Dialogue: 0,0:46:22.62,0:46:24.29,Default,,0,0,0,,在街头？\NIn the streets?
-Dialogue: 0,0:46:24.42,0:46:26.49,Default,,0,0,0,,你到底是什么人啊？\NWho are you?
-Dialogue: 0,0:46:27.96,0:46:29.12,Default,,0,0,0,,所以 你不生气了？\NSo, you're not mad?
-Dialogue: 0,0:46:30.79,0:46:32.09,Default,,0,0,0,,以为你可能不会...\NThought maybe you wouldn't...
-Dialogue: 0,0:46:33.43,0:46:35.16,Default,,0,0,0,,容忍暴力什么的\Ncondone violence or something.
-Dialogue: 0,0:46:35.73,0:46:37.06,Default,,0,0,0,,这是正当防卫\NIt was self-defense.
-Dialogue: 0,0:46:38.13,0:46:40.13,Default,,0,0,0,,起码前半段是的\NFor the first half.
-Dialogue: 0,0:46:42.37,0:46:44.97,Default,,0,0,0,,好吧 想下地狱 就一直往前走是吧\NWell, if you're going to hell, keep going.
-Dialogue: 0,0:46:45.11,0:46:46.07,Default,,0,0,0,,对吧？\NRight?
-Dialogue: 0,0:46:47.41,0:46:50.18,Default,,0,0,0,,对\NRight.
-Dialogue: 0,0:46:53.15,0:46:54.98,Default,,0,0,0,,嘿 我可以跟你坦白一件事吗？\NHey, can I confess something to you?
-Dialogue: 0,0:46:59.32,0:47:01.79,Default,,0,0,0,,我一直在用罗基的健身会员卡\NI've been using Rocky's gym membership.
-Dialogue: 0,0:47:02.96,0:47:04.36,Default,,0,0,0,,假装我是他\NPretending I'm him.
-Dialogue: 0,0:47:08.60,0:47:10.33,Default,,0,0,0,,这有点扯 是吧？\NIt's kind of fucked up, right?
-Dialogue: 0,0:47:11.10,0:47:12.77,Default,,0,0,0,,是啊 是挺...\NYeah, that's...
-Dialogue: 0,0:47:13.57,0:47:14.54,Default,,0,0,0,,疯的\Ncrazy.
-Dialogue: 0,0:47:16.34,0:47:18.67,Default,,0,0,0,,你知道吗 前几天我在健身房还有人搭讪了\NYou know, I actually got hit on there the other day.
-Dialogue: 0,0:47:19.64,0:47:22.04,Default,,0,0,0,,我想也许那家伙认识罗基 所以 呃\NI thought maybe the guy knew Rocky, so, uh,
-Dialogue: 0,0:47:22.58,0:47:23.61,Default,,0,0,0,,我就顺势演了下去\NI just went with it.
-Dialogue: 0,0:47:24.41,0:47:25.65,Default,,0,0,0,,他说了什么？\NWhat did he say?
-Dialogue: 0,0:47:26.41,0:47:28.48,Default,,0,0,0,,他说 “你最近手臂练的不错嘛”\NHe was like, "Someone's been working their arms."
-Dialogue: 0,0:47:28.62,0:47:31.79,Default,,0,0,0,,- 你编的吧 - 真的 他就是这么说的\N- He did not say that. - Yeah, he did. Yeah, he...
-Dialogue: 0,0:47:31.92,0:47:34.15,Default,,0,0,0,,然后我说“是啊\NThen I said, uh, "Yeah,
-Dialogue: 0,0:47:34.29,0:47:36.16,Default,,0,0,0,,我最近练的可认真了”\Nyou know, I've been working 'em real good."
-Dialogue: 0,0:47:39.49,0:47:41.66,Default,,0,0,0,,你很会撩嘛\NYou're such a tease.
-Dialogue: 0,0:47:41.80,0:47:43.06,Default,,0,0,0,,什么？我只是试过\NWhat? I experimented.
-Dialogue: 0,0:47:43.20,0:47:45.03,Default,,0,0,0,,- 你试过？ - 嗯\N- You did? - Mm.
-Dialogue: 0,0:47:48.17,0:47:49.84,Default,,0,0,0,,我 呃...\NI, uh...
-Dialogue: 0,0:47:49.97,0:47:51.81,Default,,0,0,0,,...曾经在派对时亲过一个男的\N...kissed a guy at a party once.
-Dialogue: 0,0:47:55.18,0:47:57.24,Default,,0,0,0,,那时罗基刚出柜不久\NIt was after Rocky came out.
-Dialogue: 0,0:47:57.38,0:47:59.38,Default,,0,0,0,,我想这能帮助我了解罗基\NI think I was just trying to understand.
-Dialogue: 0,0:48:01.55,0:48:02.72,Default,,0,0,0,,我从来没给他说过这事\NI never told him that.
-Dialogue: 0,0:48:11.23,0:48:14.19,Default,,0,0,0,,你可以把我当成罗基来跟我说话\NYou could talk to me like I'm Rocky.
-Dialogue: 0,0:48:22.24,0:48:25.57,Default,,0,0,0,,啊 所以你现在已经死了\NYeah, so you're dead now.
-Dialogue: 0,0:48:25.71,0:48:27.71,Default,,0,0,0,,这就是你走路不看两边的后果\NThat's what you get for not looking both ways.
-Dialogue: 0,0:48:29.74,0:48:31.08,Default,,0,0,0,,你就知道往前冲\NYou only wanna look forward.
-Dialogue: 0,0:48:33.31,0:48:34.95,Default,,0,0,0,,对不起 我不知道该...\NSorry, I don't even know what to...
-Dialogue: 0,0:48:36.75,0:48:38.02,Default,,0,0,0,,我甚至想不起来\NI can't even remember the last time
-Dialogue: 0,0:48:38.15,0:48:39.42,Default,,0,0,0,,我们最后一次好好说话是什么时候了\Nwe had a real conversation.
-Dialogue: 0,0:48:41.09,0:48:44.36,Default,,0,0,0,,每次不是“工作怎么样？”就是“妈妈怎么样？”\NThat wasn't, "How's work?" You know, "How's Mom?"
-Dialogue: 0,0:48:47.43,0:48:49.30,Default,,0,0,0,,而且每次都是按你的时间来\NAnd it's always on your time too.
-Dialogue: 0,0:48:50.50,0:48:51.80,Default,,0,0,0,,毕竟你的事更重要 对吧？\NBetter things to do, right?
-Dialogue: 0,0:48:54.90,0:48:57.10,Default,,0,0,0,,你祝我“生日快乐”已经是第二天了\NYou wished me a "happy birthday" the day after.
-Dialogue: 0,0:48:58.51,0:49:00.04,Default,,0,0,0,,我知道你没忘\NAnd, I mean, I know you didn't forget.
-Dialogue: 0,0:49:00.17,0:49:02.94,Default,,0,0,0,,就像我...我很笨 但我还没有笨到那种程度\NLike, I'm-I'm pretty stupid, but I'm not that fucking stupid.
-Dialogue: 0,0:49:05.05,0:49:08.55,Default,,0,0,0,,你知道吗 我一直等到零点 以防万一错过信息\NYou know, I actually waited until midnight, just in case,
-Dialogue: 0,0:49:08.68,0:49:11.49,Default,,0,0,0,,然后...时间到的那一刻...\Nand... and the second it...
-Dialogue: 0,0:49:13.39,0:49:14.82,Default,,0,0,0,,我突然崩溃了 因为...\NWell, I snapped, 'cause...
-Dialogue: 0,0:49:16.62,0:49:18.66,Default,,0,0,0,,你真他妈实在是太自私了\Nto be honest, you're so fucking selfish.
-Dialogue: 0,0:49:21.63,0:49:24.10,Default,,0,0,0,,就像什么 你不...你不想理我？\NLike, what, you don't-- you... you don't wanna deal with me?
-Dialogue: 0,0:49:24.90,0:49:27.97,Default,,0,0,0,,对不起 我不看政治\NYou know, I'm-- I'm sorry I don't read politics,
-Dialogue: 0,0:49:28.10,0:49:30.91,Default,,0,0,0,,也不喜欢你喜欢的那些东西...\Nor... ...like, or whatever, but, like...
-Dialogue: 0,0:49:35.38,0:49:36.91,Default,,0,0,0,,但你知道吗？\NYou know what?
-Dialogue: 0,0:49:37.81,0:49:39.91,Default,,0,0,0,,我们变成这样都是你的错\NIt's your fucking fault we're like this.
-Dialogue: 0,0:49:41.62,0:49:43.65,Default,,0,0,0,,是你 我迫不及待想逃离 我本来...\NYeah, you couldn't wait to get away. I mean, I would've,
-Dialogue: 0,0:49:44.15,0:49:45.62,Default,,0,0,0,,我本来可以跟你去上大学\NI would've followed you to college.
-Dialogue: 0,0:49:45.75,0:49:47.29,Default,,0,0,0,,跟你去日本 我会适应的\NI would've gone to Japan. I would've figured it out.
-Dialogue: 0,0:49:48.66,0:49:50.32,Default,,0,0,0,,但你压根儿就没问过我！\NBut you never even fucking asked me!
+Dialogue: 0,0:45:51.85,0:45:53.63,Default,,0,0,0,,- 干杯 - 干杯\N- Cheers. - Cheers.
+Dialogue: 0,0:46:00.48,0:46:01.76,Default,,0,0,0,,好\NOkay.
+Dialogue: 0,0:46:05.42,0:46:08.44,Default,,0,0,0,,所以 你在哪儿学的功夫？\NSo, where'd you learn to beat people up?
+Dialogue: 0,0:46:09.91,0:46:12.24,Default,,0,0,0,,小时候学过点空手道\NI took a little karate as a kid,
+Dialogue: 0,0:46:12.27,0:46:14.91,Default,,0,0,0,,没拿到蓝带就不学了\Nbut I quit when I didn't make blue belt.
+Dialogue: 0,0:46:15.48,0:46:18.36,Default,,0,0,0,,高中后练过点综合格斗\NThen I guess I dabbled in some MMA after high school,
+Dialogue: 0,0:46:18.38,0:46:20.86,Default,,0,0,0,,但其实 打架在课堂上是学不来的\Nbut honestly, you don't learn to fight in a classroom.
+Dialogue: 0,0:46:20.88,0:46:22.67,Default,,0,0,0,,得在街头打出来\NYou learn in the streets.
+Dialogue: 0,0:46:22.70,0:46:24.40,Default,,0,0,0,,街头？\NIn the streets?
+Dialogue: 0,0:46:24.49,0:46:26.96,Default,,0,0,0,,你到底是什么人啊？\NWho are you?
+Dialogue: 0,0:46:28.03,0:46:29.79,Default,,0,0,0,,那你不生气？\NSo, you're not mad?
+Dialogue: 0,0:46:30.83,0:46:32.69,Default,,0,0,0,,我还以为你...\NThought maybe you wouldn't...
+Dialogue: 0,0:46:33.43,0:46:35.58,Default,,0,0,0,,你会反对暴力什么的\Ncondone violence or something.
+Dialogue: 0,0:46:35.77,0:46:37.64,Default,,0,0,0,,那是自卫\NIt was self-defense.
+Dialogue: 0,0:46:38.24,0:46:40.68,Default,,0,0,0,,前半段算是自卫\NFor the first half.
+Dialogue: 0,0:46:42.35,0:46:45.25,Default,,0,0,0,,地狱没电梯 只能往下走到黑\NWell, if you're going to hell, keep going.
+Dialogue: 0,0:46:45.28,0:46:46.52,Default,,0,0,0,,对吧？\NRight?
+Dialogue: 0,0:46:47.48,0:46:48.45,Default,,0,0,0,,对\NRight.
+Dialogue: 0,0:46:53.20,0:46:56.51,Default,,0,0,0,,嘿 可以跟你坦白一件事吗？\NHey, can I confess something to you?
+Dialogue: 0,0:46:59.43,0:47:02.76,Default,,0,0,0,,我一直在用罗基的健身会员卡\NI've been using Rocky's gym membership.
+Dialogue: 0,0:47:03.00,0:47:05.34,Default,,0,0,0,,装成他去健身\NPretending I'm him.
+Dialogue: 0,0:47:08.66,0:47:10.80,Default,,0,0,0,,不太光彩 对吧？\NIt's kind of fucked up, right?
+Dialogue: 0,0:47:11.17,0:47:13.42,Default,,0,0,0,,是啊 是挺...\NYeah, that's...
+Dialogue: 0,0:47:13.66,0:47:15.77,Default,,0,0,0,,不寻常的\Ncrazy.
+Dialogue: 0,0:47:16.50,0:47:19.83,Default,,0,0,0,,前几天在健身房我被人搭讪了\NYou know, I actually got hit on there the other day.
+Dialogue: 0,0:47:19.86,0:47:22.66,Default,,0,0,0,,我以为那人认识罗基\NI thought maybe the guy knew Rocky, so, uh,
+Dialogue: 0,0:47:22.69,0:47:24.42,Default,,0,0,0,,就顺着演了\NI just went with it.
+Dialogue: 0,0:47:24.52,0:47:25.88,Default,,0,0,0,,他都说了什么？\NWhat did he say?
+Dialogue: 0,0:47:26.41,0:47:28.65,Default,,0,0,0,,他说 “手臂练得不错嘛”\NHe was like, "Someone's been working their arms."
+Dialogue: 0,0:47:28.67,0:47:31.84,Default,,0,0,0,,- 你编的吧 - 他真说了\N- He did not say that. - Yeah, he did. Yeah, he...
+Dialogue: 0,0:47:32.03,0:47:34.36,Default,,0,0,0,,然后我说“是啊\NThen I said, uh, "Yeah,
+Dialogue: 0,0:47:34.39,0:47:36.81,Default,,0,0,0,,我练得挺狠的”\Nyou know, I've been working 'em real good."
+Dialogue: 0,0:47:39.61,0:47:41.78,Default,,0,0,0,,你真会撩\NYou're such a tease.
+Dialogue: 0,0:47:41.80,0:47:44.07,Default,,0,0,0,,咋了 我只是试试牛刀\NWhat? I experimented.
+Dialogue: 0,0:47:44.10,0:47:46.63,Default,,0,0,0,,- 你有牛刀？ - 嗯\N- You did? - Mm.
+Dialogue: 0,0:47:48.28,0:47:49.95,Default,,0,0,0,,我...\NI, uh...
+Dialogue: 0,0:47:49.97,0:47:52.63,Default,,0,0,0,,...有次在派对上吻过一个男的\N...kissed a guy at a party once.
+Dialogue: 0,0:47:55.23,0:47:57.45,Default,,0,0,0,,那时罗基刚出柜不久\NIt was after Rocky came out.
+Dialogue: 0,0:47:57.47,0:48:00.24,Default,,0,0,0,,我是想试着理解罗基\NI think I was just trying to understand.
+Dialogue: 0,0:48:01.62,0:48:04.90,Default,,0,0,0,,这事我从来没给他说过\NI never told him that.
+Dialogue: 0,0:48:11.31,0:48:15.01,Default,,0,0,0,,把当我是罗基 跟我说吧\NYou could talk to me like I'm Rocky.
+Dialogue: 0,0:48:22.33,0:48:25.76,Default,,0,0,0,,现在死了吧\NYeah, so you're dead now.
+Dialogue: 0,0:48:25.79,0:48:29.57,Default,,0,0,0,,谁让你只朝前走 不顾周围的\NThat's what you get for not looking both ways.
+Dialogue: 0,0:48:29.74,0:48:32.05,Default,,0,0,0,,你就知道往前看\NYou only wanna look forward.
+Dialogue: 0,0:48:33.44,0:48:35.56,Default,,0,0,0,,我都不知道该说什么\NSorry, I don't even know what to...
+Dialogue: 0,0:48:36.86,0:48:38.13,Default,,0,0,0,,我都不记得\NI can't even remember the last time
+Dialogue: 0,0:48:38.15,0:48:40.47,Default,,0,0,0,,我们什么时候真心聊过\Nwe had a real conversation.
+Dialogue: 0,0:48:41.16,0:48:45.48,Default,,0,0,0,,除了“工作怎样” “妈怎样”那种表面套话\NThat wasn't, "How's work?" You know, "How's Mom?"
+Dialogue: 0,0:48:47.55,0:48:50.44,Default,,0,0,0,,地球都得围着你转\NAnd it's always on your time too.
+Dialogue: 0,0:48:50.54,0:48:52.79,Default,,0,0,0,,你最重要 对吧？\NBetter things to do, right?
+Dialogue: 0,0:48:55.03,0:48:58.02,Default,,0,0,0,,你直到第二天才祝我生日快乐\NYou wished me a "happy birthday" the day after.
+Dialogue: 0,0:48:58.59,0:49:00.61,Default,,0,0,0,,我知道你不是忘了\NAnd, I mean, I know you didn't forget.
+Dialogue: 0,0:49:00.64,0:49:04.00,Default,,0,0,0,,我虽傻 可没傻到那程度\NLike, I'm-I'm pretty stupid, but I'm not that fucking stupid.
+Dialogue: 0,0:49:05.14,0:49:08.71,Default,,0,0,0,,我还特意等到晚上十二点 就怕错过\NYou know, I actually waited until midnight, just in case,
+Dialogue: 0,0:49:08.74,0:49:12.37,Default,,0,0,0,,结果...时间一过...\Nand... and the second it...
+Dialogue: 0,0:49:13.48,0:49:16.21,Default,,0,0,0,,我当场崩溃\NWell, I snapped, 'cause...
+Dialogue: 0,0:49:16.71,0:49:19.70,Default,,0,0,0,,你太自私了\Nto be honest, you're so fucking selfish.
+Dialogue: 0,0:49:21.76,0:49:24.68,Default,,0,0,0,,你就是不想理我\NLike, what, you don't-- you... you don't wanna deal with me?
+Dialogue: 0,0:49:24.95,0:49:28.10,Default,,0,0,0,,抱歉 我不关心时政\NYou know, I'm-- I'm sorry I don't read politics,
+Dialogue: 0,0:49:28.13,0:49:31.48,Default,,0,0,0,,没啥共同话题\Nor... ...like, or whatever, but, like...
+Dialogue: 0,0:49:35.53,0:49:37.67,Default,,0,0,0,,知道吗？\NYou know what?
+Dialogue: 0,0:49:37.88,0:49:39.98,Default,,0,0,0,,这都怪你\NIt's your fucking fault we're like this.
+Dialogue: 0,0:49:41.69,0:49:44.13,Default,,0,0,0,,你非得走得太快 不顾周围人\NYeah, you couldn't wait to get away. I mean, I would've,
+Dialogue: 0,0:49:44.15,0:49:45.63,Default,,0,0,0,,我本可跟你去上大学\NI would've followed you to college.
+Dialogue: 0,0:49:45.65,0:49:47.94,Default,,0,0,0,,去日本 我能适应的\NI would've gone to Japan. I would've figured it out.
+Dialogue: 0,0:49:48.61,0:49:52.18,Default,,0,0,0,,可你压根没问过我一次\NBut you never even fucking asked me!
 Dialogue: 0,0:49:55.73,0:49:56.80,Default,,0,0,0,,对不起\NSorry.
-Dialogue: 0,0:49:59.73,0:50:01.10,Default,,0,0,0,,对不起！\NI'm sorry!
-Dialogue: 0,0:50:01.24,0:50:03.17,Default,,0,0,0,,对不起 我控制不了我的脾气\NI'm sorry I can't control my anger.
-Dialogue: 0,0:50:06.14,0:50:09.34,Default,,0,0,0,,对不起 当你告诉我你喜欢男人时 我对你发火了\NAnd I'm sorry I blew up at you when you told me you like guys.
-Dialogue: 0,0:50:12.95,0:50:14.88,Default,,0,0,0,,对不起 我还骂你是死基佬\NI'm sorry I called you a faggot.
-Dialogue: 0,0:50:17.59,0:50:19.49,Default,,0,0,0,,我真希望我能收回那句话\NI wish I could take it back.
-Dialogue: 0,0:50:21.15,0:50:22.89,Default,,0,0,0,,哦 当我看到你听完这句后的表情\NOh, and your face when I said it,
-Dialogue: 0,0:50:23.06,0:50:25.03,Default,,0,0,0,,我...\NI...
-Dialogue: 0,0:50:25.16,0:50:26.66,Default,,0,0,0,,我就知道我该放手了！\NI know that's why you left!
-Dialogue: 0,0:50:29.10,0:50:32.90,Default,,0,0,0,,我想我只是...只是太害怕...\NI think I was just-- I was scared that...
-Dialogue: 0,0:50:33.03,0:50:35.17,Default,,0,0,0,,我不知道...我不知道\NI don't... I don't know.
-Dialogue: 0,0:50:36.00,0:50:38.67,Default,,0,0,0,,如果我没有...如果我没有...\NIf I didn't... if I didn't...
-Dialogue: 0,0:50:41.04,0:50:43.04,Default,,0,0,0,,如果你不再像我 我们变的不一样\NIf you weren't like me, and we weren't the same,
-Dialogue: 0,0:50:43.18,0:50:45.38,Default,,0,0,0,,那样的话...我还算什么？\Nthen... then I wouldn't know who I was, you know?
-Dialogue: 0,0:50:45.51,0:50:47.31,Default,,0,0,0,,但...但这样没关系 因为你...\NBut that-- but that's okay, because you...
-Dialogue: 0,0:50:47.45,0:50:49.55,Default,,0,0,0,,你可以跟我聊男的 我跟你聊女的\Nyou can talk about guys, and I can talk about girls,
-Dialogue: 0,0:50:49.68,0:50:51.65,Default,,0,0,0,,我们依然...\Nand we both still...
-Dialogue: 0,0:50:51.79,0:50:56.16,Default,,0,0,0,,还有电子游戏、曲棍球和披萨\Nyou know, like video games, and-and hockey, and pizza.
-Dialogue: 0,0:50:56.29,0:50:58.49,Default,,0,0,0,,嗯 每个人都喜欢披萨\NWell, everybody likes pizza.
-Dialogue: 0,0:51:02.70,0:51:05.20,Default,,0,0,0,,没有你我真的不知道该怎么办\NI don't know how to fucking be here without you.
-Dialogue: 0,0:51:09.87,0:51:12.77,Default,,0,0,0,,没有你我真的不知道该怎么办！\NI don't know how to fucking be here without you!
-Dialogue: 0,0:51:14.71,0:51:18.45,Default,,0,0,0,,没有你我真的不知道该怎么办！\NI don't know how to fucking be here without you!
-Dialogue: 0,0:51:35.90,0:51:37.73,Default,,0,0,0,,真希望你能见到罗基\NI wish you could've met Rocky.
-Dialogue: 0,0:51:41.57,0:51:43.24,Default,,0,0,0,,他一定会非常喜欢你的\NHe would've really liked you.
-Dialogue: 0,0:51:48.41,0:51:50.86,Default,,0,0,0,,{\an5}分割线---------------------------------------
+Dialogue: 0,0:49:59.73,0:50:01.22,Default,,0,0,0,,真对不起\NI'm sorry!
+Dialogue: 0,0:50:01.24,0:50:04.80,Default,,0,0,0,,对不起 我控制不了我的怒气\NI'm sorry I can't control my anger.
+Dialogue: 0,0:50:06.17,0:50:11.95,Default,,0,0,0,,对不起 我在你说喜欢男人时对你发火\NAnd I'm sorry I blew up at you when you told me you like guys.
+Dialogue: 0,0:50:13.07,0:50:16.50,Default,,0,0,0,,对不起 我还骂你死基佬\NI'm sorry I called you a faggot.
+Dialogue: 0,0:50:17.62,0:50:20.70,Default,,0,0,0,,真希望有后悔药\NI wish I could take it back.
+Dialogue: 0,0:50:21.24,0:50:23.04,Default,,0,0,0,,我看到你当时的表情\NOh, and your face when I said it,
+Dialogue: 0,0:50:23.06,0:50:24.36,Default,,0,0,0,,我...\NI...
+Dialogue: 0,0:50:25.19,0:50:28.62,Default,,0,0,0,,我知道那就是你离我而去的原因\NI know that's why you left!
+Dialogue: 0,0:50:29.12,0:50:32.92,Default,,0,0,0,,我只是 只是怕...\NI think I was just-- I was scared that...
+Dialogue: 0,0:50:33.09,0:50:35.64,Default,,0,0,0,,我不知道为什么\NI don't... I don't know.
+Dialogue: 0,0:50:36.11,0:50:38.78,Default,,0,0,0,,我怕 我怕...\NIf I didn't... if I didn't...
+Dialogue: 0,0:50:40.99,0:50:43.30,Default,,0,0,0,,我怕我们不一样的话\NIf you weren't like me, and we weren't the same,
+Dialogue: 0,0:50:43.32,0:50:45.54,Default,,0,0,0,,我就找不到自我了\Nthen... then I wouldn't know who I was, you know?
+Dialogue: 0,0:50:45.56,0:50:47.43,Default,,0,0,0,,但 但没关系...\NBut that-- but that's okay, because you...
+Dialogue: 0,0:50:47.45,0:50:50.24,Default,,0,0,0,,你聊谈男的 我聊谈女的\Nyou can talk about guys, and I can talk about girls,
+Dialogue: 0,0:50:50.27,0:50:51.80,Default,,0,0,0,,我们还有...\Nand we both still...
+Dialogue: 0,0:50:51.82,0:50:56.30,Default,,0,0,0,,打游戏 冰球 披萨这些共同爱好\Nyou know, like video games, and-and hockey, and pizza.
+Dialogue: 0,0:50:56.33,0:50:59.53,Default,,0,0,0,,谁不爱披萨呢\NWell, everybody likes pizza.
+Dialogue: 0,0:51:02.80,0:51:06.99,Default,,0,0,0,,我真不知道没你我怎么活下去\NI don't know how to fucking be here without you.
+Dialogue: 0,0:51:08.44,0:51:09.64,Default,,0,0,0,,我真...\NI don't know...
+Dialogue: 0,0:51:09.96,0:51:13.55,Default,,0,0,0,,我真不知道没你我怎么活下去\NI don't know how to fucking be here without you!
+Dialogue: 0,0:51:14.78,0:51:19.13,Default,,0,0,0,,我真不知道没你我怎么活下去\NI don't know how to fucking be here without you!
+Dialogue: 0,0:51:35.97,0:51:38.84,Default,,0,0,0,,我希望你能认识罗基\NI wish you could've met Rocky.
+Dialogue: 0,0:51:41.81,0:51:44.07,Default,,0,0,0,,他肯定会喜欢你的\NHe would've really liked you.
 Dialogue: 0,0:51:55.58,0:51:57.20,Default,,0,0,0,,里面可能不会太热闹\NThere might not be a lot of people there.
 Dialogue: 0,0:51:57.22,0:52:00.27,Default,,0,0,0,,提醒你一下 呃 玛茜有点...\NJust so you know, uh, Marcie's kind of a...
 Dialogue: 0,0:52:00.29,0:52:02.50,Default,,0,0,0,,我不想说她是个废柴啦 不过\NI mean, I don't wanna say she's a loser, but,
@@ -1014,6 +1013,7 @@ Dialogue: 0,0:56:20.55,0:56:23.50,Default,,0,0,0,,喝多了就这样\NI'm just a
 Dialogue: 0,0:56:23.52,0:56:25.77,Default,,0,0,0,,雪莉 万圣节快乐\NShelly, happy Halloween.
 Dialogue: 0,0:56:25.79,0:56:27.47,Default,,0,0,0,,- 万圣节快乐 - 你今晚美翻了\N- Happy Halloween! - You look so great.
 Dialogue: 0,0:56:27.49,0:56:29.36,Default,,0,0,0,,谢啦\NThank you!
+Dialogue: 0,0:56:44.31,0:56:49.99,Default,,0,0,0,,{\an5}【小p翻译至此】
 Dialogue: 0,0:56:51.18,0:56:52.71,Default,,0,0,0,,- 嘿 玛茜 - 嗨 丹尼斯\N- Hey, Marcie. - Hi, Dennis.
 Dialogue: 0,0:56:52.85,0:56:54.88,Default,,0,0,0,,- 派对很棒 - 谢谢你来玩\N- Great party. - Yeah. Thanks for coming.
 Dialogue: 0,0:56:55.02,0:56:56.78,Default,,0,0,0,,你朋友这么多 我真没想到\NYou have so many friends. Never would've guessed.
