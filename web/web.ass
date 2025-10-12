@@ -249,7 +249,7 @@ Dialogue: 0,0:12:30.62,0:12:33.09,Default,,0,0,0,,那是青柠\NThose are limes.
 Dialogue: 0,0:12:47.23,0:12:48.54,Default,,0,0,0,,你还好吧？\NAre you okay?
 Dialogue: 0,0:12:49.27,0:12:51.40,Default,,0,0,0,,别笑我行不行？\NCan you not laugh at me?
 Dialogue: 0,0:12:51.43,0:12:53.99,Default,,0,0,0,,我知道我脑袋不光\NI know I'm not, like, the brightest tool in the shed,
-Dialogue: 0,0:12:54.02,0:12:56.70,Default,,0,0,0,,但...但别拿我开涮\Nbut... I don't appreciate it.
+Dialogue: 0,0:12:54.02,0:12:56.70,Default,,0,0,0,,但 但别拿我开涮\Nbut... I don't appreciate it.
 Dialogue: 0,0:12:57.45,0:12:59.49,Default,,0,0,0,,好 好 当然 对不起\NYeah. Yeah, of course. I'm sorry.
 Dialogue: 0,0:12:59.51,0:13:02.26,Default,,0,0,0,,要是发现我错了就直说\NYou know, if I get something wrong... tell me.
 Dialogue: 0,0:13:02.28,0:13:05.42,Default,,0,0,0,,我好能改进\N'Cause... then I can know better.
@@ -631,7 +631,7 @@ Dialogue: 0,0:37:40.11,0:37:41.71,Default,,0,0,0,,- 喂？ - 喂\N- Hello? - Hey
 Dialogue: 0,0:37:41.83,0:37:43.53,Default,,0,0,0,,是我 罗曼\NIt's Roman.
 Dialogue: 0,0:37:43.69,0:37:44.60,Default,,0,0,0,,嘿\NHey.
 Dialogue: 0,0:37:45.17,0:37:47.14,Default,,0,0,0,,能陪我买东西吗？\NYou wanna get groceries with me?
-Dialogue: 0,0:37:47.60,0:37:51.10,Default,,0,0,0,,可以啊！我正打算去超市\NYeah! I've been, um, meaning to go to the store.
+Dialogue: 0,0:37:47.60,0:37:51.10,Default,,0,0,0,,可以啊 我正打算去超市\NYeah! I've been, um, meaning to go to the store.
 Dialogue: 0,0:37:56.70,0:38:00.50,Music,,0,0,0,,{\an7}♪ 我会忘了 把灯关\N{\i1}♪ I might forget to turn out all the lights ♪{\i0}
 Dialogue: 0,0:38:00.65,0:38:03.15,Music,,0,0,0,,{\an7}♪ 拂晓寒\N{\i1}♪ But you take care of me ♪{\i0}
 Dialogue: 0,0:38:03.32,0:38:06.09,Music,,0,0,0,,{\an7}♪ 你会替我\N{\i1}♪ When I have to leave ♪{\i0}
@@ -735,7 +735,7 @@ Dialogue: 0,0:42:35.86,0:42:37.58,Default,,0,0,0,,像个会早婚的人\Nwho wou
 Dialogue: 0,0:42:37.63,0:42:39.44,Default,,0,0,0,,说来巧 我家女人\NIt's funny you say that, because all the women
 Dialogue: 0,0:42:39.46,0:42:41.01,Default,,0,0,0,,结婚都很早\Nin my family married very young,
 Dialogue: 0,0:42:41.03,0:42:42.31,Default,,0,0,0,,我一直以为\Nand I always thought
-Dialogue: 0,0:42:42.33,0:42:44.62,Default,,0,0,0,,我会在28岁前有孩子的\NI would have a kid before I turned 28.
+Dialogue: 0,0:42:42.33,0:42:44.62,Default,,0,0,0,,我会在二十八岁前有孩子的\NI would have a kid before I turned 28.
 Dialogue: 0,0:42:44.65,0:42:46.68,Default,,0,0,0,,现在科技是进步了\NAnd sure, these days, there are advancements,
 Dialogue: 0,0:42:46.70,0:42:49.45,Default,,0,0,0,,但时光飞逝\Nbut the clock is still ticking.
 Dialogue: 0,0:42:49.48,0:42:51.40,Default,,0,0,0,,卵子还在倒计时\NFor my eggs.
@@ -903,8 +903,8 @@ Dialogue: 0,0:52:34.39,0:52:35.76,Default,,0,0,0,,我去拿点喝的\NI'll go ge
 Dialogue: 0,0:52:35.79,0:52:37.40,Default,,0,0,0,,你们俩先聊\NWhy don't, uh, you two mingle?
 Dialogue: 0,0:52:38.63,0:52:42.66,Music,,0,0,0,,{\an7}♪ 我太不愿被命定 ♪\N{\i1}♪ Not like we have a date with destiny ♪{\i0}
 Dialogue: 0,0:52:43.53,0:52:46.33,Music,,0,0,0,,{\an7}♪ 触动奇心弦起鸣... ♪\N{\i1}♪ It's just a little crush... ♪{\i0}
-Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an9}我真超讨厌这首歌\NOh, I fucking hate that song.
-Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an3}我超喜欢这首歌\NI love this song.
+Dialogue: 0,0:52:46.70,0:52:49.91,Default,,0,0,0,,{\an2}我真超讨厌这首歌\NOh, I fucking hate that song.
+Dialogue: 0,0:52:46.70,0:52:49.91,Default,,0,0,0,,{\an3}我超喜欢这首歌\NI love this song.
 Dialogue: 0,0:52:51.74,0:52:55.37,Default,,0,0,0,,{\an3}嗯 你对木头活儿感兴趣吗？\NHmm. So, uh, you like wood?
 Dialogue: 0,0:52:55.45,0:52:59.36,Default,,0,0,0,,{\an3}哦 呃...是的\NOh, uh... Yeah.
 Dialogue: 0,0:52:57.26,0:53:00.18,Default,,0,0,0,,{\an1}麻烦让...谢谢\NCould you... Thank you so much.
