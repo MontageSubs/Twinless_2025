@@ -696,7 +696,7 @@ Dialogue: 0,0:40:39.63,0:40:40.88,Default,,0,0,0,,- 我去把他叫回来 - 别�
 Dialogue: 0,0:40:43.21,0:40:44.69,Default,,0,0,0,,他算你的菜吗？\NSo was he your type?
 Dialogue: 0,0:40:47.25,0:40:49.68,Default,,0,0,0,,我没明确的喜好\NI don't think I have a type.
 Dialogue: 0,0:40:51.94,0:40:53.89,Default,,0,0,0,,我的公司有个同志\NYou know, there's a gay guy at work.
-Dialogue: 0,0:40:53.92,0:40:54.99,Default,,0,0,0,,叫山姆\NSam.
+Dialogue: 0,0:40:53.92,0:40:54.99,Default,,0,0,0,,叫萨米\NSam.
 Dialogue: 0,0:40:55.56,0:40:58.67,Default,,0,0,0,,你该见见他 我觉得你们挺合得来\NYou should meet him. I think you'd really get along.
 Dialogue: 0,0:40:58.71,0:41:00.51,Default,,0,0,0,,听起来有点像“你们都是亚洲人\NYou know, that's sort of like, "You're both Asian.
 Dialogue: 0,0:41:00.53,0:41:02.44,Default,,0,0,0,,肯定聊得来”那套\NI'm sure you have lots of Asian things to talk about."
@@ -886,7 +886,7 @@ Dialogue: 0,0:51:55.58,0:51:57.20,Default,,0,0,0,,里面可能不会太热闹\NT
 Dialogue: 0,0:51:57.22,0:52:00.27,Default,,0,0,0,,提醒你一下 呃 玛茜有点...\NJust so you know, uh, Marcie's kind of a...
 Dialogue: 0,0:52:00.29,0:52:02.50,Default,,0,0,0,,我不想说她是个废柴啦 不过\NI mean, I don't wanna say she's a loser, but,
 Dialogue: 0,0:52:02.52,0:52:03.76,Default,,0,0,0,,进去就知道了\NI mean, you'll see.
-Dialogue: 0,0:52:10.60,0:52:11.73,Music,,0,0,0,,{\an7\i1}♪ See you blowing me a kiss... ♪{\i0}
+Dialogue: 0,0:52:10.60,0:52:11.73,Music,,0,0,0,,{\an7}♪ 蒙面吹来我一吻... ♪\N{\i1}♪ See you blowing me a kiss... ♪{\i0}
 Dialogue: 0,0:52:11.87,0:52:12.80,Default,,0,0,0,,罗曼？\NRoman?
 Dialogue: 0,0:52:13.91,0:52:16.05,Default,,0,0,0,,哇 萨米 你怎么在这儿？\NWhoa, Sammy. What are you doing here?
 Dialogue: 0,0:52:16.08,0:52:18.28,Default,,0,0,0,,哦 我和玛茜一起上过木工课\NOh, I took a woodworking class with Marcie.
@@ -894,15 +894,15 @@ Dialogue: 0,0:52:18.31,0:52:19.67,Default,,0,0,0,,你怎么在这儿？\NWhat ar
 Dialogue: 0,0:52:19.69,0:52:22.50,Default,,0,0,0,,这是我朋友丹尼斯 他和玛茜一起工作\NThis is my buddy Dennis. He works with Marcie.
 Dialogue: 0,0:52:22.52,0:52:24.72,Default,,0,0,0,,嘿 你好 我是萨米\NOh, hey, what's up? I'm-I'm Sammy.
 Dialogue: 0,0:52:24.82,0:52:26.21,Default,,0,0,0,,嗨\NHi.
-Dialogue: 0,0:52:26.31,0:52:27.70,Default,,0,0,0,,他是我跟你说过的\NHe's the gay guy from work
+Dialogue: 0,0:52:26.24,0:52:27.70,Default,,0,0,0,,他是我跟你说过的\NHe's the gay guy from work
 Dialogue: 0,0:52:27.73,0:52:29.30,Default,,0,0,0,,那个同性恋同事\NI was telling you about.
 Dialogue: 0,0:52:29.33,0:52:30.77,Default,,0,0,0,,真巧吧？\NWhat are the odds?
 Dialogue: 0,0:52:30.99,0:52:32.93,Default,,0,0,0,,你好 听说我们俩是同道中人\NHi. I hear we have a lot in common.
 Dialogue: 0,0:52:32.95,0:52:34.22,Default,,0,0,0,,是吗？\NDo you?
 Dialogue: 0,0:52:34.39,0:52:35.76,Default,,0,0,0,,我去拿点喝的\NI'll go get us a couple of drinks.
 Dialogue: 0,0:52:35.79,0:52:37.40,Default,,0,0,0,,你们俩先聊\NWhy don't, uh, you two mingle?
-Dialogue: 0,0:52:38.63,0:52:42.66,Music,,0,0,0,,{\an7\i1}♪ Not like we have a date with destiny ♪{\i0}
-Dialogue: 0,0:52:43.53,0:52:46.33,Music,,0,0,0,,{\an7\i1}♪ It's just a little crush... ♪{\i0}
+Dialogue: 0,0:52:38.63,0:52:42.66,Music,,0,0,0,,{\an7}♪ 我太不愿被命定 ♪\N{\i1}♪ Not like we have a date with destiny ♪{\i0}
+Dialogue: 0,0:52:43.53,0:52:46.33,Music,,0,0,0,,{\an7}♪ 触奇心弦悄自鸣... ♪\N{\i1}♪ It's just a little crush... ♪{\i0}
 Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an9}我真超讨厌这首歌\NOh, I fucking hate that song.
 Dialogue: 0,0:52:46.70,0:52:49.72,Default,,0,0,0,,{\an3}我超喜欢这首歌\NI love this song.
 Dialogue: 0,0:52:51.74,0:52:55.37,Default,,0,0,0,,{\an3}嗯 你对木头活儿感兴趣吗？\NHmm. So, uh, you like wood?
@@ -951,8 +951,8 @@ Dialogue: 0,0:54:02.09,0:54:03.93,Default,,0,0,0,,{\an3}这可想不起来\NNoth
 Dialogue: 0,0:54:05.01,0:54:06.79,Default,,0,0,0,,{\an3}当陪审员吧\NJury duty. Or I almost--
 Dialogue: 0,0:54:06.81,0:54:09.25,Default,,0,0,0,,{\an3}但有利益冲突 没被选上\NI had a conflict, so they didn't pick me.
 Dialogue: 0,0:54:12.69,0:54:14.59,Default,,0,0,0,,{\an3}你挺有趣的\NYou're cute.
-Dialogue: 0,0:54:14.76,0:54:17.63,Music,,0,0,0,,{\an7\i1}♪ ...In your eyes ♪{\i0}
-Dialogue: 0,0:54:17.79,0:54:20.03,Music,,0,0,0,,{\an7\i1}♪ A vision of you and me... ♪{\i0}
+Dialogue: 0,0:54:14.76,0:54:17.63,Music,,0,0,0,,{\an7}♪ 白色篱字映入眸 ♪\N{\i1}♪ ...In your eyes ♪{\i0}
+Dialogue: 0,0:54:17.79,0:54:20.03,Music,,0,0,0,,{\an7}♪ 我与君成幕中景... ♪\N{\i1}♪ A vision of you and me... ♪{\i0}
 Dialogue: 0,0:54:20.34,0:54:22.11,Default,,0,0,0,,{\an1}哦 你竟然从没玩过《模拟人生1》？\NOh, you never played the original Sims?
 Dialogue: 0,0:54:22.13,0:54:23.66,Default,,0,0,0,,{\an1}天啊 那可是经典\NOh, man, it's the best.
 Dialogue: 0,0:54:23.69,0:54:25.81,Default,,0,0,0,,{\an1}其实 很多人不知道它超难的\NActually, a lot of people don't realize it was really hard.
