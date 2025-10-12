@@ -715,7 +715,7 @@ Dialogue: 0,0:41:34.69,0:41:38.60,Default,,0,0,0,,- 祝你生日快乐 - 你们�
 Dialogue: 0,0:41:38.63,0:41:42.37,Default,,0,0,0,,- 祝你生日快乐 - 我从来不谈我私事的啊\N- Happy birthday to you - I never talk about my personal life!
 Dialogue: 0,0:41:42.61,0:41:47.02,Default,,0,0,0,,祝赛吉生日快乐\NHappy birthday, dear Sage
 Dialogue: 0,0:41:47.33,0:41:50.03,Default,,0,0,0,,祝你生日快乐\NHappy birthday to...
-Dialogue: 0,0:41:52.68,0:41:55.18,Default,,0,0,0,,- 嗨 丹尼斯 - 嗯 嗨 玛西\N- Hi, Dennis. - Mm, hi, Marcie.
+Dialogue: 0,0:41:52.68,0:41:55.18,Default,,0,0,0,,- 嗨 丹尼斯 - 嗯 嗨 玛茜\N- Hi, Dennis. - Mm, hi, Marcie.
 Dialogue: 0,0:41:55.21,0:41:58.13,Default,,0,0,0,,- 你看起来真开心啊 - 嗯 谢谢\N- You look really happy. - Mm, thanks.
 Dialogue: 0,0:41:58.43,0:42:01.87,Default,,0,0,0,,- 确实开心 - 真好 真不错\N- I am happy. - That's amazing! Good for you.
 Dialogue: 0,0:42:01.99,0:42:05.54,Default,,0,0,0,,是的 我周末要去西雅图看场冰球赛\NYeah. I'm going to Seattle this weekend for a hockey game.
@@ -923,7 +923,7 @@ Dialogue: 0,0:53:20.80,0:53:21.90,Default,,0,0,0,,{\an3}手真嫩\NVery soft.
 Dialogue: 0,0:53:21.19,0:53:22.92,Default,,0,0,0,,{\an1}来给你 哦 等下\NHere you go, oh, wait.
 Dialogue: 0,0:53:22.98,0:53:23.91,Default,,0,0,0,,{\an3}是啊\NYeah.
 Dialogue: 0,0:53:24.70,0:53:26.34,Default,,0,0,0,,{\an1}买一赠一\NMake that twice.
-Dialogue: 0,0:53:25.64,0:53:26.74,Default,,0,0,0,,{\an3}呃......\NUm...
+Dialogue: 0,0:53:25.64,0:53:26.74,Default,,0,0,0,,{\an3}呃...\NUm...
 Dialogue: 0,0:53:28.14,0:53:29.82,Default,,0,0,0,,{\an3}还有别的爱好吗？\NAny other hobbies?
 Dialogue: 0,0:53:28.51,0:53:29.54,Default,,0,0,0,,{\an1}干杯\NCheers.
 Dialogue: 0,0:53:29.85,0:53:34.35,Default,,0,0,0,,{\an3}爬山 滑雪 滑翔伞 攀岩 山地滑板\NHiking, skiing, paragliding, rock climbing, mountainboarding,
@@ -949,7 +949,7 @@ Dialogue: 0,0:53:54.14,0:53:57.88,Default,,0,0,0,,{\an3}我根本不知道自己
 Dialogue: 0,0:53:57.91,0:54:01.19,Default,,0,0,0,,{\an3}话说 今年你干过最疯狂的事是什么？\NLike, what's the wildest thing you did this year?
 Dialogue: 0,0:54:02.09,0:54:03.93,Default,,0,0,0,,{\an3}这可想不起来\NNothing comes to mind. Um...
 Dialogue: 0,0:54:05.01,0:54:06.79,Default,,0,0,0,,{\an3}当陪审员吧\NJury duty. Or I almost--
-Dialogue: 0,0:54:06.81,0:54:09.25,Default,,0,0,0,,{\an3}但有利益冲突 没被选上\NI had a conflict, so they didn't pick me.
+Dialogue: 0,0:54:06.81,0:54:09.25,Default,,0,0,0,,{\an3}但有利益冲突 没当成\NI had a conflict, so they didn't pick me.
 Dialogue: 0,0:54:12.69,0:54:14.59,Default,,0,0,0,,{\an3}你挺有趣的\NYou're cute.
 Dialogue: 0,0:54:14.76,0:54:17.63,Music,,0,0,0,,{\an7}♪ 白色篱字映入眸 ♪\N{\i1}♪ ...In your eyes ♪{\i0}
 Dialogue: 0,0:54:17.79,0:54:20.03,Music,,0,0,0,,{\an7}♪ 我与君成幕中景... ♪\N{\i1}♪ A vision of you and me... ♪{\i0}
@@ -974,7 +974,7 @@ Dialogue: 0,0:54:42.64,0:54:44.41,Default,,0,0,0,,{\an3}拿着 我去找他\NTak
 Dialogue: 0,0:54:46.13,0:54:48.33,Default,,0,0,0,,{\an1}有时真的很沮丧\NThey can get depressed.
 Dialogue: 0,0:54:48.35,0:54:49.85,Default,,0,0,0,,{\an1}哦 哇 我...\NOh. Wow. I...
 Dialogue: 0,0:54:49.87,0:54:51.85,Default,,0,0,0,,{\an1}我一直以为这游戏挺傻的\NI always just thought it was a silly game
-Dialogue: 0,0:54:51.89,0:54:54.27,Default,,0,0,0,,{\an1}- 里面人老说乱七八糟的傻话 - 不 不 不\N- where they talk gibberish. - No, no, no.
+Dialogue: 0,0:54:51.89,0:54:54.27,Default,,0,0,0,,{\an1}- 里面人老乱说傻话 - 不 不 不\N- where they talk gibberish. - No, no, no.
 Dialogue: 0,0:54:54.29,0:54:57.57,Default,,0,0,0,,{\an1}那话很讲究的 是生死攸关的\NThere's stakes. Yeah. It's life or death out there.
 Dialogue: 0,0:54:57.60,0:55:00.46,Default,,0,0,0,,{\an1}可不是胡言乱语 是模拟语\NAnd it's actually not gibberish. It's Simlish.
 Dialogue: 0,0:54:57.62,0:55:00.46,Default,,0,0,0,,{\an7}【模拟语：游戏《模拟人生》中虚拟语言】
@@ -989,8 +989,8 @@ Dialogue: 0,0:55:19.72,0:55:21.27,Default,,0,0,0,,{\an1}我有个双胞胎哥哥
 Dialogue: 0,0:55:21.29,0:55:24.27,Default,,0,0,0,,{\an1}我们俩着迷得不得了\NWe were obsessed with it, so we just would play it
 Dialogue: 0,0:55:24.29,0:55:26.09,Default,,0,0,0,,{\an1}一玩就是好几个小时\Nfor hours together.
 Dialogue: 0,0:55:26.11,0:55:29.68,Default,,0,0,0,,{\an1}现实里的时间 不是游戏里的那种\NReal hours, not Sims hours. Yeah.
-Dialogue: 0,0:55:29.71,0:55:31.61,Default,,0,0,0,,{\an1}我曾以为长大后我们会过那种日子\NPart of me always thought that's what my life would be like
-Dialogue: 0,0:55:31.63,0:55:33.26,Default,,0,0,0,,{\an1}就像游戏里那样\Nwhen we got older too.
+Dialogue: 0,0:55:29.71,0:55:32.16,Default,,0,0,0,,{\an1}我以为长大后我们会过那种日子\NPart of me always thought that's what my life would be like
+Dialogue: 0,0:55:32.19,0:55:33.26,Default,,0,0,0,,{\an1}就像游戏里那样\Nwhen we got older too.
 Dialogue: 0,0:55:33.29,0:55:34.97,Default,,0,0,0,,{\an1}我和罗基买栋房子\NRocky and I would get a house
 Dialogue: 0,0:55:34.99,0:55:36.68,Default,,0,0,0,,{\an1}放台投篮机打篮球\Nand shoot hoops on the SuperDoop,
 Dialogue: 0,0:55:36.71,0:55:38.25,Default,,0,0,0,,{\an1}泡大浴缸聊天\Ntalk in the hot tub.
@@ -998,8 +998,8 @@ Dialogue: 0,0:55:38.27,0:55:39.91,Default,,0,0,0,,{\an1}我全职在家\NI was a
 Dialogue: 0,0:55:39.93,0:55:42.23,Default,,0,0,0,,{\an1}他去上班 升职加薪\NHe'd get the job, the promotion,
 Dialogue: 0,0:55:42.26,0:55:45.66,Default,,0,0,0,,{\an1}而我就收拾屋子 修修补补\Nand I'd kind of clean the house, and, you know, fix things,
 Dialogue: 0,0:55:45.68,0:55:48.24,Default,,0,0,0,,{\an1}做做饭 什么的\Nand cook the meals, and...
-Dialogue: 0,0:55:49.52,0:55:50.93,Default,,0,0,0,,{\an1}还总会把厨房烧了\NI'd always burn down the kitchen too.
-Dialogue: 0,0:55:50.95,0:55:52.72,Default,,0,0,0,,{\an1}他会气得要命\NUh, he hated that.
+Dialogue: 0,0:55:49.52,0:55:50.93,Default,,0,0,0,,{\an1}还总把厨房烧了\NI'd always burn down the kitchen too.
+Dialogue: 0,0:55:50.95,0:55:52.72,Default,,0,0,0,,{\an1}他会气得跺脚\NUh, he hated that.
 Dialogue: 0,0:55:53.69,0:55:55.90,Default,,0,0,0,,你们现在还一起玩吗？\NDo you and Rocky still play?
 Dialogue: 0,0:55:55.93,0:55:57.69,Default,,0,0,0,,不 他...\NNo, he, uh,
 Dialogue: 0,0:55:57.72,0:56:00.19,Default,,0,0,0,,他其实几个月前去世了\Nhe passed away a couple months ago, actually.
@@ -1013,7 +1013,6 @@ Dialogue: 0,0:56:20.55,0:56:23.50,Default,,0,0,0,,喝多了就这样\NI'm just a
 Dialogue: 0,0:56:23.52,0:56:25.77,Default,,0,0,0,,雪莉 万圣节快乐\NShelly, happy Halloween.
 Dialogue: 0,0:56:25.79,0:56:27.47,Default,,0,0,0,,- 万圣节快乐 - 你今晚美翻了\N- Happy Halloween! - You look so great.
 Dialogue: 0,0:56:27.49,0:56:29.36,Default,,0,0,0,,谢啦\NThank you!
-Dialogue: 0,0:56:44.31,0:56:49.99,Default,,0,0,0,,{\an5}【小p翻译至此】
 Dialogue: 0,0:56:51.18,0:56:52.71,Default,,0,0,0,,- 嘿 玛茜 - 嗨 丹尼斯\N- Hey, Marcie. - Hi, Dennis.
 Dialogue: 0,0:56:52.85,0:56:54.88,Default,,0,0,0,,- 派对很棒 - 谢谢你来玩\N- Great party. - Yeah. Thanks for coming.
 Dialogue: 0,0:56:55.02,0:56:56.78,Default,,0,0,0,,你朋友这么多 我真没想到\NYou have so many friends. Never would've guessed.
@@ -1187,8 +1186,8 @@ Dialogue: 0,1:04:46.55,1:04:48.59,Default,,0,0,0,,都打第三次了 说不定�
 Dialogue: 0,1:04:50.06,1:04:52.06,Default,,0,0,0,,天呐 要命\NOh, my God. Shit.
 Dialogue: 0,1:04:55.46,1:04:57.77,Default,,0,0,0,,嘿 哥们 这么晚了 有什么事？\NHey, buddy, it's late. Everything okay?
 Dialogue: 0,1:04:57.93,1:04:59.53,Default,,0,0,0,,是啊 抱歉 吵醒你了吗？\NYeah, sorry. Did I wake you?
-Dialogue: 0,1:04:59.67,1:05:01.54,Default,,0,0,0,,没干嘛 和玛西待在一起\NNo, no. Just, uh, hanging with Marcie.
-Dialogue: 0,1:05:01.67,1:05:03.67,Default,,0,0,0,,哦 对 玛西 她可真离不开你\NOh, right, Marcie. So needy.
+Dialogue: 0,1:04:59.67,1:05:01.54,Default,,0,0,0,,没干嘛 和玛茜待在一起\NNo, no. Just, uh, hanging with Marcie.
+Dialogue: 0,1:05:01.67,1:05:03.67,Default,,0,0,0,,哦 对 玛茜 她可真离不开你\NOh, right, Marcie. So needy.
 Dialogue: 0,1:05:03.81,1:05:07.01,Default,,0,0,0,,- 我开了免提 - 嗨 丹尼斯\N- Uh, you're on speaker. - Hi, Dennis.
 Dialogue: 0,1:05:07.14,1:05:08.18,Default,,0,0,0,,怎么了？\NSo, what's up?
 Dialogue: 0,1:05:08.98,1:05:11.45,Default,,0,0,0,,没什么 就想问问你在干嘛\NJust wanted to see what you were doing.
@@ -1251,7 +1250,7 @@ Dialogue: 0,1:07:46.83,1:07:48.60,Default,,0,0,0,,妈妈\NMom.
 Dialogue: 0,1:07:53.68,1:07:57.24,Default,,0,0,0,,- 袜子 - 谢谢哥们\NSocks. Thanks, buddy.
 Dialogue: 0,1:07:57.38,1:07:58.85,Default,,0,0,0,,不客气\NYou're welcome.
 Dialogue: 0,1:07:58.98,1:08:01.11,Default,,0,0,0,,下一个谁来？\NWho's next?
-Dialogue: 0,1:08:01.25,1:08:03.35,Default,,0,0,0,,这张卡是给你的 玛西\Nthe card's for you, Marcie.
+Dialogue: 0,1:08:01.25,1:08:03.35,Default,,0,0,0,,这张卡是给你的 玛茜\Nthe card's for you, Marcie.
 Dialogue: 0,1:08:07.32,1:08:09.89,Default,,0,0,0,,是只考拉！我超爱考拉\NOh, it's a koala! I love koalas.
 Dialogue: 0,1:08:10.86,1:08:12.39,Default,,0,0,0,,“圣诞快乐 丹尼斯”\N"Merry Christmas. Dennis."
 Dialogue: 0,1:08:14.23,1:08:16.63,Default,,0,0,0,,天啊 橄榄园礼品卡！\NOh, God. A gift card to the Olive Garden.
@@ -1279,7 +1278,7 @@ Dialogue: 0,1:09:24.10,1:09:26.17,Default,,0,0,0,,那你干嘛准备 LSAT 考试
 Dialogue: 0,1:09:24.10,1:09:26.17,Default,,0,0,0,,{\an9}【LSAT: 美国/加拿大法学院入学的标准考试】
 Dialogue: 0,1:09:28.57,1:09:29.80,Default,,0,0,0,,就当个挑战呗\NFor fun.
 Dialogue: 0,1:09:30.84,1:09:33.27,Default,,0,0,0,,你不是讨厌律师吗？那有什么好玩的？\NOh, why would that be fun if you hate lawyers?
-Dialogue: 0,1:09:33.98,1:09:36.28,Default,,0,0,0,,我哪知道 玛西 有人还走火炭呢\NI don't know, Marcie. Why do people walk on hot coals?
+Dialogue: 0,1:09:33.98,1:09:36.28,Default,,0,0,0,,我哪知道 玛茜 有人还走火炭呢\NI don't know, Marcie. Why do people walk on hot coals?
 Dialogue: 0,1:09:36.41,1:09:38.65,Default,,0,0,0,,就是为了说自己能做到\NSo they can say they did.
 Dialogue: 0,1:09:43.28,1:09:45.12,Default,,0,0,0,,- 圣诞快乐 - 圣诞快乐\N- Merry Christmas. - Merry Christmas.
 Dialogue: 0,1:09:47.35,1:09:49.36,Default,,0,0,0,,你知道丹尼斯的双胞胎兄弟是什么时候去世的吗？\NDo you know when Dennis's twin died?
@@ -1313,7 +1312,7 @@ Dialogue: 0,1:11:35.60,1:11:38.93,Default,,0,0,0,,大家都说 没有比失去�
 Dialogue: 0,1:11:42.87,1:11:44.17,Default,,0,0,0,,可也许还有\NBut maybe there is.
 Dialogue: 0,1:11:50.31,1:11:52.41,Default,,0,0,0,,我也算放心了 至少有人能懂他\NI'm glad he has someone who understands.
 Dialogue: 0,1:12:17.07,1:12:19.34,Default,,0,0,0,,我要走了 你下班前——\NI'm heading out. Before you leave,
-Dialogue: 0,1:12:19.47,1:12:22.01,Default,,0,0,0,,玛西想在会议室见你\NMarcie wants to see you in the conference room.
+Dialogue: 0,1:12:19.47,1:12:22.01,Default,,0,0,0,,玛茜想在会议室见你\NMarcie wants to see you in the conference room.
 Dialogue: 0,1:12:22.14,1:12:23.98,Default,,0,0,0,,- 干嘛？ - 我没问\N- Why? - I didn't ask.
 Dialogue: 0,1:12:24.11,1:12:26.18,Default,,0,0,0,,行啊 音乐会玩得开心\NOkay. Have fun at the concert.
 Dialogue: 0,1:12:26.31,1:12:28.28,Default,,0,0,0,,谢谢\NThanks.
@@ -1374,7 +1373,7 @@ Dialogue: 0,1:15:31.10,1:15:33.20,Default,,0,0,0,,还说让我来找你聊聊\Na
 Dialogue: 0,1:15:34.17,1:15:36.47,Default,,0,0,0,,你确定她真没跟你说什么吗？\NI mean, are you sure she didn't say anything?
 Dialogue: 0,1:15:38.17,1:15:39.74,Default,,0,0,0,,哦 对了 我差点忘了\NOh, you know what? I totally forgot
 Dialogue: 0,1:15:39.74,1:15:43.54,Default,,0,0,0,,公司最近在搞多发性硬化症的募捐活动\Nwe're doing this company-wide fundraiser for MS research,
-Dialogue: 0,1:15:43.68,1:15:45.58,Default,,0,0,0,,玛西发了誓要保持缄默\Nand Marcie took a vow of silence.
+Dialogue: 0,1:15:43.68,1:15:45.58,Default,,0,0,0,,玛茜发了誓要保持缄默\Nand Marcie took a vow of silence.
 Dialogue: 0,1:15:46.31,1:15:47.75,Default,,0,0,0,,- 真的吗？ - 嗯\N- Really? - Hmm.
 Dialogue: 0,1:15:48.28,1:15:49.72,Default,,0,0,0,,那她为什么不直接告诉我？\NWhy wouldn't she just tell me that?
 Dialogue: 0,1:15:50.72,1:15:52.55,Default,,0,0,0,,因为我们都签了保密协议\NWe had to sign nondisclosure agreements.
@@ -1472,7 +1471,7 @@ Dialogue: 0,1:20:45.08,1:20:46.38,Default,,0,0,0,,我也不知道为什么要撒
 Dialogue: 0,1:20:46.51,1:20:48.45,Default,,0,0,0,,我只是 我想靠近你\NI just... I wanted to be close to you,
 Dialogue: 0,1:20:48.58,1:20:49.72,Default,,0,0,0,,我想着能弥补回来\Nand I thought I could make it better,
 Dialogue: 0,1:20:49.85,1:20:51.05,Default,,0,0,0,,结果越弄越糟\Nbut I just kept making things worse.
-Dialogue: 0,1:20:51.19,1:20:52.69,Default,,0,0,0,,玛西根本没什么静默\NAnd-and Marcie isn't on a silent retreat,
+Dialogue: 0,1:20:51.19,1:20:52.69,Default,,0,0,0,,玛茜根本没什么静默\NAnd-and Marcie isn't on a silent retreat,
 Dialogue: 0,1:20:52.82,1:20:55.69,Default,,0,0,0,,我也没上过什么按摩课 可是\Nand I... I didn't go to massage school, but...
 Dialogue: 0,1:20:55.82,1:20:58.49,Default,,0,0,0,,你是我最好的朋友\NYou are my best friend.
 Dialogue: 0,1:20:59.29,1:21:02.50,Default,,0,0,0,,我不想失去你这个朋友\NAnd I don't want that to change.
@@ -1485,7 +1484,7 @@ Dialogue: 0,1:21:27.69,1:21:29.66,Default,,0,0,0,,罗曼 求你了 我真的很�
 Dialogue: 0,1:21:29.79,1:21:31.89,Default,,0,0,0,,我说了别碰我！\NDon't fucking touch me!
 Dialogue: 0,1:22:14.74,1:22:16.87,Default,,0,0,0,,我只是不停揍他\NI just kept hitting him.
 Dialogue: 0,1:22:18.87,1:22:20.14,Default,,0,0,0,,完全停不下来\NCouldn't stop.
-Dialogue: 0,1:22:39.69,1:22:41.86,Default,,0,0,0,,嗨 丹尼斯 我是玛西\NHi, Dennis. It's Marcie.
+Dialogue: 0,1:22:39.69,1:22:41.86,Default,,0,0,0,,嗨 丹尼斯 我是玛茜\NHi, Dennis. It's Marcie.
 Dialogue: 0,1:22:42.03,1:22:45.30,Default,,0,0,0,,你今天没来公司 赛奇让我给你打个电话\NSo you're not at work. Sage asked me to call you.
 Dialogue: 0,1:22:45.43,1:22:47.23,Default,,0,0,0,,你今天来上班吗？\NAre you coming in today?
 Dialogue: 0,1:22:47.30,1:22:49.87,Default,,0,0,0,,罗曼很难受\NLook, Roman's pretty upset.
@@ -1586,7 +1585,7 @@ Dialogue: 0,1:30:13.55,1:30:14.52,Default,,0,0,0,,靠\NFuck.
 Dialogue: 0,1:30:16.05,1:30:18.59,Default,,0,0,0,,我还跟一堆人说过“梯子调动”呢\NI said "ladder move" to, like, so many people.
 Dialogue: 0,1:30:20.69,1:30:23.62,Default,,0,0,0,,嗯...游乐场那种横梯 不就是横着的梯子嘛\NWell, monkey bars. That's a sideways ladder.
 Dialogue: 0,1:30:24.26,1:30:25.23,Default,,0,0,0,,行吧\NGreat.
-Dialogue: 0,1:30:29.56,1:30:32.13,Default,,0,0,0,,你现在干嘛呢？玛西说你辞职了\NSo where you working these days? Marcie said you quit.
+Dialogue: 0,1:30:29.56,1:30:32.13,Default,,0,0,0,,你现在干嘛呢？玛茜说你辞职了\NSo where you working these days? Marcie said you quit.
 Dialogue: 0,1:30:32.77,1:30:34.90,Default,,0,0,0,,其实是被炒了 不过谢谢她给我留面子\NFired, but that's sweet of her.
 Dialogue: 0,1:30:35.04,1:30:37.71,Default,,0,0,0,,我正在考房地产执照\NI'm in the process of getting my real estate license.
 Dialogue: 0,1:30:41.24,1:30:42.98,Default,,0,0,0,,怎么 不搞书籍设计了？\NWhat, no book designing?
@@ -1619,11 +1618,11 @@ Dialogue: 0,1:32:38.19,1:32:39.93,Default,,0,0,0,,不过先说明 我脑子本�
 Dialogue: 0,1:32:41.50,1:32:43.06,Default,,0,0,0,,他有提过我吗？\NHe ever talk about me?
 Dialogue: 0,1:32:44.80,1:32:46.03,Default,,0,0,0,,你真想听细节？\NDo you want details?
 Dialogue: 0,1:32:56.68,1:32:58.08,Default,,0,0,0,,要不要分你半个三明治？\NDo you want my sandwich?
-Dialogue: 0,1:32:58.21,1:33:00.85,Default,,0,0,0,,不用了 我等下要跟玛西吃饭\NNo, I'm going to dinner with Marcie.
+Dialogue: 0,1:32:58.21,1:33:00.85,Default,,0,0,0,,不用了 我等下要跟玛茜吃饭\NNo, I'm going to dinner with Marcie.
 Dialogue: 0,1:33:02.32,1:33:03.62,Default,,0,0,0,,所以我待不了太久\NSo I can't stay long.
 Dialogue: 0,1:33:05.35,1:33:06.75,Default,,0,0,0,,对 你刚刚说过\NRight. You said.
-Dialogue: 0,1:33:09.69,1:33:10.96,Default,,0,0,0,,对了 玛西最近怎么样？\NHow is Marcie, by the way?
-Dialogue: 0,1:33:11.56,1:33:14.06,Default,,0,0,0,,玛西每天都是正能量\NEvery day is a good day in Marcie-land.
+Dialogue: 0,1:33:09.69,1:33:10.96,Default,,0,0,0,,对了 玛茜最近怎么样？\NHow is Marcie, by the way?
+Dialogue: 0,1:33:11.56,1:33:14.06,Default,,0,0,0,,玛茜每天都是正能量\NEvery day is a good day in Marcie-land.
 Dialogue: 0,1:33:14.20,1:33:16.20,Default,,0,0,0,,嗯 我记得\NI remember.
 Dialogue: 0,1:33:23.70,1:33:25.74,Default,,0,0,0,,我就只咬一口\NI'll just have a bite.
 Dialogue: 0,1:33:25.87,1:33:28.78,Default,,0,0,0,,好吃\NHmm.
@@ -1652,11 +1651,11 @@ Dialogue: 0,1:35:22.19,1:35:23.32,Default,,0,0,0,,当然\NSure thing.
 Dialogue: 0,1:35:36.24,1:35:39.27,Credits,,0,0,0,,{\an8}主演\N迪伦·欧布莱恩 饰 罗曼和罗基
 Dialogue: 0,1:35:40.24,1:35:43.27,Credits,,0,0,0,,{\an8}主演\N詹姆斯·斯威尼 饰 丹尼斯
 Dialogue: 0,1:35:44.24,1:35:47.27,Credits,,0,0,0,,{\an8}主演\N艾斯琳·弗兰乔茜 饰 玛茜
-Dialogue: 0,1:35:48.25,1:35:51.28,Credits,,0,0,0,,{\an8}主演\N克里斯·佩尔费蒂 饰 乔治？\N【片中未注明角色需指出他饰演什么】
-Dialogue: 0,1:35:52.42,1:35:55.45,Credits,,0,0,0,,{\an8}主演\N弗朗索瓦·阿尔诺 饰 萨米
-Dialogue: 0,1:35:56.42,1:35:59.45,Credits,,0,0,0,,{\an8}主演\N塔莎·史密斯 饰 夏洛特
-Dialogue: 0,1:36:00.26,1:36:03.29,Credits,,0,0,0,,{\an8}主演\N劳伦·格拉汉姆 饰 丽莎？？
-Dialogue: 0,1:36:04.26,1:36:07.29,Credits,,0,0,0,,{\an8}主演\N苏珊·朴 饰 赛奇\N克 丽 饰 比安卡
+Dialogue: 0,1:35:48.25,1:35:51.28,Credits,,0,0,0,,{\an8}主演\N克里斯·佩尔费蒂 饰 罗基男友乔治
+Dialogue: 0,1:35:52.42,1:35:55.45,Credits,,0,0,0,,{\an8}主演\N弗朗索瓦·阿尔诺 饰 罗曼同事萨米
+Dialogue: 0,1:35:56.42,1:35:59.45,Credits,,0,0,0,,{\an8}主演\N塔莎·史密斯 饰 互助会主持人夏洛特
+Dialogue: 0,1:36:00.26,1:36:03.29,Credits,,0,0,0,,{\an8}主演\N劳伦·格拉汉姆 饰 罗曼罗基母亲丽莎
+Dialogue: 0,1:36:04.26,1:36:07.29,Credits,,0,0,0,,{\an8}主演\N苏珊·朴 饰 丹尼斯上司赛吉\N克莉（克莉·奇奇诺） 饰 互助会成员
 Dialogue: 0,1:36:20.28,1:36:23.31,Credits,,0,0,0,,{\an8}配乐\N郑在日
 Dialogue: 0,1:36:24.28,1:36:27.31,Credits,,0,0,0,,{\an8}剪辑\N耐克·博亚诺夫
 Dialogue: 0,1:36:32.29,1:36:35.32,Credits,,0,0,0,,{\an8}摄影\N格雷格·科顿
