@@ -1657,7 +1657,7 @@ Dialogue: 0,1:35:22.32,1:35:23.45,Default,,0,0,0,,没问题\NSure thing.
 Dialogue: 0,1:35:36.24,1:35:39.27,Credits,,0,0,0,,{\an8}主演\N迪伦·欧布莱恩 饰 罗曼和罗基
 Dialogue: 0,1:35:40.24,1:35:43.27,Credits,,0,0,0,,{\an8}主演\N詹姆斯·斯威尼 饰 丹尼斯
 Dialogue: 0,1:35:44.24,1:35:47.27,Credits,,0,0,0,,{\an8}主演\N艾斯琳·弗兰乔茜 饰 玛茜
-Dialogue: 0,1:35:48.25,1:35:51.28,Credits,,0,0,0,,{\an8}主演\N克里斯·佩尔费蒂 饰 罗基男友乔治
+Dialogue: 0,1:35:48.26,1:35:51.29,Credits,,0,0,0,,{\an8}主演\N克里斯·佩尔费蒂 饰 罗基男友乔治
 Dialogue: 0,1:35:52.42,1:35:55.45,Credits,,0,0,0,,{\an8}主演\N弗朗索瓦·阿尔诺 饰 罗曼同事萨米
 Dialogue: 0,1:35:56.42,1:35:59.45,Credits,,0,0,0,,{\an8}主演\N塔莎·史密斯 饰 互助会主持人夏洛特
 Dialogue: 0,1:36:00.26,1:36:03.29,Credits,,0,0,0,,{\an8}主演\N劳伦·格拉汉姆 饰 罗曼罗基母亲丽莎
@@ -1669,22 +1669,22 @@ Dialogue: 0,1:36:36.44,1:36:39.30,Credits,,0,0,0,,{\an8}蒙太奇字幕组 原�
 Dialogue: 0,1:36:40.43,1:36:43.42,Credits,,0,0,0,,{\an8}字幕贡献者\N翻译：xxx · 校对：yyy · 后期：zzz
 Dialogue: 0,1:36:44.19,1:36:47.13,Credits,,0,0,0,,{\an8}字幕许可CC BY‑NC‑SA 4.0\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,1:36:52.31,1:36:55.34,Credits,,0,0,0,,{\an8}制片人\N大卫·彭缪特\N詹姆斯·斯威尼
-Dialogue: 0,1:35:51.99,1:35:53.52,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
-Dialogue: 0,1:35:56.76,1:35:59.03,Music,,0,0,0,,{\i1}♪ Better men wouldn't carry on ♪{\i0}
-Dialogue: 0,1:36:01.33,1:36:03.10,Music,,0,0,0,,{\i1}♪ What was the first line? ♪{\i0}
-Dialogue: 0,1:36:05.00,1:36:09.40,Music,,0,0,0,,{\i1}♪ We had a good time ♪{\i0}
-Dialogue: 0,1:36:11.07,1:36:12.24,Music,,0,0,0,,{\i1}♪ Know you twice ♪{\i0}
-Dialogue: 0,1:36:15.81,1:36:17.38,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
-Dialogue: 0,1:36:20.25,1:36:22.88,Music,,0,0,0,,{\i1}♪ Much better people proved me wrong ♪{\i0}
-Dialogue: 0,1:36:25.35,1:36:27.15,Music,,0,0,0,,{\i1}♪ They set a high price ♪{\i0}
-Dialogue: 0,1:36:29.99,1:36:31.26,Music,,0,0,0,,{\i1}♪ To know you twice ♪{\i0}
-Dialogue: 0,1:36:35.16,1:36:36.46,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
-Dialogue: 0,1:36:39.70,1:36:41.90,Music,,0,0,0,,{\i1}♪ Nothing's new under the sun ♪{\i0}
-Dialogue: 0,1:36:44.77,1:36:46.94,Music,,0,0,0,,{\i1}♪ Thought you could be all you know ♪{\i0}
-Dialogue: 0,1:36:49.68,1:36:50.84,Music,,0,0,0,,{\i1}♪ Strikes once ♪{\i0}
-Dialogue: 0,1:36:52.88,1:36:57.82,Music,,0,0,0,,{\i1}♪ We had a good time ♪{\i0}
-Dialogue: 0,1:37:42.53,1:37:43.96,Music,,0,0,0,,{\i1}♪ So I'm the lucky one ♪{\i0}
-Dialogue: 0,1:37:56.68,1:38:01.18,Music,,0,0,0,,{\i1}♪ We had a good time ♪{\i0}
+Dialogue: 0,1:35:51.76,1:35:53.72,Music,,0,0,0,,♪ 算我走运\N{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:35:56.59,1:35:59.40,Music,,0,0,0,,♪ 念头成了缠绵的戏\N{\i1}♪ Better men wouldn't carry on ♪{\i0}
+Dialogue: 0,1:36:01.21,1:36:03.66,Music,,0,0,0,,♪ 序幕早已散尽\N{\i1}♪ What was the first line? ♪{\i0}
+Dialogue: 0,1:36:04.77,1:36:09.17,Music,,0,0,0,,♪ 那时我们如此开心 ♪\N{\i1}♪ We had a good time ♪{\i0}
+Dialogue: 0,1:36:11.00,1:36:13.67,Music,,0,0,0,,♪ 与你相遇两回\N{\i1}♪ Know you twice ♪{\i0}
+Dialogue: 0,1:36:15.75,1:36:17.89,Music,,0,0,0,,♪ 算我走运\N{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:36:20.22,1:36:23.14,Music,,0,0,0,,♪ 被命运揭穿\N{\i1}♪ Much better people proved me wrong ♪{\i0}
+Dialogue: 0,1:36:25.22,1:36:27.82,Music,,0,0,0,,♪ 促使把话说开\N{\i1}♪ They set a high price ♪{\i0}
+Dialogue: 0,1:36:29.90,1:36:32.13,Music,,0,0,0,,♪ 与你相识两回 ♪\N{\i1}♪ To know you twice ♪{\i0}
+Dialogue: 0,1:36:35.17,1:36:36.94,Music,,0,0,0,,♪ 算我走运\N{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:36:39.70,1:36:42.91,Music,,0,0,0,,♪ 把戏皆已演罢\N{\i1}♪ Nothing's new under the sun ♪{\i0}
+Dialogue: 0,1:36:44.49,1:36:47.39,Music,,0,0,0,,♪ 只剩你的表面\N{\i1}♪ Thought you could be all you know ♪{\i0}
+Dialogue: 0,1:36:49.48,1:36:51.82,Music,,0,0,0,,♪ 真相落下如重拳\N{\i1}♪ Strikes once ♪{\i0}
+Dialogue: 0,1:36:52.83,1:36:57.77,Music,,0,0,0,,♪ 那时我们如此开心 ♪\N{\i1}♪ We had a good time ♪{\i0}
+Dialogue: 0,1:37:42.51,1:37:44.32,Music,,0,0,0,,♪ 算我走运\N{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:37:56.68,1:38:01.18,Music,,0,0,0,,♪ 那时我们如此开心 ♪\N{\i1}♪ We had a good time ♪{\i0}
 Dialogue: 0,1:39:57.92,1:40:00.88,Default,,0,0,0,,{\an2}（彭缪特出品公司）
 Dialogue: 0,1:40:00.90,1:40:03.87,Default,,0,0,0,,{\an2}（后院计划影业）
 Dialogue: 0,1:40:03.89,1:40:06.89,Default,,0,0,0,,{\an2}（共和影业）
