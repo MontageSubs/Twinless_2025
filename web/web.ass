@@ -28,7 +28,6 @@ Style: Titles,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,1
 Style: Credits,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
 Style: Notes,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
 
-Opening
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.34,0:00:07.09,Opening,,0,0,0,,{\c&HA0823C&\bord6\blur8\fs120\b1\4c&HFFFFFF&\alpha&HFF&\shad0\pos(960,780)\t(850,1850,\alpha&H80&)}狮门影业
