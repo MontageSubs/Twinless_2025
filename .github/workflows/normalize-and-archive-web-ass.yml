@@ -12,7 +12,7 @@ jobs:
   normalize-and-archive:
     runs-on: ubuntu-latest
     outputs:
-      changed: ${{ steps.check.outputs.changed }}
+      archive_changed: ${{ steps.archive.outputs.archive_changed }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -53,80 +53,55 @@ jobs:
           echo "author_email=${LAST_AUTHOR_EMAIL}" >> $GITHUB_OUTPUT
           echo "DEBUG: last author: ${LAST_AUTHOR_NAME} <${LAST_AUTHOR_EMAIL}>"
 
-      - name: Check and normalize original branch's file to LF (and commit if changed)
-        id: check
-        run: |
-          set -euo pipefail
-          FILE=web/web.ass
-          echo "DEBUG: checking and normalizing original file: $FILE"
-          if [ ! -f "$FILE" ]; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-            echo "DEBUG: file missing, nothing changed"
-            exit 0
-          fi
-
-          if grep -q $'\r' "$FILE"; then
-            echo "DEBUG: CR characters found, normalizing to LF"
-            perl -0777 -pe 's/\r\n/\n/g; s/\r/\n/g' "$FILE" > "${FILE}.normalized"
-            mv "${FILE}.normalized" "$FILE"
-            git add "$FILE"
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "changed=false" >> $GITHUB_OUTPUT
-            echo "DEBUG: no CR characters found"
-          fi
-
-      - name: Prepare normalized copy for archive (always create LF-normalized file)
+      - name: Prepare normalized copy for archive (create LF-normalized only when file changed on main)
+        id: prepare
         run: |
           set -euo pipefail
           SRC=web/web.ass
           TMP=./ass_to_archive.ass
-          echo "DEBUG: preparing normalized copy from $SRC to $TMP"
+
           if [ ! -f "$SRC" ]; then
             echo "missing=true" >> $GITHUB_OUTPUT
             echo "DEBUG: source missing"
             exit 0
           fi
+
+          PREV_REF="${{ github.event.before }}"
+          CUR_REF="${{ github.event.after }}"
+
+          if [ "$PREV_REF" = "0000000000000000000000000000000000000000" ]; then
+            changed=true
+          else
+            if git diff --name-only "$PREV_REF" "$CUR_REF" -- "$SRC" | grep -qx "web/web.ass"; then
+              changed=true
+            else
+              changed=false
+            fi
+          fi
+
+          echo "changed=${changed}" >> $GITHUB_OUTPUT
+
+          if [ "$changed" != "true" ]; then
+            echo "DEBUG: web/web.ass not changed on push, skipping normalization"
+            exit 0
+          fi
+
           cp "$SRC" "$TMP"
           perl -0777 -pe 's/\r\n/\n/g; s/\r/\n/g' "$TMP" > "${TMP}.normalized"
           mv "${TMP}.normalized" "$TMP"
+
           if [ ! -f "$TMP" ]; then
             echo "failed_to_create_normalized=true" >> $GITHUB_OUTPUT
             echo "DEBUG: failed to create normalized file"
             exit 1
           fi
+
           echo "normalized_path=${TMP}" >> $GITHUB_OUTPUT
           echo "DEBUG: normalized file created: $(wc -c < $TMP) bytes"
 
-      - name: Commit LF fix back to original branch (if changed)
-        if: steps.check.outputs.changed == 'true'
-        env:
-          ORIGINAL_AUTHOR_NAME: ${{ steps.last_commit.outputs.author_name }}
-          ORIGINAL_AUTHOR_EMAIL: ${{ steps.last_commit.outputs.author_email }}
-          MESSAGE_FILE: commit_message.txt
-        run: |
-          set -euo pipefail
-          FILE=web/web.ass
-          echo "DEBUG: committing LF fix to original branch for $FILE"
-          if [ ! -f "${MESSAGE_FILE}" ]; then
-            echo "Message file missing"; exit 1
-          fi
-
-          export GIT_AUTHOR_NAME="${ORIGINAL_AUTHOR_NAME}"
-          export GIT_AUTHOR_EMAIL="${ORIGINAL_AUTHOR_EMAIL}"
-          export GIT_COMMITTER_NAME="${ORIGINAL_AUTHOR_NAME}"
-          export GIT_COMMITTER_EMAIL="${ORIGINAL_AUTHOR_EMAIL}"
-          git config user.name "${ORIGINAL_AUTHOR_NAME}"
-          git config user.email "${ORIGINAL_AUTHOR_EMAIL}"
-
-          git commit -F "${MESSAGE_FILE}" -- "$FILE" || { echo "commit failed or nothing to commit"; exit 1; }
-
-          BRANCH="${GITHUB_REF#refs/heads/}"
-          echo "DEBUG: pushing to branch ${BRANCH}"
-          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" "HEAD:${BRANCH}" --force
-
       - name: Create/update lf-archive branch with normalized file
         id: archive
+        needs: prepare
         env:
           MESSAGE_FILE: commit_message.txt
           AUTHOR_NAME: ${{ steps.last_commit.outputs.author_name }}
@@ -144,23 +119,16 @@ jobs:
             exit 0
           fi
 
-          echo "DEBUG: fetching origin refs"
           git fetch origin --prune
 
-          # Create or switch to local archive branch, prefer remote if exists
           if git rev-parse --verify --quiet "refs/heads/${ARCHIVE_BRANCH}" >/dev/null; then
-            echo "DEBUG: local branch ${ARCHIVE_BRANCH} exists, checking out"
             git checkout "${ARCHIVE_BRANCH}"
           elif git rev-parse --verify --quiet "refs/remotes/origin/${ARCHIVE_BRANCH}" >/dev/null; then
-            echo "DEBUG: remote branch origin/${ARCHIVE_BRANCH} exists, creating local from remote"
             git checkout -b "${ARCHIVE_BRANCH}" "origin/${ARCHIVE_BRANCH}"
           else
-            echo "DEBUG: no existing branch found, creating new local ${ARCHIVE_BRANCH}"
             git checkout -b "${ARCHIVE_BRANCH}"
           fi
 
-          git status --porcelain --untracked-files=no || true
-          echo "DEBUG: setting git committer/author config"
           git config user.name "${AUTHOR_NAME:-github-actions[bot]}"
           git config user.email "${AUTHOR_EMAIL:-actions@github.com}"
 
