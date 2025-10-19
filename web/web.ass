@@ -12,12 +12,14 @@ PlayResY: 1034
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
+Audio File: Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies.mkv
+Video File: Twinless 2025 1080p iT WEBRip DDP5.1 x265-TBMovies.mkv
 Video AR Mode: 4
 Video AR Value: 1.856867
 Video Zoom Percent: 0.875000
-Scroll Position: 1563
-Active Line: 1551
-Video Position: 105
+Scroll Position: 861
+Active Line: 862
+Video Position: 76184
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,23 +29,24 @@ Style: Opening,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,
 Style: Titles,Helvetica,30,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,85,4.5,0,1,0,0,2,25,25,17,1
 Style: Credits,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
 Style: Notes,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,25,25,17,1
+Style: Closing,Helvetica,70,&H00FFFFFF,&HF0000000,&H000D0500,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,25,25,17,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.34,0:00:07.09,Opening,,0,0,0,,{\c&HA0823C&\bord6\blur8\fs120\b1\4c&HFFFFFF&\alpha&HFF&\shad0\pos(960,780)\t(850,1850,\alpha&H80&)}狮门影业
-Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-33\pos(680,750)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}路
-Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-33\pos(680,750)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}路
-Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-15\pos(794,805)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}边
-Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-15\pos(794,805)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}边
-Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-2\pos(909,830)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}景
-Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-2\pos(909,830)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}景
-Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz2\pos(1011,830)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}象
-Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz2\pos(1011,830)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}象
-Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz15\pos(1122,805)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}影
-Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz15\pos(1122,805)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}影
-Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz33\pos(1240,750)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}业
-Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz33\pos(1240,750)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}业
-Dialogue: 0,0:00:14.00,0:00:19.81,Opening,,0,0,0,,{\fad(500,500)\fs120\pos(955,549)\c&H2B3243&\3c&H9CD3FE&\bord2.5\b1}共和影业
+Dialogue: 0,0:00:04.34,0:00:07.09,Opening,,0,0,0,,{\fad(700,500)\fs120\pos(960,780)\b1\c&H6A501C&\3c&HE4DCCB&\bord2\4c&HE2D5C4&\shad3}狮门影业{\b0}
+Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-33\move(860,750,680,750,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}路
+Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-33\move(860,750,680,750,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}路
+Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-15\move(974,805,794,805,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}边
+Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-15\move(974,805,794,805,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}边
+Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-2\move(1089,830,909,830,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}景
+Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz-2\move(1089,830,909,830,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}景
+Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz2\move(1191,830,1011,830,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}象
+Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz2\move(1191,830,1011,830,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}象
+Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz15\move(1302,805,1122,805,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}影
+Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz15\move(1302,805,1122,805,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}影
+Dialogue: 1,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz33\move(1420,750,1240,750,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord2\blur1\fad(800,200)}业
+Dialogue: 0,0:00:07.60,0:00:10.74,Opening,,0,0,0,,{\fs80\an5\frz33\move(1420,750,1240,750,0,1980)\c&H7B43D7&\3c&HFFFFFF&\bord6\blur8\alpha&H80&\fad(860,260)}业
+Dialogue: 0,0:00:14.00,0:00:19.80,Opening,,0,0,0,,{\fad(500,500)\fs120\pos(955,549)\c&H2B3243&\3c&H9CD3FE&\bord2.5\b1}共和影业
 Dialogue: 0,0:01:10.51,0:01:11.44,Default,,0,0,0,,再来\N{\fs35}{\fs35}Yep.
 Dialogue: 0,0:01:14.68,0:01:16.51,Default,,0,0,0,,节哀 我是朱迪\N{\fs35}{\fs35}Hi. I'm Judy.
 Dialogue: 0,0:01:16.70,0:01:19.10,Default,,0,0,0,,- 罗曼 - 我是罗基同事\N{\fs35}{\fs35}- Roman. - I worked with Rocky.
@@ -161,8 +164,8 @@ Dialogue: 0,0:07:21.21,0:07:23.58,Default,,0,0,0,,嗯 知道 我知道\N{\fs35}Y
 Dialogue: 0,0:07:24.55,0:07:25.48,Default,,0,0,0,,好的\N{\fs35}Okay.
 Dialogue: 0,0:07:27.97,0:07:30.12,Default,,0,0,0,,我叫 丹 丹尼斯\N{\fs35}I'm D-- uh, I'm Dennis.
 Dialogue: 0,0:07:30.42,0:07:32.22,Default,,0,0,0,,我叫罗曼\N{\fs35}Roman.
-Dialogue: 0,0:07:39.30,0:07:41.05,Default,异口不同声,0,0,0,,{\an3}你双胞胎叫什么名字？\N{\fs35}What was your twin's name?
-Dialogue: 0,0:07:39.30,0:07:41.05,Default,异口不同声,0,0,0,,{\an1}你饿吗？\N{\fs35}Are you hungry?
+Dialogue: 0,0:07:39.30,0:07:41.05,Default,异口不同声,0,0,0,,{\pos(1440,1020)}你双胞胎叫什么名字？\N{\fs35}What was your twin's name?
+Dialogue: 0,0:07:39.30,0:07:41.05,Default,异口不同声,0,0,0,,{\pos(480,1020)}你饿吗？\N{\fs35}Are you hungry?
 Dialogue: 0,0:07:41.07,0:07:42.71,Default,,0,0,0,,- 抱歉 什么？ - 只是想问你\N{\fs35}- Sorry, what? - Sorry. I was just gonna ask
 Dialogue: 0,0:07:42.73,0:07:44.56,Default,,0,0,0,,喜欢不喜欢三明治啦\N{\fs35}if you like sandwiches. Never mind.
 Dialogue: 0,0:07:53.64,0:07:54.92,Default,,0,0,0,,你确定不吃点？\N{\fs35}You sure you don't want some?
@@ -341,12 +344,12 @@ Dialogue: 0,0:19:16.02,0:19:18.74,Default,,0,0,0,,可我喜欢 因为...\N{\fs35
 Dialogue: 0,0:19:18.87,0:19:22.35,Default,,0,0,0,,要是没了这痛 那就说明...\N{\fs35}if I don't have the pain, then...
 Dialogue: 0,0:19:22.63,0:19:24.86,Default,,0,0,0,,他就彻底走了\N{\fs35}he's really gone.
 Dialogue: 0,0:19:25.10,0:19:28.47,Default,,0,0,0,,我就彻底孤身一人了\N{\fs35}And I'm actually alone.
-Dialogue: 0,0:20:04.55,0:20:08.37,Titles,,0,0,0,,{\an5\fs35\1c00CCCCCC}{\b0}字幕译制{\b1}\N蒙太奇字幕组
-Dialogue: 0,0:20:11.54,0:20:15.51,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1482,600)}{\fnHeiti SC}出品公司\N\N\N{\fs28}狮门影业\N\N\N路边景象影业\N\N\N\N共和影业
-Dialogue: 0,0:20:19.52,0:20:23.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1482,540)}{\fnHeiti SC}制作公司\N\N{\fs28}彭缪特出品公司
-Dialogue: 0,0:20:27.52,0:20:31.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1460,550)}{\fnHeiti SC}制作公司\N\N\N{\fs28}后院计划影业\N\N三点资本
-Dialogue: 0,0:20:35.53,0:20:41.57,Titles,,0,0,0,,{\fs120\c&H000000&\3c&HB25EA3&\bord10\fnHeiti SC\pos(944,382)}无  双
-Dialogue: 0,0:20:45.54,0:20:49.08,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(1560,552)}{\fnHeiti SC}编剧兼导演\N\N\N{\fs28}詹姆斯·斯威尼
+Dialogue: 0,0:20:04.55,0:20:08.37,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(960,311)}{\fnHeiti SC}{\b0}字幕译制{\b1}\N\N\N蒙太奇字幕组
+Dialogue: 0,0:20:11.54,0:20:15.51,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(960,311)}{\fnHeiti SC}出品公司\N\N\N{\fs28}狮门影业\N\N\N路边景象影业\N\N\N\N共和影业
+Dialogue: 0,0:20:19.52,0:20:23.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(960,311)}{\fnHeiti SC}制作公司\N\N{\fs28}彭缪特出品公司
+Dialogue: 0,0:20:27.52,0:20:31.55,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(960,311)}{\fnHeiti SC}制作公司\N\N\N{\fs28}后院计划影业\N\N三点资本
+Dialogue: 0,0:20:35.53,0:20:41.57,Titles,,0,0,0,,{\fs120\c&H000000&\3c&HB25EA3&\bord10\fnHeiti SC\pos(960,382)}无  双
+Dialogue: 0,0:20:45.54,0:20:49.08,Titles,,0,0,0,,{\fs25\c&H000000&\3c&HA35C8B&\bord1.8\pos(960,311)}{\fnHeiti SC}编剧兼导演\N\N\N{\fs28}詹姆斯·斯威尼
 Dialogue: 0,0:20:49.91,0:20:51.19,Default,,0,0,0,,打扰一下\N{\fs35}Excuse me.
 Dialogue: 0,0:20:51.68,0:20:54.75,Default,,0,0,0,,嗨 这儿有人坐吗？\N{\fs35}Hi. Um, is anybody sitting here?
 Dialogue: 0,0:20:55.74,0:20:58.34,Default,,0,0,0,,没人 你请便\N{\fs35}No. Um, yeah, feel free.
@@ -699,8 +702,8 @@ Dialogue: 0,0:41:14.82,0:41:18.32,Default,,0,0,0,,但真心说 找个好女孩�
 Dialogue: 0,0:41:18.41,0:41:21.07,Default,,0,0,0,,好女孩就没胸吗？\N{\fs35}Nice girls don't have boobs?
 Dialogue: 0,0:41:21.10,0:41:23.26,Default,,0,0,0,,你要是遇到有的 记得告诉我\N{\fs35}If you find one, let me know.
 Dialogue: 0,0:41:23.28,0:41:25.05,Default,,0,0,0,,要一起结还是分开付？\N{\fs35}Together or separate?
-Dialogue: 0,0:41:25.07,0:41:27.02,Default,异口不同声,0,0,0,,{\an1}一起结\N{\fs35}Together.
-Dialogue: 0,0:41:25.07,0:41:27.02,Default,异口不同声,0,0,0,,{\an3}分开付\N{\fs35}Separate.
+Dialogue: 0,0:41:25.07,0:41:27.02,Default,异口不同声,0,0,0,,{\pos(480,1020)}一起结\N{\fs35}Together.
+Dialogue: 0,0:41:25.07,0:41:27.02,Default,异口不同声,0,0,0,,{\pos(1440,1020)}分开付\N{\fs35}Separate.
 Dialogue: 0,0:41:31.39,0:41:34.51,Default,,0,0,0,,灯怎么不关的？\N{\fs35}Why is this fucking light on?
 Dialogue: 0,0:41:34.69,0:41:38.60,Default,,0,0,0,,- 祝你生日快乐 - 你们是怎么知道的\N{\fs35}- Happy birthday to you - How would you guys know?
 Dialogue: 0,0:41:38.63,0:41:42.37,Default,,0,0,0,,- 祝你生日快乐 - 我从来不谈我私事的啊\N{\fs35}- Happy birthday to you - I never talk about my personal life!
@@ -893,103 +896,103 @@ Dialogue: 0,0:52:34.39,0:52:35.76,Default,,0,0,0,,我去拿点喝的\N{\fs35}I'l
 Dialogue: 0,0:52:35.79,0:52:37.40,Default,,0,0,0,,你们俩先聊\N{\fs35}Why don't, uh, you two mingle?
 Dialogue: 0,0:52:38.63,0:52:42.66,Music,,0,0,0,,{\an7}♪ 我太不愿被命定 ♪\N{\fs35}{\i1}♪ Not like we have a date with destiny ♪{\i0}
 Dialogue: 0,0:52:43.53,0:52:46.33,Music,,0,0,0,,{\an7}♪ 触动奇心弦起鸣... ♪\N{\fs35}{\i1}♪ It's just a little crush... ♪{\i0}
-Dialogue: 0,0:52:46.70,0:52:49.91,Default,异口不同声(右分屏),0,0,0,,{\an2}我真讨厌这首歌\N{\fs35}Oh, I fucking hate that song.
-Dialogue: 0,0:52:46.70,0:52:49.91,Default,异口不同声(右分屏),0,0,0,,{\an3}我超喜欢这首歌\N{\fs35}I love this song.
-Dialogue: 0,0:52:51.74,0:52:55.37,Default,右分屏,0,0,0,,{\an3}嗯 你对木头活儿感兴趣吗？\N{\fs35}Hmm. So, uh, you like wood?
-Dialogue: 0,0:52:55.45,0:52:59.36,Default,右分屏,0,0,0,,{\an3}哦 呃 是的\N{\fs35}Oh, uh... Yeah.
-Dialogue: 0,0:52:57.26,0:53:00.18,Default,左分屏,0,0,0,,{\an1}麻烦让...谢谢\N{\fs35}Could you... Thank you so much.
-Dialogue: 0,0:52:59.48,0:53:02.19,Default,右分屏,0,0,0,,{\an3}我喜欢动手做东西\N{\fs35}I, uh, I like to use my hands.
-Dialogue: 0,0:53:02.21,0:53:04.16,Default,右分屏,0,0,0,,{\an3}我的手细皮嫩肉\N{\fs35}I have soft hands.
-Dialogue: 0,0:53:04.18,0:53:05.77,Default,右分屏,0,0,0,,{\an3}- 不错 - 有人说过我这双手...\N{\fs35}- Cool. - I was told I have the hands...
-Dialogue: 0,0:53:05.79,0:53:07.43,Default,右分屏,0,0,0,,{\an3}十指不沾阳春水\N{\fs35}of somebody who's never worked a day in their life.
-Dialogue: 0,0:53:07.45,0:53:09.65,Default,右分屏,0,0,0,,{\an3}- 哇 - 我妈说的\N{\fs35}- Wow. - I think by my mother.
-Dialogue: 0,0:53:08.22,0:53:11.11,Default,左分屏,0,0,0,,{\an1}拿几杯这个\N{\fs35}I'm gonna get a couple cups for them.
-Dialogue: 0,0:53:11.13,0:53:12.06,Default,左分屏,0,0,0,,{\an1}你好呀\N{\fs35}Hi!
-Dialogue: 0,0:53:12.43,0:53:14.67,Default,左分屏,0,0,0,,{\an1}嗨 失礼 我是罗曼\N{\fs35}Hi. Sorry, I'm-I'm Roman
-Dialogue: 0,0:53:14.17,0:53:15.55,Default,右分屏,0,0,0,,{\an3}能摸下吗？\N{\fs35}Can I feel?
-Dialogue: 0,0:53:15.60,0:53:17.20,Default,右分屏,0,0,0,,{\an3}行啊\N{\fs35}Yeah.
-Dialogue: 0,0:53:15.73,0:53:17.33,Default,左分屏,0,0,0,,{\an1}我是玛茜\N{\fs35}I'm Marcie.
-Dialogue: 0,0:53:20.80,0:53:21.90,Default,右分屏,0,0,0,,{\an3}手真嫩\N{\fs35}Very soft.
-Dialogue: 0,0:53:21.19,0:53:22.92,Default,左分屏,0,0,0,,{\an1}来给你 哦 等下\N{\fs35}Here you go, oh, wait.
-Dialogue: 0,0:53:22.98,0:53:23.91,Default,右分屏,0,0,0,,{\an3}是啊\N{\fs35}Yeah.
-Dialogue: 0,0:53:24.70,0:53:26.34,Default,左分屏,0,0,0,,{\an1}买一赠一\N{\fs35}Make that twice.
-Dialogue: 0,0:53:25.64,0:53:26.74,Default,右分屏,0,0,0,,{\an3}呃...\N{\fs35}Um...
-Dialogue: 0,0:53:28.14,0:53:29.82,Default,右分屏,0,0,0,,{\an3}还有别的爱好吗？\N{\fs35}Any other hobbies?
-Dialogue: 0,0:53:28.51,0:53:29.54,Default,左分屏,0,0,0,,{\an1}干杯\N{\fs35}Cheers.
-Dialogue: 0,0:53:29.85,0:53:34.35,Default,右分屏,0,0,0,,{\an3}爬山 滑雪 滑翔伞 攀岩 山地滑板\N{\fs35}Hiking, skiing, paragliding, rock climbing, mountainboarding,
-Dialogue: 0,0:53:34.41,0:53:35.65,Default,左分屏,0,0,0,,{\an1}真好喝\N{\fs35}That's really nice.
-Dialogue: 0,0:53:34.45,0:53:36.92,Default,右分屏,0,0,0,,{\an3}激流漂流 再顺便跑跑酷\N{\fs35}White water rafting. Parkour.
-Dialogue: 0,0:53:35.70,0:53:37.63,Default,左分屏,0,0,0,,{\an1}可不是嘛\N{\fs35}Yeah, it's so good.
-Dialogue: 0,0:53:37.65,0:53:39.33,Default,右分屏,0,0,0,,{\an3}爱好是不是有点多？\N{\fs35}Feel like that's too many.
-Dialogue: 0,0:53:39.35,0:53:40.69,Default,右分屏,0,0,0,,{\an3}算个小毛病吧\N{\fs35}It's a bit of a problem.
-Dialogue: 0,0:53:39.72,0:53:40.72,Default,左分屏,0,0,0,,{\an1}什么？\N{\fs35}What?
-Dialogue: 0,0:53:40.74,0:53:43.31,Default,右分屏,0,0,0,,{\an3}我有点喜欢寻求刺激 你懂的\N{\fs35}I'm sort of an adrena-junkie, you know?
-Dialogue: 0,0:53:40.78,0:53:41.55,Default,左分屏,0,0,0,,{\an1}丹尼斯带我来的\N{\fs35}Dennis brought me here.
-Dialogue: 0,0:53:41.57,0:53:44.70,Default,左分屏,0,0,0,,{\an1}我和他几周前认识的\N{\fs35}We met just a couple week ago.
-Dialogue: 0,0:53:43.36,0:53:45.25,Default,右分屏,0,0,0,,{\an3}跑酷不是挺危险的吗？\N{\fs35}Isn't parkour dangerous?
-Dialogue: 0,0:53:44.79,0:53:45.78,Default,左分屏,0,0,0,,{\an1}对 不 我知道\N{\fs35}Yeah. no, I know.
-Dialogue: 0,0:53:45.29,0:53:47.87,Default,右分屏,0,0,0,,{\an3}- 不 - 但也有人丢了命吧？\N{\fs35}- No. - But people die doing it?
-Dialogue: 0,0:53:47.39,0:53:48.93,Default,左分屏,0,0,0,,{\an1}他跟我说过\N{\fs35}He told me.
-Dialogue: 0,0:53:47.96,0:53:49.00,Default,右分屏,0,0,0,,{\an3}有过\N{\fs35}Yes.
-Dialogue: 0,0:53:49.19,0:53:51.21,Default,左分屏,0,0,0,,{\an1}他说过你 对\N{\fs35}He knows about you, yeah.
-Dialogue: 0,0:53:50.53,0:53:51.70,Default,右分屏,0,0,0,,{\an3}好吧\N{\fs35}Okay.
-Dialogue: 0,0:53:51.83,0:53:54.09,Default,右分屏,0,0,0,,{\an3}关键是知道自己能承受多少\N{\fs35}You just have to know your limits.
-Dialogue: 0,0:53:51.94,0:53:53.86,Default,左分屏,0,0,0,,{\an1}多谢你的款待\N{\fs35}Thanks for having me.
-Dialogue: 0,0:53:54.14,0:53:57.88,Default,右分屏,0,0,0,,{\an3}我根本不知道自己还能承受多少！\N{\fs35}I don't know my limits!
-Dialogue: 0,0:53:57.91,0:54:01.19,Default,右分屏,0,0,0,,{\an3}话说 今年你干过最疯狂的事是什么？\N{\fs35}Like, what's the wildest thing you did this year?
-Dialogue: 0,0:54:02.09,0:54:03.93,Default,右分屏,0,0,0,,{\an3}这可想不起来\N{\fs35}Nothing comes to mind. Um...
-Dialogue: 0,0:54:05.01,0:54:06.79,Default,右分屏,0,0,0,,{\an3}当陪审员吧\N{\fs35}Jury duty. Or I almost--
-Dialogue: 0,0:54:06.81,0:54:09.25,Default,右分屏,0,0,0,,{\an3}但有利益冲突 没当成\N{\fs35}I had a conflict, so they didn't pick me.
-Dialogue: 0,0:54:12.69,0:54:14.59,Default,右分屏,0,0,0,,{\an3}你挺萌的\N{\fs35}You're cute.
+Dialogue: 0,0:52:46.70,0:52:48.14,Default,异口不同声(右分屏),0,0,0,,{\pos(1680,1020)}我真讨厌这首歌\N{\fs35}Oh, I fucking hate that song.
+Dialogue: 0,0:52:46.70,0:52:48.14,Default,异口不同声(右分屏),0,0,0,,{\pos(1200,1020)}我超喜欢这首歌\N{\fs35}I love this song.
+Dialogue: 0,0:52:51.74,0:52:55.37,Default,右分屏,0,0,0,,{\pos(1440,1020)}嗯 你对木头活儿感兴趣吗？\N{\fs35}Hmm. So, uh, you like wood?
+Dialogue: 0,0:52:55.45,0:52:59.36,Default,右分屏,0,0,0,,{\pos(1440,1020)}哦 呃 是的\N{\fs35}Oh, uh... Yeah.
+Dialogue: 0,0:52:57.26,0:53:00.18,Default,左分屏,0,0,0,,{\pos(480,1020)}麻烦让...谢谢\N{\fs35}Could you... Thank you so much.
+Dialogue: 0,0:52:59.48,0:53:02.19,Default,右分屏,0,0,0,,{\pos(1440,1020)}我喜欢动手做东西\N{\fs35}I, uh, I like to use my hands.
+Dialogue: 0,0:53:02.21,0:53:04.16,Default,右分屏,0,0,0,,{\pos(1440,1020)}我的手细皮嫩肉\N{\fs35}I have soft hands.
+Dialogue: 0,0:53:04.18,0:53:05.77,Default,右分屏,0,0,0,,{\pos(1440,1020)}- 不错 - 有人说过我这双手...\N{\fs35}- Cool. - I was told I have the hands...
+Dialogue: 0,0:53:05.79,0:53:07.43,Default,右分屏,0,0,0,,{\pos(1440,1020)}十指不沾阳春水\N{\fs35}of somebody who's never worked a day in their life.
+Dialogue: 0,0:53:07.45,0:53:09.65,Default,右分屏,0,0,0,,{\pos(1440,1020)}- 哇 - 我妈说的\N{\fs35}- Wow. - I think by my mother.
+Dialogue: 0,0:53:08.22,0:53:11.11,Default,左分屏,0,0,0,,{\pos(480,1020)}拿几杯这个\N{\fs35}I'm gonna get a couple cups for them.
+Dialogue: 0,0:53:11.13,0:53:12.06,Default,左分屏,0,0,0,,{\pos(480,1020)}你好呀\N{\fs35}Hi!
+Dialogue: 0,0:53:12.43,0:53:14.67,Default,左分屏,0,0,0,,{\pos(480,1020)}嗨 失礼 我是罗曼\N{\fs35}Hi. Sorry, I'm-I'm Roman
+Dialogue: 0,0:53:14.17,0:53:15.55,Default,右分屏,0,0,0,,{\pos(1440,1020)}能摸下吗？\N{\fs35}Can I feel?
+Dialogue: 0,0:53:15.60,0:53:17.20,Default,右分屏,0,0,0,,{\pos(1440,1020)}行啊\N{\fs35}Yeah.
+Dialogue: 0,0:53:15.73,0:53:17.33,Default,左分屏,0,0,0,,{\pos(480,1020)}我是玛茜\N{\fs35}I'm Marcie.
+Dialogue: 0,0:53:20.80,0:53:21.90,Default,右分屏,0,0,0,,{\pos(1440,1020)}手真嫩\N{\fs35}Very soft.
+Dialogue: 0,0:53:21.19,0:53:22.92,Default,左分屏,0,0,0,,{\pos(480,1020)}来给你 哦 等下\N{\fs35}Here you go, oh, wait.
+Dialogue: 0,0:53:22.98,0:53:23.91,Default,右分屏,0,0,0,,{\pos(1440,1020)}是啊\N{\fs35}Yeah.
+Dialogue: 0,0:53:24.70,0:53:26.34,Default,左分屏,0,0,0,,{\pos(480,1020)}买一赠一\N{\fs35}Make that twice.
+Dialogue: 0,0:53:25.64,0:53:26.74,Default,右分屏,0,0,0,,{\pos(1440,1020)}呃...\N{\fs35}Um...
+Dialogue: 0,0:53:28.14,0:53:29.82,Default,右分屏,0,0,0,,{\pos(1440,1020)}还有别的爱好吗？\N{\fs35}Any other hobbies?
+Dialogue: 0,0:53:28.51,0:53:29.54,Default,左分屏,0,0,0,,{\pos(480,1020)}干杯\N{\fs35}Cheers.
+Dialogue: 0,0:53:29.85,0:53:34.35,Default,右分屏,0,0,0,,{\pos(1440,1020)}爬山 滑雪 滑翔伞 攀岩 山地滑板\N{\fs35}Hiking, skiing, paragliding, rock climbing, mountainboarding,
+Dialogue: 0,0:53:34.41,0:53:35.65,Default,左分屏,0,0,0,,{\pos(480,1020)}真好喝\N{\fs35}That's really nice.
+Dialogue: 0,0:53:34.45,0:53:36.92,Default,右分屏,0,0,0,,{\pos(1440,1020)}激流漂流 再顺便跑跑酷\N{\fs35}White water rafting. Parkour.
+Dialogue: 0,0:53:35.70,0:53:37.63,Default,左分屏,0,0,0,,{\pos(480,1020)}可不是嘛\N{\fs35}Yeah, it's so good.
+Dialogue: 0,0:53:37.65,0:53:39.33,Default,右分屏,0,0,0,,{\pos(1440,1020)}爱好是不是有点多？\N{\fs35}Feel like that's too many.
+Dialogue: 0,0:53:39.35,0:53:40.69,Default,右分屏,0,0,0,,{\pos(1440,1020)}算个小毛病吧\N{\fs35}It's a bit of a problem.
+Dialogue: 0,0:53:39.72,0:53:40.72,Default,左分屏,0,0,0,,{\pos(480,1020)}什么？\N{\fs35}What?
+Dialogue: 0,0:53:40.74,0:53:43.31,Default,右分屏,0,0,0,,{\pos(1440,1020)}我有点喜欢寻求刺激 你懂的\N{\fs35}I'm sort of an adrena-junkie, you know?
+Dialogue: 0,0:53:40.78,0:53:41.55,Default,左分屏,0,0,0,,{\pos(480,1020)}丹尼斯带我来的\N{\fs35}Dennis brought me here.
+Dialogue: 0,0:53:41.57,0:53:44.70,Default,左分屏,0,0,0,,{\pos(480,1020)}我和他几周前认识的\N{\fs35}We met just a couple week ago.
+Dialogue: 0,0:53:43.36,0:53:45.25,Default,右分屏,0,0,0,,{\pos(1440,1020)}跑酷不是挺危险的吗？\N{\fs35}Isn't parkour dangerous?
+Dialogue: 0,0:53:44.79,0:53:45.78,Default,左分屏,0,0,0,,{\pos(480,1020)}对 不 我知道\N{\fs35}Yeah. no, I know.
+Dialogue: 0,0:53:45.29,0:53:47.87,Default,右分屏,0,0,0,,{\pos(1440,1020)}- 不 - 但也有人丢了命吧？\N{\fs35}- No. - But people die doing it?
+Dialogue: 0,0:53:47.39,0:53:48.93,Default,左分屏,0,0,0,,{\pos(480,1020)}他跟我说过\N{\fs35}He told me.
+Dialogue: 0,0:53:47.96,0:53:49.00,Default,右分屏,0,0,0,,{\pos(1440,1020)}有过\N{\fs35}Yes.
+Dialogue: 0,0:53:49.19,0:53:51.21,Default,左分屏,0,0,0,,{\pos(480,1020)}他说过你 对\N{\fs35}He knows about you, yeah.
+Dialogue: 0,0:53:50.53,0:53:51.70,Default,右分屏,0,0,0,,{\pos(1440,1020)}好吧\N{\fs35}Okay.
+Dialogue: 0,0:53:51.83,0:53:54.09,Default,右分屏,0,0,0,,{\pos(1440,1020)}关键是知道自己能承受多少\N{\fs35}You just have to know your limits.
+Dialogue: 0,0:53:51.94,0:53:53.86,Default,左分屏,0,0,0,,{\pos(480,1020)}多谢你的款待\N{\fs35}Thanks for having me.
+Dialogue: 0,0:53:54.14,0:53:57.88,Default,右分屏,0,0,0,,{\pos(1440,1020)}我根本不知道自己还能承受多少！\N{\fs35}I don't know my limits!
+Dialogue: 0,0:53:57.91,0:54:01.19,Default,右分屏,0,0,0,,{\pos(1440,1020)}话说 今年你干过最疯狂的事是什么？\N{\fs35}Like, what's the wildest thing you did this year?
+Dialogue: 0,0:54:02.09,0:54:03.93,Default,右分屏,0,0,0,,{\pos(1440,1020)}这可想不起来\N{\fs35}Nothing comes to mind. Um...
+Dialogue: 0,0:54:05.01,0:54:06.79,Default,右分屏,0,0,0,,{\pos(1440,1020)}当陪审员吧\N{\fs35}Jury duty. Or I almost--
+Dialogue: 0,0:54:06.81,0:54:09.25,Default,右分屏,0,0,0,,{\pos(1440,1020)}但有利益冲突 没当成\N{\fs35}I had a conflict, so they didn't pick me.
+Dialogue: 0,0:54:12.69,0:54:14.59,Default,右分屏,0,0,0,,{\pos(1440,1020)}你挺萌的\N{\fs35}You're cute.
 Dialogue: 0,0:54:14.76,0:54:17.63,Music,,0,0,0,,{\an7}♪ 白色篱字映入眸 ♪\N{\fs35}{\i1}♪ ...In your eyes ♪{\i0}
 Dialogue: 0,0:54:17.79,0:54:20.03,Music,,0,0,0,,{\an7}♪ 我与君成幕中景... ♪\N{\fs35}{\i1}♪ A vision of you and me... ♪{\i0}
-Dialogue: 0,0:54:20.34,0:54:22.11,Default,左分屏,0,0,0,,{\an1}哦 你竟然从没玩过《模拟人生1》？\N{\fs35}Oh, you never played the original Sims?
-Dialogue: 0,0:54:22.13,0:54:23.66,Default,左分屏,0,0,0,,{\an1}天呐 那可是经典\N{\fs35}Oh, man, it's the best.
-Dialogue: 0,0:54:23.69,0:54:25.81,Default,左分屏,0,0,0,,{\an1}其实 很多人不知道它超难的\N{\fs35}Actually, a lot of people don't realize it was really hard.
-Dialogue: 0,0:54:25.84,0:54:27.25,Default,左分屏,0,0,0,,{\an1}因为没有周末\N{\fs35}'Cause you don't get weekends,
-Dialogue: 0,0:54:27.27,0:54:29.05,Default,左分屏,0,0,0,,{\an1}整天就是工作\N{\fs35}so you have to spend all your time going to work,
-Dialogue: 0,0:54:29.07,0:54:31.25,Default,左分屏,0,0,0,,{\an1}睡觉 洗澡 打扫 做饭\N{\fs35}going to sleep, showering, cleaning, cooking,
-Dialogue: 0,0:54:29.43,0:54:31.91,Default,右分屏,0,0,0,,{\an3}- 你们见罗曼了吗？ - 没有\N{\fs35}- You guys see Roman? - No.
-Dialogue: 0,0:54:31.27,0:54:33.92,Default,左分屏,0,0,0,,{\an1}便便这些琐事上 抱歉我说得有点直\N{\fs35}pooping, you know? Sorry.
-Dialogue: 0,0:54:31.99,0:54:34.27,Default,右分屏,0,0,0,,{\an3}他说去拿喝的了\N{\fs35}He went to get drinks.
-Dialogue: 0,0:54:33.94,0:54:36.02,Default,左分屏,0,0,0,,{\an1}你真得照顾好他们的各种需求\N{\fs35}But, yeah, you really have to tend to their needs,
-Dialogue: 0,0:54:34.27,0:54:37.07,Default,右分屏,0,0,0,,{\an3}他去了得有一阵子了\N{\fs35}He's been gone for over ten minutes.
-Dialogue: 0,0:54:36.04,0:54:38.11,Default,左分屏,0,0,0,,{\an1}不然立马给你脸色看\N{\fs35}'cause, um, they'll let you know about it.
-Dialogue: 0,0:54:38.13,0:54:40.31,Default,左分屏,0,0,0,,{\an1}他们会闹脾气\N{\fs35}They get very cranky.
-Dialogue: 0,0:54:38.48,0:54:40.25,Default,右分屏,0,0,0,,{\an3}我都快渴死了\N{\fs35}I'm dying of thirst.
-Dialogue: 0,0:54:40.34,0:54:42.56,Default,左分屏,0,0,0,,{\an1}甚至会尿裤子\N{\fs35}Um, they'll pee their pants.
-Dialogue: 0,0:54:40.41,0:54:42.55,Default,右分屏,0,0,0,,{\an3}喝点这个吗？\N{\fs35}Do you want to drink this?
-Dialogue: 0,0:54:42.57,0:54:46.11,Default,左分屏,0,0,0,,{\an1}还会陷入严重的抑郁\N{\fs35}They'll, uh, get very depressed, actually.
-Dialogue: 0,0:54:42.64,0:54:44.41,Default,右分屏,0,0,0,,{\an3}拿一下 我去给你拿\N{\fs35}Take it, I'll go get one.
-Dialogue: 0,0:54:46.13,0:54:48.33,Default,左分屏,0,0,0,,{\an1}有时真的很沮丧\N{\fs35}They can get depressed.
-Dialogue: 0,0:54:48.35,0:54:49.85,Default,左分屏,0,0,0,,{\an1}哦 哇 我...\N{\fs35}Oh. Wow. I...
-Dialogue: 0,0:54:49.87,0:54:51.85,Default,左分屏,0,0,0,,{\an1}我一直以为这游戏挺傻的\N{\fs35}I always just thought it was a silly game
-Dialogue: 0,0:54:51.89,0:54:54.27,Default,左分屏,0,0,0,,{\an1}- 里面人老乱说傻话 - 不 不 不\N{\fs35}- where they talk gibberish. - No, no, no.
-Dialogue: 0,0:54:54.29,0:54:57.57,Default,左分屏,0,0,0,,{\an1}那话很讲究的 是生死攸关的\N{\fs35}There's stakes. Yeah. It's life or death out there.
-Dialogue: 0,0:54:57.60,0:55:00.46,Default,左分屏,0,0,0,,{\an1}可不是胡言乱语 是模拟语\N{\fs35}And it's actually not gibberish. It's Simlish.
+Dialogue: 0,0:54:20.34,0:54:22.11,Default,左分屏,0,0,0,,{\pos(480,1020)}哦 你竟然从没玩过《模拟人生1》？\N{\fs35}Oh, you never played the original Sims?
+Dialogue: 0,0:54:22.13,0:54:23.66,Default,左分屏,0,0,0,,{\pos(480,1020)}天呐 那可是经典\N{\fs35}Oh, man, it's the best.
+Dialogue: 0,0:54:23.69,0:54:25.81,Default,左分屏,0,0,0,,{\pos(480,1020)}其实 很多人不知道它超难的\N{\fs35}Actually, a lot of people don't realize it was really hard.
+Dialogue: 0,0:54:25.84,0:54:27.25,Default,左分屏,0,0,0,,{\pos(480,1020)}因为没有周末\N{\fs35}'Cause you don't get weekends,
+Dialogue: 0,0:54:27.27,0:54:29.05,Default,左分屏,0,0,0,,{\pos(480,1020)}整天就是工作\N{\fs35}so you have to spend all your time going to work,
+Dialogue: 0,0:54:29.07,0:54:31.25,Default,左分屏,0,0,0,,{\pos(480,1020)}睡觉 洗澡 打扫 做饭\N{\fs35}going to sleep, showering, cleaning, cooking,
+Dialogue: 0,0:54:29.43,0:54:31.91,Default,右分屏,0,0,0,,{\pos(1440,1020)}- 你们见罗曼了吗？ - 没有\N{\fs35}- You guys see Roman? - No.
+Dialogue: 0,0:54:31.27,0:54:33.92,Default,左分屏,0,0,0,,{\pos(480,1020)}便便这些琐事上 抱歉我说得有点直\N{\fs35}pooping, you know? Sorry.
+Dialogue: 0,0:54:31.99,0:54:34.27,Default,右分屏,0,0,0,,{\pos(1440,1020)}他说去拿喝的了\N{\fs35}He went to get drinks.
+Dialogue: 0,0:54:33.94,0:54:36.02,Default,左分屏,0,0,0,,{\pos(480,1020)}你真得照顾好他们的各种需求\N{\fs35}But, yeah, you really have to tend to their needs,
+Dialogue: 0,0:54:34.27,0:54:37.07,Default,右分屏,0,0,0,,{\pos(1440,1020)}他去了得有一阵子了\N{\fs35}He's been gone for over ten minutes.
+Dialogue: 0,0:54:36.04,0:54:38.11,Default,左分屏,0,0,0,,{\pos(480,1020)}不然立马给你脸色看\N{\fs35}'cause, um, they'll let you know about it.
+Dialogue: 0,0:54:38.13,0:54:40.31,Default,左分屏,0,0,0,,{\pos(480,1020)}他们会闹脾气\N{\fs35}They get very cranky.
+Dialogue: 0,0:54:38.48,0:54:40.25,Default,右分屏,0,0,0,,{\pos(1440,1020)}我都快渴死了\N{\fs35}I'm dying of thirst.
+Dialogue: 0,0:54:40.34,0:54:42.56,Default,左分屏,0,0,0,,{\pos(480,1020)}甚至会尿裤子\N{\fs35}Um, they'll pee their pants.
+Dialogue: 0,0:54:40.41,0:54:42.55,Default,右分屏,0,0,0,,{\pos(1440,1020)}喝点这个吗？\N{\fs35}Do you want to drink this?
+Dialogue: 0,0:54:42.57,0:54:46.11,Default,左分屏,0,0,0,,{\pos(480,1020)}还会陷入严重的抑郁\N{\fs35}They'll, uh, get very depressed, actually.
+Dialogue: 0,0:54:42.64,0:54:44.41,Default,右分屏,0,0,0,,{\pos(1440,1020)}拿一下 我去给你拿\N{\fs35}Take it, I'll go get one.
+Dialogue: 0,0:54:46.13,0:54:48.33,Default,左分屏,0,0,0,,{\pos(480,1020)}有时真的很沮丧\N{\fs35}They can get depressed.
+Dialogue: 0,0:54:48.35,0:54:49.85,Default,左分屏,0,0,0,,{\pos(480,1020)}哦 哇 我...\N{\fs35}Oh. Wow. I...
+Dialogue: 0,0:54:49.87,0:54:51.85,Default,左分屏,0,0,0,,{\pos(480,1020)}我一直以为这游戏挺傻的\N{\fs35}I always just thought it was a silly game
+Dialogue: 0,0:54:51.89,0:54:54.27,Default,左分屏,0,0,0,,{\pos(480,1020)}- 里面人老乱说傻话 - 不 不 不\N{\fs35}- where they talk gibberish. - No, no, no.
+Dialogue: 0,0:54:54.29,0:54:57.57,Default,左分屏,0,0,0,,{\pos(480,1020)}那话很讲究的 是生死攸关的\N{\fs35}There's stakes. Yeah. It's life or death out there.
+Dialogue: 0,0:54:57.60,0:55:00.46,Default,左分屏,0,0,0,,{\pos(480,1020)}可不是胡言乱语 是模拟语\N{\fs35}And it's actually not gibberish. It's Simlish.
 Dialogue: 0,0:54:57.62,0:55:00.46,Notes,,0,0,0,,{\an7\fs46\1c00CCCCCC\b1}【模拟语：游戏《模拟人生》中虚拟语言】
-Dialogue: 0,0:55:00.54,0:55:02.44,Default,左分屏,0,0,0,,{\an1}是一整套语言\N{\fs35}It's like it's whole own language.
-Dialogue: 0,0:55:02.47,0:55:05.47,Default,左分屏,0,0,0,,{\an1}（模拟语）古吉嘎嗨 啊莱里洛 巴豪 巴豪哇\N{\fs35}gugi gahe a lie lilo bahao bahao wa... [Simlish]
-Dialogue: 0,0:55:06.12,0:55:09.18,Default,左分屏,0,0,0,,{\an1}（模拟语）巴豪哇 巴豪哇阿拉\N{\fs35}Bahao waa bahao walaa. [Simlish]
-Dialogue: 0,0:55:09.66,0:55:11.63,Default,左分屏,0,0,0,,{\an1}见笑了\N{\fs35}Sorry.
-Dialogue: 0,0:55:11.65,0:55:13.66,Default,左分屏,0,0,0,,{\an1}抱歉 太蠢了\N{\fs35}Sorry. That's dumb.
-Dialogue: 0,0:55:14.39,0:55:16.56,Default,左分屏,0,0,0,,{\an1}不 听着真可爱\N{\fs35}No, it's really sweet.
-Dialogue: 0,0:55:16.58,0:55:19.53,Default,左分屏,0,0,0,,{\an1}这是我小时候最喜欢的游戏\N{\fs35}It was just my favorite game when I was a kid.
-Dialogue: 0,0:55:19.72,0:55:21.27,Default,左分屏,0,0,0,,{\an1}我有个双胞胎哥哥\N{\fs35}I have a twin brother.
-Dialogue: 0,0:55:21.29,0:55:24.27,Default,左分屏,0,0,0,,{\an1}我们俩着迷得不得了\N{\fs35}We were obsessed with it, so we just would play it
-Dialogue: 0,0:55:24.29,0:55:26.09,Default,左分屏,0,0,0,,{\an1}一玩就是好几个小时\N{\fs35}for hours together.
-Dialogue: 0,0:55:26.11,0:55:29.68,Default,左分屏,0,0,0,,{\an1}现实里的时间 不是游戏里的那种\N{\fs35}Real hours, not Sims hours. Yeah.
-Dialogue: 0,0:55:29.71,0:55:32.16,Default,左分屏,0,0,0,,{\an1}我以为长大后我们会过那种日子\N{\fs35}Part of me always thought that's what my life would be like
-Dialogue: 0,0:55:32.19,0:55:33.26,Default,左分屏,0,0,0,,{\an1}就像游戏里那样\N{\fs35}when we got older too.
-Dialogue: 0,0:55:33.29,0:55:34.97,Default,左分屏,0,0,0,,{\an1}我和罗基买栋房子\N{\fs35}Rocky and I would get a house
-Dialogue: 0,0:55:34.99,0:55:36.68,Default,左分屏,0,0,0,,{\an1}放台投篮机打篮球\N{\fs35}and shoot hoops on the SuperDoop,
-Dialogue: 0,0:55:36.71,0:55:38.25,Default,左分屏,0,0,0,,{\an1}泡大浴缸聊天\N{\fs35}talk in the hot tub.
-Dialogue: 0,0:55:38.27,0:55:39.91,Default,左分屏,0,0,0,,{\an1}我全职在家\N{\fs35}I was always the stay at home twin.
-Dialogue: 0,0:55:39.93,0:55:42.23,Default,左分屏,0,0,0,,{\an1}他去上班 升职加薪\N{\fs35}He'd get the job, the promotion,
-Dialogue: 0,0:55:42.26,0:55:45.66,Default,左分屏,0,0,0,,{\an1}而我就收拾屋子 通通马桶\N{\fs35}and I'd kind of clean the house, and, you know, fix things,
-Dialogue: 0,0:55:45.68,0:55:48.24,Default,左分屏,0,0,0,,{\an1}做做饭 什么的\N{\fs35}and cook the meals, and...
-Dialogue: 0,0:55:49.52,0:55:50.93,Default,左分屏,0,0,0,,{\an1}还总把厨房烧了\N{\fs35}I'd always burn down the kitchen too.
-Dialogue: 0,0:55:50.95,0:55:53.27,Default,左分屏,0,0,0,,{\an1}他会气得跺脚\N{\fs35}Uh, he hated that.
+Dialogue: 0,0:55:00.54,0:55:02.44,Default,左分屏,0,0,0,,{\pos(480,1020)}是一整套语言\N{\fs35}It's like it's whole own language.
+Dialogue: 0,0:55:02.47,0:55:05.47,Default,左分屏,0,0,0,,{\pos(480,1020)}（模拟语）古吉嘎嗨 啊莱里洛 巴豪 巴豪哇\N{\fs35}gugi gahe a lie lilo bahao bahao wa... [Simlish]
+Dialogue: 0,0:55:06.12,0:55:09.18,Default,左分屏,0,0,0,,{\pos(480,1020)}（模拟语）巴豪哇 巴豪哇阿拉\N{\fs35}Bahao waa bahao walaa. [Simlish]
+Dialogue: 0,0:55:09.66,0:55:11.63,Default,左分屏,0,0,0,,{\pos(480,1020)}见笑了\N{\fs35}Sorry.
+Dialogue: 0,0:55:11.65,0:55:13.66,Default,左分屏,0,0,0,,{\pos(480,1020)}抱歉 太蠢了\N{\fs35}Sorry. That's dumb.
+Dialogue: 0,0:55:14.39,0:55:16.56,Default,左分屏,0,0,0,,{\pos(480,1020)}不 听着真可爱\N{\fs35}No, it's really sweet.
+Dialogue: 0,0:55:16.58,0:55:19.53,Default,左分屏,0,0,0,,{\pos(480,1020)}这是我小时候最喜欢的游戏\N{\fs35}It was just my favorite game when I was a kid.
+Dialogue: 0,0:55:19.72,0:55:21.27,Default,左分屏,0,0,0,,{\pos(480,1020)}我有个双胞胎哥哥\N{\fs35}I have a twin brother.
+Dialogue: 0,0:55:21.29,0:55:24.27,Default,左分屏,0,0,0,,{\pos(480,1020)}我们俩着迷得不得了\N{\fs35}We were obsessed with it, so we just would play it
+Dialogue: 0,0:55:24.29,0:55:26.09,Default,左分屏,0,0,0,,{\pos(480,1020)}一玩就是好几个小时\N{\fs35}for hours together.
+Dialogue: 0,0:55:26.11,0:55:29.68,Default,左分屏,0,0,0,,{\pos(480,1020)}现实里的时间 不是游戏里的那种\N{\fs35}Real hours, not Sims hours. Yeah.
+Dialogue: 0,0:55:29.71,0:55:32.16,Default,左分屏,0,0,0,,{\pos(480,1020)}我以为长大后我们会过那种日子\N{\fs35}Part of me always thought that's what my life would be like
+Dialogue: 0,0:55:32.19,0:55:33.26,Default,左分屏,0,0,0,,{\pos(480,1020)}就像游戏里那样\N{\fs35}when we got older too.
+Dialogue: 0,0:55:33.29,0:55:34.97,Default,左分屏,0,0,0,,{\pos(480,1020)}我和罗基买栋房子\N{\fs35}Rocky and I would get a house
+Dialogue: 0,0:55:34.99,0:55:36.68,Default,左分屏,0,0,0,,{\pos(480,1020)}放台投篮机打篮球\N{\fs35}and shoot hoops on the SuperDoop,
+Dialogue: 0,0:55:36.71,0:55:38.25,Default,左分屏,0,0,0,,{\pos(480,1020)}泡大浴缸聊天\N{\fs35}talk in the hot tub.
+Dialogue: 0,0:55:38.27,0:55:39.91,Default,左分屏,0,0,0,,{\pos(480,1020)}我全职在家\N{\fs35}I was always the stay at home twin.
+Dialogue: 0,0:55:39.93,0:55:42.23,Default,左分屏,0,0,0,,{\pos(480,1020)}他去上班 升职加薪\N{\fs35}He'd get the job, the promotion,
+Dialogue: 0,0:55:42.26,0:55:45.66,Default,左分屏,0,0,0,,{\pos(480,1020)}而我就收拾屋子 通通马桶\N{\fs35}and I'd kind of clean the house, and, you know, fix things,
+Dialogue: 0,0:55:45.68,0:55:48.24,Default,左分屏,0,0,0,,{\pos(480,1020)}做做饭 什么的\N{\fs35}and cook the meals, and...
+Dialogue: 0,0:55:49.52,0:55:50.93,Default,左分屏,0,0,0,,{\pos(480,1020)}还总把厨房烧了\N{\fs35}I'd always burn down the kitchen too.
+Dialogue: 0,0:55:50.95,0:55:53.27,Default,左分屏,0,0,0,,{\pos(480,1020)}他会气得跺脚\N{\fs35}Uh, he hated that.
 Dialogue: 0,0:55:53.69,0:55:55.90,Default,,0,0,0,,你们现在还一起玩吗？\N{\fs35}Do you and Rocky still play?
 Dialogue: 0,0:55:55.93,0:55:57.69,Default,,0,0,0,,不 他...\N{\fs35}No, he, uh,
 Dialogue: 0,0:55:57.72,0:56:00.19,Default,,0,0,0,,他其实几个月前去世了\N{\fs35}he passed away a couple months ago, actually.
@@ -1163,8 +1166,8 @@ Dialogue: 0,1:03:36.64,1:03:40.76,Default,,0,0,0,,我不行了 我不行了\N{\f
 Dialogue: 0,1:03:49.51,1:03:51.30,Default,,0,0,0,,我问过这儿经理了\N{\fs35}So, I spoke with Sharon, the manager--
 Dialogue: 0,1:03:51.33,1:03:52.92,Default,,0,0,0,,哦 莎伦她人真好\N{\fs35}Oh, she's a sweetheart.
 Dialogue: 0,1:03:52.95,1:03:54.98,Default,,0,0,0,,你们要代金券 还是要退款？\N{\fs35}Do we want credit or a refund?
-Dialogue: 0,1:03:55.07,1:03:56.92,Default,异口不同声,0,0,0,,{\an1}代金券\N{\fs35}Credit.
-Dialogue: 0,1:03:55.07,1:03:56.92,Default,异口不同声,0,0,0,,{\an3}退款\N{\fs35}Refund.
+Dialogue: 0,1:03:55.07,1:03:56.92,Default,异口不同声,0,0,0,,{\pos(480,1020)}代金券\N{\fs35}Credit.
+Dialogue: 0,1:03:55.07,1:03:56.92,Default,异口不同声,0,0,0,,{\pos(1440,1020)}退款\N{\fs35}Refund.
 Dialogue: 0,1:03:59.90,1:04:01.76,Default,,0,0,0,,乔尼死了\N{\fs35}Jonny died.
 Dialogue: 0,1:04:02.25,1:04:04.01,Default,,0,0,0,,我的狗乔尼\N{\fs35}My dog.
 Dialogue: 0,1:04:04.20,1:04:08.02,Default,,0,0,0,,我不该用我哥的名字给它取名\N{\fs35}I shouldn't have named him after my brother.
@@ -1175,29 +1178,29 @@ Dialogue: 0,1:04:19.93,1:04:24.61,Default,,0,0,0,,她说我是在用她顶替我
 Dialogue: 0,1:04:44.62,1:04:46.60,Default,,0,0,0,,- 是丹尼斯 - 你还是接吧\N{\fs35}- Dennis. - Maybe you should get it.
 Dialogue: 0,1:04:46.63,1:04:49.14,Default,,0,0,0,,都打第三遍了 说不定真有急事\N{\fs35}It's the third time. It could be an emergency!
 Dialogue: 0,1:04:49.96,1:04:52.49,Default,,0,0,0,,天呐 要命\N{\fs35}Oh, my God. Shit.
-Dialogue: 0,1:04:55.51,1:04:58.02,Default,左分屏,0,0,0,,{\an1}喂 哥们 都这么晚了 有什么事？\N{\fs35}Hey, buddy, it's late. Everything okay?
-Dialogue: 0,1:04:58.05,1:04:59.65,Default,右分屏,0,0,0,,{\an3}抱歉 吵醒你了吗？\N{\fs35}Yeah, sorry. Did I wake you?
-Dialogue: 0,1:04:59.67,1:05:01.54,Default,左分屏,0,0,0,,{\an1}没事 就是和玛茜在一起\N{\fs35}No, no. Just, uh, hanging with Marcie.
-Dialogue: 0,1:05:01.57,1:05:03.87,Default,右分屏,0,0,0,,{\an3}哦 对 玛茜 她真黏人\N{\fs35}Oh, right, Marcie. So needy.
-Dialogue: 0,1:05:03.89,1:05:07.12,Default,左分屏,0,0,0,,{\an1}- 免提开着呢 - 嗨 丹尼斯\N{\fs35}- Uh, you're on speaker. - Hi, Dennis.
-Dialogue: 0,1:05:07.14,1:05:08.96,Default,左分屏,0,0,0,,{\an1}有什么事吗？\N{\fs35}So, what's up?
-Dialogue: 0,1:05:08.98,1:05:11.98,Default,右分屏,0,0,0,,{\an3}没什么 就想问问你们在干嘛\N{\fs35}Just wanted to see what you were doing.
-Dialogue: 0,1:05:12.15,1:05:14.29,Default,左分屏,0,0,0,,{\an1}没干嘛 聊着圣诞节\N{\fs35}we're doing nothing, talking about Christmas
-Dialogue: 0,1:05:14.31,1:05:18.19,Default,左分屏,0,0,0,,{\an1}和准备礼品的事儿\N{\fs35}and stockings and all the stuff we want to stuff in them.
-Dialogue: 0,1:05:18.32,1:05:20.09,Default,右分屏,0,0,0,,{\an3}不错 嗯\N{\fs35}Nice. Mm.
-Dialogue: 0,1:05:20.22,1:05:22.35,Default,右分屏,0,0,0,,{\an3}你圣诞节要回家过吗？\N{\fs35}Are you headed home for Christmas?
-Dialogue: 0,1:05:22.37,1:05:26.31,Default,右分屏,0,0,0,,{\an3}我还是一个人过\N{\fs35}I'll be here, alone, again.
-Dialogue: 0,1:05:26.93,1:05:29.24,Default,右分屏,0,0,0,,{\an3}别担心我 早习惯了\N{\fs35}I mean, don't worry about me. I'm used to it.
-Dialogue: 0,1:05:29.26,1:05:30.65,Default,右分屏,0,0,0,,{\an3}总能找点事做\N{\fs35}I'm sure I'll find something to do.
-Dialogue: 0,1:05:30.67,1:05:32.21,Default,右分屏,0,0,0,,{\an3}你知道的\N{\fs35}You know, I've got that whole
-Dialogue: 0,1:05:32.23,1:05:35.60,Default,右分屏,0,0,0,,{\an3}我有一堆没翻的书可以看看\N{\fs35}unread collection of books I like to look at.
-Dialogue: 0,1:05:36.08,1:05:38.43,Default,左分屏,0,0,0,,{\an1}丹尼斯 别挂 等我一下\N{\fs35}Dennis, hang on. I'm just gonna put you on hold for a second.
-Dialogue: 0,1:05:38.75,1:05:39.59,Default,右分屏,0,0,0,,{\an3}好吧\N{\fs35}Sure.
-Dialogue: 0,1:05:39.61,1:05:42.35,Default,右分屏,0,0,0,,{\an3}反正我也没别的事\N{\fs35}Yeah, I have nothing better to do.
-Dialogue: 0,1:05:48.17,1:05:51.40,Default,左分屏,0,0,0,,{\an1}嘿 哥们 抱歉久等了\N{\fs35}Hey, buddy, sorry that took so long. Um,
-Dialogue: 0,1:05:51.59,1:05:54.86,Default,左分屏,0,0,0,,{\an1}想不想一起来莫斯科过圣诞？\N{\fs35}how'd you like to spend Christmas in Moscow?
-Dialogue: 0,1:05:55.19,1:05:57.26,Default,右分屏,0,0,0,,{\an3}爱达荷州的莫斯科？\N{\fs35}Moscow, Idaho?
-Dialogue: 0,1:05:57.28,1:05:59.02,Default,左分屏,0,0,0,,{\an1}没错\N{\fs35}That's the one.
+Dialogue: 0,1:04:55.51,1:04:58.02,Default,左分屏,0,0,0,,{\pos(480,1020)}喂 哥们 都这么晚了 有什么事？\N{\fs35}Hey, buddy, it's late. Everything okay?
+Dialogue: 0,1:04:58.05,1:04:59.65,Default,右分屏,0,0,0,,{\pos(1440,1020)}抱歉 吵醒你了吗？\N{\fs35}Yeah, sorry. Did I wake you?
+Dialogue: 0,1:04:59.67,1:05:01.54,Default,左分屏,0,0,0,,{\pos(480,1020)}没事 就是和玛茜在一起\N{\fs35}No, no. Just, uh, hanging with Marcie.
+Dialogue: 0,1:05:01.57,1:05:03.87,Default,右分屏,0,0,0,,{\pos(1440,1020)}哦 对 玛茜 她真黏人\N{\fs35}Oh, right, Marcie. So needy.
+Dialogue: 0,1:05:03.89,1:05:07.12,Default,左分屏,0,0,0,,{\pos(480,1020)}- 免提开着呢 - 嗨 丹尼斯\N{\fs35}- Uh, you're on speaker. - Hi, Dennis.
+Dialogue: 0,1:05:07.14,1:05:08.96,Default,左分屏,0,0,0,,{\pos(480,1020)}有什么事吗？\N{\fs35}So, what's up?
+Dialogue: 0,1:05:08.98,1:05:11.98,Default,右分屏,0,0,0,,{\pos(1440,1020)}没什么 就想问问你们在干嘛\N{\fs35}Just wanted to see what you were doing.
+Dialogue: 0,1:05:12.15,1:05:14.29,Default,左分屏,0,0,0,,{\pos(480,1020)}没干嘛 聊着圣诞节\N{\fs35}we're doing nothing, talking about Christmas
+Dialogue: 0,1:05:14.31,1:05:18.19,Default,左分屏,0,0,0,,{\pos(480,1020)}和准备礼品的事儿\N{\fs35}and stockings and all the stuff we want to stuff in them.
+Dialogue: 0,1:05:18.32,1:05:20.09,Default,右分屏,0,0,0,,{\pos(1440,1020)}不错 嗯\N{\fs35}Nice. Mm.
+Dialogue: 0,1:05:20.22,1:05:22.35,Default,右分屏,0,0,0,,{\pos(1440,1020)}你圣诞节要回家过吗？\N{\fs35}Are you headed home for Christmas?
+Dialogue: 0,1:05:22.37,1:05:26.31,Default,右分屏,0,0,0,,{\pos(1440,1020)}我还是一个人过\N{\fs35}I'll be here, alone, again.
+Dialogue: 0,1:05:26.93,1:05:29.24,Default,右分屏,0,0,0,,{\pos(1440,1020)}别担心我 早习惯了\N{\fs35}I mean, don't worry about me. I'm used to it.
+Dialogue: 0,1:05:29.26,1:05:30.65,Default,右分屏,0,0,0,,{\pos(1440,1020)}总能找点事做\N{\fs35}I'm sure I'll find something to do.
+Dialogue: 0,1:05:30.67,1:05:32.21,Default,右分屏,0,0,0,,{\pos(1440,1020)}你知道的\N{\fs35}You know, I've got that whole
+Dialogue: 0,1:05:32.23,1:05:35.60,Default,右分屏,0,0,0,,{\pos(1440,1020)}我有一堆没翻的书可以看看\N{\fs35}unread collection of books I like to look at.
+Dialogue: 0,1:05:36.08,1:05:38.43,Default,左分屏,0,0,0,,{\pos(480,1020)}丹尼斯 别挂 等我一下\N{\fs35}Dennis, hang on. I'm just gonna put you on hold for a second.
+Dialogue: 0,1:05:38.75,1:05:39.59,Default,右分屏,0,0,0,,{\pos(1440,1020)}好吧\N{\fs35}Sure.
+Dialogue: 0,1:05:39.61,1:05:42.35,Default,右分屏,0,0,0,,{\pos(1440,1020)}反正我也没别的事\N{\fs35}Yeah, I have nothing better to do.
+Dialogue: 0,1:05:48.17,1:05:51.40,Default,左分屏,0,0,0,,{\pos(480,1020)}嘿 哥们 抱歉久等了\N{\fs35}Hey, buddy, sorry that took so long. Um,
+Dialogue: 0,1:05:51.59,1:05:54.86,Default,左分屏,0,0,0,,{\pos(480,1020)}想不想一起来莫斯科过圣诞？\N{\fs35}how'd you like to spend Christmas in Moscow?
+Dialogue: 0,1:05:55.19,1:05:57.26,Default,右分屏,0,0,0,,{\pos(1440,1020)}爱达荷州的莫斯科？\N{\fs35}Moscow, Idaho?
+Dialogue: 0,1:05:57.28,1:05:59.02,Default,左分屏,0,0,0,,{\pos(480,1020)}没错\N{\fs35}That's the one.
 Dialogue: 0,1:05:59.99,1:06:03.43,Music,,0,0,0,,{\an7}♪ 车窗摇 话随风拂\N{\fs35}{\i1}♪ She rolls the window down ♪{\i0}
 Dialogue: 0,1:06:04.32,1:06:08.13,Music,,0,0,0,,{\an7}♪ 她低语 盖过车吼 ♪\N{\fs35}{\i1}♪ And she talks over the sound ♪{\i0}
 Dialogue: 0,1:06:06.37,1:06:08.68,Default,,0,0,0,,丹尼斯 你后排坐得舒服吗？\N{\fs35}Do you have enough leg room, Dennis?
@@ -1567,8 +1570,8 @@ Dialogue: 0,1:29:24.70,1:29:26.63,Default,,0,0,0,,我待不了太久\N{\fs35}I c
 Dialogue: 0,1:29:31.61,1:29:33.25,Default,,0,0,0,,- 谢谢 - 请慢用\N{\fs35}- Thank you. - Sure thing.
 Dialogue: 0,1:29:34.95,1:29:37.55,Default,,0,0,0,,抱歉 不该点的\N{\fs35}Sorry, I shouldn't have ordered anything.
 Dialogue: 0,1:29:38.87,1:29:41.74,Default,,0,0,0,,- 来点三明治？ - 不用了\N{\fs35}- Do you want my sandwich? - No, I'm good.
-Dialogue: 0,1:29:51.89,1:29:53.93,Default,异口不同声,0,0,0,,{\an1}我升职了\N{\fs35}I got a promotion.
-Dialogue: 0,1:29:51.89,1:29:53.93,Default,异口不同声,0,0,0,,{\an3}最近好吗？\N{\fs35}How are you?
+Dialogue: 0,1:29:51.89,1:29:53.93,Default,异口不同声,0,0,0,,{\pos(480,1020)}我升职了\N{\fs35}I got a promotion.
+Dialogue: 0,1:29:51.89,1:29:53.93,Default,异口不同声,0,0,0,,{\pos(1440,1020)}最近好吗？\N{\fs35}How are you?
 Dialogue: 0,1:29:54.90,1:29:56.28,Default,,0,0,0,,恭喜啊\N{\fs35}Congrats.
 Dialogue: 0,1:29:56.66,1:30:00.48,Default,,0,0,0,,谢了 就是一次小乔迁吧\N{\fs35}Thanks. Sort of. It's a ladder move.
 Dialogue: 0,1:30:01.26,1:30:03.82,Default,,0,0,0,,请的哪家搬家公司？\N{\fs35}Lateral move?
@@ -1642,41 +1645,46 @@ Dialogue: 0,1:34:51.01,1:34:53.67,Default,,0,0,0,,是拿保龄球砸的吗？\N{
 Dialogue: 0,1:34:54.78,1:34:58.61,Default,,0,0,0,,他说双胞胎里 你才是好的一方\N{\fs35}He said you were... the good twin.
 Dialogue: 0,1:35:09.51,1:35:11.56,Default,,0,0,0,,其实是砖头砸的\N{\fs35}It was with a brick.
 Dialogue: 0,1:35:16.71,1:35:19.49,Default,,0,0,0,,二位吃得好吗？还需要点什么？\N{\fs35}How are y'all doing? Can I get you anything?
-Dialogue: 0,1:35:19.82,1:35:22.28,Default,异口同声,0,0,0,,我们要个打包盒\N{\fs35}Can we get a box to go?
+Dialogue: 0,1:35:19.82,1:35:22.28,Default,异口同声,0,0,0,,{\pos(480,1020)}我们要个打包盒\N{\fs35}Can we get a box to go?
+Dialogue: 0,1:35:19.82,1:35:22.28,Default,异口同声,0,0,0,,{\pos(1440,1020)}我们要个打包盒\N{\fs35}Can we get a box to go?
 Dialogue: 0,1:35:22.32,1:35:23.45,Default,,0,0,0,,没问题\N{\fs35}Sure thing.
-Dialogue: 0,1:35:36.24,1:35:39.27,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}主演\N迪伦·欧布莱恩 饰 罗曼和罗基
-Dialogue: 0,1:35:40.24,1:35:43.27,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}主演\N詹姆斯·斯威尼 饰 丹尼斯
-Dialogue: 0,1:35:44.24,1:35:47.27,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}主演\N艾斯琳·弗兰乔茜 饰 玛茜
-Dialogue: 0,1:35:48.26,1:35:51.29,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}主演\N克里斯·佩尔费蒂 饰 罗基男友乔治
-Dialogue: 0,1:35:52.42,1:35:55.45,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}主演\N弗朗索瓦·阿尔诺 饰 罗曼同事萨米
-Dialogue: 0,1:35:56.42,1:35:59.45,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,548)}{\fnHeiti SC}主演\N塔莎·史密斯 饰 互助会主持人夏洛特
-Dialogue: 0,1:36:00.26,1:36:03.29,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,548)}{\fnHeiti SC}主演\N劳伦·格拉汉姆 饰 罗曼罗基母亲丽莎
-Dialogue: 0,1:36:04.26,1:36:07.29,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,548)}{\fnHeiti SC}主演\N苏珊·朴 饰 丹尼斯上司赛吉\N克莉（克莉·奇奇诺） 饰 互助会成员
-Dialogue: 0,1:36:20.28,1:36:23.31,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,548)}{\fnHeiti SC}配乐\N郑在日
-Dialogue: 0,1:36:24.28,1:36:27.31,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,548)}{\fnHeiti SC}剪辑\N耐克·博亚诺夫
-Dialogue: 0,1:36:32.29,1:36:35.32,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,548)}{\fnHeiti SC}摄影\N格雷格·科顿
-Dialogue: 0,1:36:36.44,1:36:39.30,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}原创译制\N蒙太奇字幕组 
-Dialogue: 0,1:36:40.43,1:36:43.42,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,580)}{\fnHeiti SC}字幕贡献者\N翻译：XHD & NickCollect & 小p\N校对：yyy\h\h\h\h\h\h\h\h\h\h\N后期：NickCollect & novaeye\h
-Dialogue: 0,1:36:44.19,1:36:47.13,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,538)}{\fnHeiti SC}字幕许可CC BY‑NC‑SA 4.0\NTelegram和IRC交流群：MontageSubs
-Dialogue: 0,1:36:52.31,1:36:55.34,Credits,,0,0,0,,{\fs30\c00AAAAAA\3c&HA5CBEA&\bord1.8\pos(1560,568)}{\fnHeiti SC}制片人\N大卫·彭缪特\N詹姆斯·斯威尼
+Dialogue: 0,1:35:36.24,1:35:39.27,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N迪伦·欧布莱恩 饰 罗曼和罗基\N
+Dialogue: 0,1:35:40.24,1:35:43.27,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N詹姆斯·斯威尼 饰 丹尼斯
+Dialogue: 0,1:35:44.24,1:35:47.27,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N艾斯琳·弗兰乔茜 饰 玛茜
+Dialogue: 0,1:35:48.26,1:35:51.29,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N克里斯·佩尔费蒂 饰 罗基男友乔治
 Dialogue: 0,1:35:51.76,1:35:53.72,Music,,0,0,0,,♪ 算我走运\N{\fs35}{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:35:52.42,1:35:55.45,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N弗朗索瓦·阿尔诺 饰 罗曼同事萨米
+Dialogue: 0,1:35:56.42,1:35:59.45,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N塔莎·史密斯 饰 互助会主持人夏洛特
 Dialogue: 0,1:35:56.59,1:35:59.40,Music,,0,0,0,,♪ 念头成了缠绵的戏\N{\fs35}{\i1}♪ Better men wouldn't carry on ♪{\i0}
+Dialogue: 0,1:36:00.26,1:36:03.29,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N劳伦·格拉汉姆 饰 罗曼罗基母亲丽莎
 Dialogue: 0,1:36:01.21,1:36:03.66,Music,,0,0,0,,♪ 序幕早已散尽\N{\fs35}{\i1}♪ What was the first line? ♪{\i0}
+Dialogue: 0,1:36:04.26,1:36:07.29,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}主演\N苏珊·朴 饰 丹尼斯上司赛吉\N克莉（克莉·奇奇诺） 饰 互助会成员
 Dialogue: 0,1:36:04.77,1:36:09.17,Music,,0,0,0,,♪ 那时我们如此开心 ♪\N{\fs35}{\i1}♪ We had a good time ♪{\i0}
 Dialogue: 0,1:36:11.00,1:36:13.67,Music,,0,0,0,,♪ 与你相遇两回\N{\fs35}{\i1}♪ Know you twice ♪{\i0}
 Dialogue: 0,1:36:15.75,1:36:17.89,Music,,0,0,0,,♪ 算我走运\N{\fs35}{\i1}♪ So I'm the lucky one ♪{\i0}
 Dialogue: 0,1:36:20.22,1:36:23.14,Music,,0,0,0,,♪ 被命运揭穿\N{\fs35}{\i1}♪ Much better people proved me wrong ♪{\i0}
+Dialogue: 0,1:36:20.28,1:36:23.31,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}配乐\N郑在日
+Dialogue: 0,1:36:24.28,1:36:27.31,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}剪辑\N耐克·博亚诺夫
 Dialogue: 0,1:36:25.22,1:36:27.82,Music,,0,0,0,,♪ 促使把话说开\N{\fs35}{\i1}♪ They set a high price ♪{\i0}
 Dialogue: 0,1:36:29.90,1:36:32.13,Music,,0,0,0,,♪ 与你相识两回 ♪\N{\fs35}{\i1}♪ To know you twice ♪{\i0}
+Dialogue: 0,1:36:32.29,1:36:35.32,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}摄影\N格雷格·科顿
 Dialogue: 0,1:36:35.17,1:36:36.94,Music,,0,0,0,,♪ 算我走运\N{\fs35}{\i1}♪ So I'm the lucky one ♪{\i0}
+Dialogue: 0,1:36:36.44,1:36:39.30,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}原创译制\N蒙太奇字幕组
 Dialogue: 0,1:36:39.70,1:36:42.91,Music,,0,0,0,,♪ 把戏皆已演罢\N{\fs35}{\i1}♪ Nothing's new under the sun ♪{\i0}
+Dialogue: 0,1:36:40.43,1:36:43.42,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}字幕贡献者\N翻译：XHD & NickCollect & 小p\N校对：yyy\h\h\h\h\h\h\h\h\h\h\N后期：NickCollect & novaeye\h
+Dialogue: 0,1:36:44.19,1:36:47.13,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}字幕许可CC BY‑NC‑SA 4.0\NTelegram和IRC交流群：MontageSubs
 Dialogue: 0,1:36:44.49,1:36:47.39,Music,,0,0,0,,♪ 只剩你的表面\N{\fs35}{\i1}♪ Thought you could be all you know ♪{\i0}
 Dialogue: 0,1:36:49.48,1:36:51.82,Music,,0,0,0,,♪ 真相落下如重拳\N{\fs35}{\i1}♪ Strikes once ♪{\i0}
+Dialogue: 0,1:36:52.31,1:36:55.34,Credits,,0,0,0,,{\an2\pos(960,425)\fs28\fscy120\b1\shad0\fsp2\c&HFFFFFF&\1a&H00&\3c&H6CA9FF&\3a&H22&\bord5\blur1.2\be1}制片人\N大卫·彭缪特\N詹姆斯·斯威尼
 Dialogue: 0,1:36:52.83,1:36:57.77,Music,,0,0,0,,♪ 那时我们如此开心 ♪\N{\fs35}{\i1}♪ We had a good time ♪{\i0}
 Dialogue: 0,1:37:42.51,1:37:44.32,Music,,0,0,0,,♪ 算我走运\N{\fs35}{\i1}♪ So I'm the lucky one ♪{\i0}
 Dialogue: 0,1:37:56.68,1:38:01.18,Music,,0,0,0,,♪ 那时我们如此开心 ♪\N{\fs35}{\i1}♪ We had a good time ♪{\i0}
-Dialogue: 0,1:39:57.92,1:40:00.88,Default,,0,0,0,,{\an2\fs60\fscy120\1c00CCCCCC\b1}（彭缪特出品公司）
-Dialogue: 0,1:40:00.90,1:40:03.87,Default,,0,0,0,,{\an2\fs60\fscy120\1c00CCCCCC\b1}（后院计划影业）
-Dialogue: 0,1:40:03.89,1:40:06.89,Default,,0,0,0,,{\an2\fs60\fscy120\1c00CCCCCC\b1}（共和影业）
-Dialogue: 0,1:40:06.91,1:40:11.63,Default,,0,0,0,,{\an2\fs60\fscy120\1c00CCCCCC\b1}（狮门影业）
-Dialogue: 0,1:40:11.65,1:40:12.90,Default,,0,0,0,,{\an2\pos(960,540)\1c00CCCCCC&\fs60}蒙 太 奇 字 幕 组(MontageSubs)\N{\fs30}用爱发电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\blur0\shad0\bord0\fs30}\h\h{\r\1c00CCCCCC&\fs30}Powered by love
+Dialogue: 0,1:39:57.87,1:40:00.88,Closing,,0,0,0,,{\an2\pos(960,921)\fs90\fscy120\b1\bord3\blur0.6\3c&H202020&\1c&H2A4A7A&\clip(0,800,1920,828)}彭缪特出品公司
+Dialogue: 0,1:39:57.87,1:40:00.88,Closing,,0,0,0,,{\an2\pos(960,921)\fs90\fscy120\b1\bord3\blur0.6\3c&H202020&\1c&H749BC4&\clip(0,828,1920,856)}彭缪特出品公司
+Dialogue: 0,1:39:57.87,1:40:00.88,Closing,,0,0,0,,{\an2\pos(960,921)\fs90\fscy120\b1\bord3\blur0.6\3c&H202020&\1c&HDFE6E8&\clip(0,856,1920,890)}彭缪特出品公司
+Dialogue: 0,1:39:57.87,1:40:00.88,Closing,,0,0,0,,{\an2\pos(960,921)\fs90\fscy120\b1\bord3\blur0.6\3c&H202020&\1c&HAE6A4A&\clip(0,890,1920,906)}彭缪特出品公司
+Dialogue: 0,1:39:57.87,1:40:00.88,Closing,,0,0,0,,{\an2\pos(960,921)\fs90\fscy120\b1\bord3\blur0.6\3c&H202020&\1c&H572E1C&\clip(0,906,1920,920)}彭缪特出品公司
+Dialogue: 0,1:40:00.88,1:40:03.88,Closing,,0,0,0,,{\an2\fs60\fscy120\pos(960,837)\c&HEEEFEF&\3c&H403F40&\bord1\4c&H6A6769&\shad4}后院计划影业
+Dialogue: 0,1:40:03.88,1:40:06.91,Closing,,0,0,0,,{\fad(0,50)\fs120\pos(955,549)\c&H2B3243&\3c&H9CD3FE&\bord2.5\b1}共和影业
+Dialogue: 0,1:40:06.95,1:40:11.60,Closing,,0,0,0,,{\fad(700,700)\fs120\pos(960,780)\b1\c&H6A501C&\3c&HE4DCCB&\bord2\4c&HE2D5C4&\shad3}狮门影业{\b0}
+Dialogue: 0,1:40:11.84,1:40:12.90,Closing,,0,0,0,,{\an2\pos(960,540)\1c00CCCCCC&\fs60}蒙 太 奇 字 幕 组(MontageSubs)\N{\fs30}用爱发电 {\1c000000FF\blur1\bord1\shad1\3c00FFFFFF}♥{\blur0\shad0\bord0\fs30}\h\h{\r\1c00CCCCCC&\fs30}Powered by love
