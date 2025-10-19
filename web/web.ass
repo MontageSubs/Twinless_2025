@@ -1498,9 +1498,11 @@ Dialogue: 0,1:23:25.07,1:23:27.31,Default,,0,0,0,,确实不是镜子\N{\rEng}The
 Dialogue: 0,1:23:27.34,1:23:29.01,Default,,0,0,0,,这不怪吗？\N{\rEng}Don't you find this odd?
 Dialogue: 0,1:23:29.46,1:23:31.46,Default,,0,0,0,,是啊 真怪\N{\rEng}No, this is weird.
 Dialogue: 0,1:23:31.48,1:23:34.70,Default,,0,0,0,,非常 非常怪\N{\rEng}This is really, really weird.
-Dialogue: 0,1:23:34.83,1:23:38.23,Default,,0,0,0,,你就是卡拉威家的女孩\N{\rEng}Wait a sec. You live at the Callaway house.
-Dialogue: 0,1:23:38.25,1:23:41.07,Default,,0,0,0,,你就是夏令营的女孩\N{\rEng}And you're that girl from camp.
-Dialogue: 0,1:23:41.28,1:23:43.35,Default,异口同声,0,0,0,,他们把我认成了你了\N{\rEng}They thought I was you!
+Dialogue: 0,1:23:34.83,1:23:38.23,Default,,0,0,0,,原来你就是卡拉威家的女孩\N{\rEng}Wait a sec. You live at the Callaway house.
+Dialogue: 0,1:23:38.25,1:23:41.07,Default,,0,0,0,,原来你就是夏令营的女孩\N{\rEng}And you're that girl from camp.
+Comment: 0,1:23:41.28,1:23:43.35,Default,异口同声,0,0,0,,他们把我认成了你了\N{\rEng}They thought I was you!
+Dialogue: 0,1:23:41.28,1:23:43.35,Default,异口同声,0,0,0,,{\pos(480,1020)}他们把我认成了你了\N{\rEng}They thought I was you!
+Dialogue: 0,1:23:41.28,1:23:43.35,Default,异口同声,0,0,0,,{\pos(1440,1020)}他们把我认成了你了\N{\rEng}They thought I was you!
 Dialogue: 0,1:23:44.63,1:23:47.68,Default,,0,0,0,,今天谁先说？\N{\rEng}So who'd like to start today?
 Dialogue: 0,1:23:54.54,1:23:57.51,Default,,0,0,0,,行吧 没人开口的话我来\N{\rEng}Okay, if no one's gonna say it, then I'll say it.
 Dialogue: 0,1:23:57.53,1:24:01.15,Default,,0,0,0,,罗曼给大家发了邮件 说“丹恩”是你编的\N{\rEng}Roman sent us all an email that said you made Dean up,
@@ -1644,6 +1646,7 @@ Dialogue: 0,1:34:51.01,1:34:53.67,Default,,0,0,0,,是拿保龄球砸的吗？\N{
 Dialogue: 0,1:34:54.78,1:34:58.61,Default,,0,0,0,,他说双胞胎里 你才是好的一方\N{\rEng}He said you were... the good twin.
 Dialogue: 0,1:35:09.51,1:35:11.56,Default,,0,0,0,,其实是砖头砸的\N{\rEng}It was with a brick.
 Dialogue: 0,1:35:16.71,1:35:19.49,Default,,0,0,0,,二位吃得好吗？还需要点什么？\N{\rEng}How are y'all doing? Can I get you anything?
+Comment: 0,1:35:19.82,1:35:22.28,Default,异口同声,0,0,0,,我们要个打包盒\N{\rEng}Can we get a box to go?
 Dialogue: 0,1:35:19.82,1:35:22.28,Default,异口同声,0,0,0,,{\pos(480,1020)}我们要个打包盒\N{\rEng}Can we get a box to go?
 Dialogue: 0,1:35:19.82,1:35:22.28,Default,异口同声,0,0,0,,{\pos(1440,1020)}我们要个打包盒\N{\rEng}Can we get a box to go?
 Dialogue: 0,1:35:22.32,1:35:23.45,Default,,0,0,0,,没问题\N{\rEng}Sure thing.
