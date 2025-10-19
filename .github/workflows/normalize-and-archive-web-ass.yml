@@ -101,7 +101,6 @@ jobs:
 
       - name: Create/update lf-archive branch with normalized file
         id: archive
-        needs: prepare
         env:
           MESSAGE_FILE: commit_message.txt
           AUTHOR_NAME: ${{ steps.last_commit.outputs.author_name }}
