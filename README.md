@@ -42,37 +42,33 @@
 
 
 <h1 id="字幕下载">⬇️ 字幕下载</h1>
-<!--
+
 <table>
   <tr>
-    <th>字幕库</th>
-    <th>SubHD</th>
-    <th>射手网(伪)</th>
-    <th>OpenSubtitles</th>
+    <th>字幕库</th><th>SubHD</th><th>射手网(伪)</th><th>OpenSubtitles ass格式</th><th>OpenSubtitles srt 格式</th>
   </tr>
   <tr>
-    <td><a href="https://zimuku.org"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
-    <td><a href="https://subhd.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
-    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
+    <td><a href="https://zimuku.org/detail/220794.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.tv/a/599709"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://2.assrt.net/xml/sub/710/710771.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13334794/twinless-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
+    <td><a href="https://www.opensubtitles.org/en/subtitles/13334791/twinless-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
-</table>-->
+</table>
 
 <h2 id="字幕进度">⏳ 字幕进度</h2>
 
-- [ ] 时间轴
-- [ ] 翻译
-- [ ] 校对
-- [ ] 特效
-- [ ] 发布
+- [X] 时间轴
+- [X] 翻译
+- [X] 校对
+- [X] 特效
+- [X] 发布
 
 
 <details>
 <summary id="待办事项">📝 待办事项</summary>
 
-- [ ] 翻译第00:03:01-00:04:00（100%）
-- [ ] 特效00:04:00（50%）
-- [ ] 调整GitHub Readme（0%）
+- 暂无公开待办列表
 
 </details>
 
