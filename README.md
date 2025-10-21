@@ -50,7 +50,7 @@
   <tr>
     <td><a href="https://zimuku.org/detail/220794.html"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
     <td><a href="https://subhd.tv/a/599709"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
-    <td><a href="https://2.assrt.net/xml/sub/710/710771.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://2.assrt.net/xml/sub/668/668058.xml"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
     <td><a href="https://www.opensubtitles.org/en/subtitles/13334794/twinless-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles ass" width="24" height="24"/></a></td>
     <td><a href="https://www.opensubtitles.org/en/subtitles/13334791/twinless-zh"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles srt" width="24" height="24"/></a></td>
   </tr>
